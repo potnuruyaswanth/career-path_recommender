@@ -1,0 +1,20 @@
+{
+  "career_id": "bsc_nursing",
+  "display_name": "B.Sc Nursing",
+  "stream": "science",
+  "variant": "bipc",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["bsc_nursing"],
+  "exams_required": ["state_cet"],
+  "salary_band": {
+    "entry": "₹3–5 LPA",
+    "mid": "₹6–10 LPA",
+    "senior": "₹15+ LPA"
+  },
+  "failure_safe_paths": [
+    "GNM nursing",
+    "Hospital technician roles",
+    "Healthcare administration"
+  ]
+}

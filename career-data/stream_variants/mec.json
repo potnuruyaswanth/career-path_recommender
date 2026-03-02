@@ -1,0 +1,8 @@
+{
+  "id": "variant:mec",
+  "type": "stream_variant",
+  "display_name": "MEC (Mathematics, Economics, Commerce)",
+  "subjects": ["Mathematics", "Economics", "Commerce"],
+  "eligible_after": "education:class_10",
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+}

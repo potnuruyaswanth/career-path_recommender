@@ -1,0 +1,8 @@
+{
+  "id": "exam:nda",
+  "type": "exam",
+  "display_name": "NDA",
+  "requires": ["education:class_10"],
+  "leads_to": ["career:defense_officer","course:defense_technical_courses"],
+  "metadata": { "source": ["official_exam_org"], "last_reviewed": "2026-01-11", "version": 1 }
+}

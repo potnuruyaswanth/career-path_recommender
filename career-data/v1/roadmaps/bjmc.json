@@ -1,0 +1,39 @@
+{
+  "career_id": "bjmc",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand media industry roles",
+        "Build communication skills",
+        "Start writing or content creation"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BJMC degree",
+        "Intern with media houses",
+        "Join as reporter or content creator"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "4–7 years",
+      "steps": [
+        "Specialize in digital media / broadcast",
+        "Build strong personal brand",
+        "Move into editorial or leadership roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Media internship"],
+    "mid_term": ["Reporter / editor role"],
+    "long_term": ["Senior journalist / media head"]
+  },
+  "tips_for_success": [
+    "Portfolio matters more than degree",
+    "Digital skills are essential",
+    "Credibility is everything"
+  ]
+}

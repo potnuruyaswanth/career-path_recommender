@@ -1,0 +1,28 @@
+{
+  "id": "stream:science",
+  "type": "stream",
+  "display_name": "Science",
+  "short_description": "Science stream focusing on mathematics and/or biology leading to technical and medical careers.",
+  "description": "Science stream offers multiple specialized paths: PCM (Physics-Chemistry-Maths) for engineering careers, PCB (Physics-Chemistry-Biology) for medical careers, and PCMB for maximum flexibility. Each combination leads to competitive exams, specialized degrees, and diverse career options in technology, healthcare, research, and government sectors.",
+  "paths": [
+    {
+      "variant": "variant:mpc",
+      "exams": ["exam:jee", "exam:state_cet", "exam:nda"],
+      "courses": ["course:engineering_btech", "course:bsc"],
+      "careers": ["career:software_engineer", "career:data_scientist", "career:ai_engineer", "career:core_engineer", "career:psu_officer"]
+    },
+    {
+      "variant": "variant:bipc",
+      "exams": ["exam:neet"],
+      "courses": ["course:mbbs", "course:bds", "course:bpharm", "course:nursing"],
+      "careers": ["career:doctor", "career:pharmacist", "career:research_scientist", "career:healthcare_manager"]
+    },
+    {
+      "variant": "variant:pcmb",
+      "exams": ["exam:jee", "exam:neet", "exam:state_cet"],
+      "courses": ["course:engineering_btech", "course:mbbs", "course:bsc"],
+      "careers": ["career:software_engineer", "career:doctor", "career:data_scientist", "career:research_scientist"]
+    }
+  ],
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 2 }
+}

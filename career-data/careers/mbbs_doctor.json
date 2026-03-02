@@ -1,0 +1,55 @@
+{
+  "id": "career:mbbs_doctor",
+  "display_name": "MBBS / Doctor",
+  "stream": "Science",
+  "icon": "🩺",
+  "description": "Medical professional treating patients and saving lives",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1–2 years",
+      "title": "Decision & Preparation",
+      "steps": [
+        "Understand medical profession responsibilities",
+        "Prepare Biology, Physics, Chemistry deeply",
+        "Prepare for NEET entrance exam"
+      ]
+    },
+    "career_entry": {
+      "duration": "5–6 years",
+      "title": "Career Entry",
+      "steps": [
+        "Complete MBBS degree",
+        "Finish compulsory internship",
+        "Register with Medical Council"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–7 years",
+      "title": "Growth & Specialization",
+      "steps": [
+        "Choose specialization (MD/MS)",
+        "Gain hospital or clinical experience",
+        "Establish private practice or senior hospital role"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": {
+      "label": "SHORT TERM (0-2 years)",
+      "milestones": ["Clear NEET", "Join MBBS"]
+    },
+    "mid_term": {
+      "label": "MID TERM (2-5 years)",
+      "milestones": ["Complete MBBS + Internship"]
+    },
+    "long_term": {
+      "label": "LONG TERM (5+ years)",
+      "milestones": ["Specialist Doctor / Consultant"]
+    }
+  },
+  "tips_for_success": [
+    "Strong discipline and empathy are essential",
+    "Continuous learning is mandatory",
+    "Clinical exposure matters more than marks"
+  ]
+}

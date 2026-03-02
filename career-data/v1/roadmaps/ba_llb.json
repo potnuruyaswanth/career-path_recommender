@@ -1,0 +1,39 @@
+{
+  "career_id": "ba_llb",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand legal profession demands",
+        "Prepare for law entrance exams (CLAT)",
+        "Build reading and reasoning skills"
+      ]
+    },
+    "career_entry": {
+      "duration": "5 years",
+      "steps": [
+        "Complete BA LLB degree",
+        "Do internships under advocates",
+        "Enroll with State Bar Council"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–10 years",
+      "steps": [
+        "Choose specialization (criminal, corporate, civil)",
+        "Build independent legal practice",
+        "Move into senior advocacy or judiciary"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Clear CLAT"],
+    "mid_term": ["Enroll as advocate"],
+    "long_term": ["Senior advocate / judge"]
+  },
+  "tips_for_success": [
+    "Court exposure matters more than theory",
+    "Networking is crucial",
+    "Patience defines legal success"
+  ]
+}

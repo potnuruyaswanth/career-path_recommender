@@ -1,0 +1,12 @@
+{
+  "id": "variant:hsp",
+  "name": "HSP",
+  "full_name": "History – Sociology – Political Science",
+  "stream": "stream:arts",
+  "description": "Humanities variant centered on social sciences and governance, ideal for social work, NGOs, and research roles.",
+  "course_eligibility": ["course:ba_sociology", "course:ba_social_work", "course:ba_humanities"],
+  "exam_options": ["exam:upsc", "exam:state_psc"],
+  "career_focus": ["Social Worker", "NGO", "Research Assistant"],
+  "recovery_options": ["Community work + certification", "Govt welfare exams"],
+  "difficulty_level": "Medium"
+}

@@ -1,0 +1,79 @@
+{
+  "ai_rank_inputs": {
+    "allowed_factors": [
+      {
+        "id": "interest_tags",
+        "label": "Student Interests",
+        "description": "What fields or activities interest the student",
+        "example": ["problem_solving", "helping_people", "creativity"]
+      },
+      {
+        "id": "skill_tags",
+        "label": "Emerging Skills",
+        "description": "Skills the student is developing or shows aptitude for",
+        "example": ["mathematics", "communication", "research"]
+      },
+      {
+        "id": "study_preference",
+        "label": "Study Preference",
+        "description": "Theoretical vs practical learning preference",
+        "example": "practical"
+      },
+      {
+        "id": "time_commitment",
+        "label": "Time Commitment",
+        "description": "Duration of study the student is willing to pursue",
+        "example": "4 years"
+      },
+      {
+        "id": "work_environment",
+        "label": "Work Environment",
+        "description": "Preferred work setting (lab, office, field, etc)",
+        "example": "office"
+      },
+      {
+        "id": "social_impact",
+        "label": "Social Impact",
+        "description": "Desire to make a positive social contribution",
+        "example": true
+      }
+    ],
+    "restricted_factors": [
+      {
+        "id": "salary_expectations",
+        "label": "Salary/Income",
+        "reason": "Salary varies widely and shouldn't drive career choice at this stage"
+      },
+      {
+        "id": "college_rank",
+        "label": "College Rankings",
+        "reason": "Rankings are subjective and shouldn't limit student potential"
+      },
+      {
+        "id": "guaranteed_outcomes",
+        "label": "Guaranteed Employment",
+        "reason": "No career path guarantees specific outcomes"
+      },
+      {
+        "id": "parental_expectation",
+        "label": "Parental Pressure",
+        "reason": "Student choice should be student-driven, not pressure-driven"
+      },
+      {
+        "id": "peer_comparison",
+        "label": "Peer Comparisons",
+        "reason": "Each student has unique path and timeline"
+      },
+      {
+        "id": "prestige_only",
+        "label": "Prestige/Status Only",
+        "reason": "Career choice should be holistic, not just status"
+      }
+    ],
+    "ranking_logic": {
+      "rule": "Match interests and emerging skills against career requirements",
+      "example": "If student has 'helping_people' interest + 'biology' skill, doctor path gets high score",
+      "safety": "Always explain reasoning, never just output a score"
+    }
+  }
+}

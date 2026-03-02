@@ -1,0 +1,56 @@
+{
+  "id": "guidance:hybrid_skills",
+  "type": "guidance",
+  "display_name": "Hybrid Skills & Future Direction",
+  "version": 1,
+  "last_updated": "2026-01-14",
+  "description": "Strategic approach to combining academic streams with complementary skills for competitive advantage in modern job market.",
+  "key_insight": "Single degree ❌ | Hybrid Skills ✔",
+  "skill_combinations": [
+    {
+      "stream": "Science",
+      "base_degree": "B.Tech / Engineering",
+      "complementary_skills": ["AI/ML", "Data Analytics", "Business Management", "Digital Marketing"],
+      "example_path": "Science (PCM) → B.Tech → AI/ML Specialization + MBA",
+      "outcome": "Tech Leader / Startup Founder"
+    },
+    {
+      "stream": "Commerce",
+      "base_degree": "B.Com / BBA",
+      "complementary_skills": ["Data Analytics", "Financial Technology", "Digital Marketing", "Coding Basics"],
+      "example_path": "Commerce (MEC) → B.Com → Data Analytics + Finance",
+      "outcome": "FinTech Professional / Financial Analyst"
+    },
+    {
+      "stream": "Arts",
+      "base_degree": "BA / Humanities",
+      "complementary_skills": ["Policy Analysis", "Digital Tools", "Content Writing", "Data Visualization"],
+      "example_path": "Arts → BA → Public Policy + Data Analytics",
+      "outcome": "Policy Analyst / Think Tank Researcher"
+    },
+    {
+      "stream": "Vocational",
+      "base_degree": "ITI / Polytechnic",
+      "complementary_skills": ["Technical + Business Skills", "Entrepreneurship", "Online Certifications"],
+      "example_path": "Technical Skills (ITI) → Lateral Entry B.Tech → Business Management",
+      "outcome": "Entrepreneur / Technical Manager"
+    }
+  ],
+  "online_learning_platforms": [
+    "Coursera - University & Professional Certificates",
+    "edX - Elite University Courses",
+    "Udemy - Skill-Specific Training",
+    "LinkedIn Learning - Professional Skills",
+    "Google Career Certificates - Practical Skills",
+    "AWS/Azure Certifications - Cloud Computing",
+    "Tableau/Power BI - Data Visualization"
+  ],
+  "implementation_strategy": {
+    "during_undergraduate": "Balance academics with 1-2 online courses per semester",
+    "internships": "Choose roles that develop complementary skills",
+    "post_graduation": "Pursue specialized certifications while working",
+    "continuous_learning": "Dedicate 5-10 hours/week to skill development"
+  },
+  "market_trend": "Employers increasingly value skill combinations over single specialization",
+  "competitive_advantage": "Students with hybrid skills have 3-5x better job prospects and higher salary packages"
+}

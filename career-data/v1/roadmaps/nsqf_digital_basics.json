@@ -1,0 +1,39 @@
+{
+  "career_id": "nsqf_digital_basics",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1–3 months",
+      "steps": [
+        "Understand digital skill programs",
+        "Choose NSQF-aligned course",
+        "Assess basic computer readiness"
+      ]
+    },
+    "career_entry": {
+      "duration": "6–12 months",
+      "steps": [
+        "Complete digital certification",
+        "Start entry-level IT or support role",
+        "Build basic tech experience"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–5 years",
+      "steps": [
+        "Advance into specialized IT skills",
+        "Gain certifications",
+        "Move into higher technical roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["NSQF certification"],
+    "mid_term": ["IT support role"],
+    "long_term": ["Skilled IT professional"]
+  },
+  "tips_for_success": [
+    "Practice daily",
+    "Certifications increase employability",
+    "Hands-on skills matter most"
+  ]
+}

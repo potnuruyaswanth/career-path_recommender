@@ -1,0 +1,72 @@
+{
+  "id": "career:software_engineer",
+  "type": "career",
+  "display_name": "Software Engineer",
+  "description": "Designs, builds, and maintains software products and systems across web, mobile, and backend platforms.",
+  "attributes": {"course_ids": ["course:engineering_btech", "course:bsc"], "career_type": "Private", "nature": "Technical", "nba_attributes": {"has_exam": true, "has_degree": true, "is_skill_based": true, "exam_types": ["jee", "state_cet"]}},
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "0-1 years",
+      "title": "Decision & Preparation",
+      "steps": [
+        "Choose PCM (Maths) and focus on fundamentals",
+        "Prepare for JEE / State CET or equivalent",
+        "Build coding basics with Python/JavaScript and logical reasoning"
+      ]
+    },
+    "career_entry": {
+      "duration": "4 years",
+      "title": "Career Entry",
+      "steps": [
+        "Enroll in B.Tech (CSE/IT) or allied degree",
+        "Complete core CS courses: DSA, OS, DBMS, Networks, OOP",
+        "Do internships or industry projects each summer",
+        "Publish or maintain 2-3 projects (web, mobile, or backend)"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "2-5 years",
+      "title": "Growth & Specialization",
+      "steps": [
+        "Pick a track: backend, frontend, mobile, data/ML, or DevOps",
+        "Earn role-relevant certs (cloud, Kubernetes, security as needed)",
+        "Work on scalable systems and reliability practices",
+        "Mentor juniors and contribute to engineering communities"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": {
+      "label": "SHORT TERM (0-1 years)",
+      "milestones": [
+        "Crack JEE / State CET (or institute entrance)",
+        "Join B.Tech CSE/IT or equivalent program"
+      ]
+    },
+    "mid_term": {
+      "label": "MID TERM (2-4 years)",
+      "milestones": [
+        "Ship 2-3 internships or substantial projects",
+        "Master data structures & algorithms for interviews",
+        "Build an open-source or portfolio project with users"
+      ]
+    },
+    "long_term": {
+      "label": "LONG TERM (5+ years)",
+      "milestones": [
+        "Lead projects or small teams",
+        "Specialize in a depth area (architecture, ML, security, SRE)",
+        "Demonstrate system design and scalability expertise"
+      ]
+    }
+  },
+  "tips_for_success": [
+    "Keep a consistent DSA + systems practice rhythm alongside coursework",
+    "Maintain a visible portfolio (GitHub/portfolio site) with clean READMEs",
+    "Intern early and often; convert one internship into a PPO if possible",
+    "Learn version control, testing, CI/CD, and basic cloud early",
+    "Network via hackathons, meetups, and referrals; seek regular code reviews"
+  ],
+  "skills": ["skill:problem_solving", "skill:coding_basics"],
+  "metadata": { "source": ["industry_consensus"], "last_reviewed": "2026-01-23", "version": 2 }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "variant:creative_service_skills",
+  "type": "stream_variant",
+  "display_name": "Creative / Service Skills",
+  "subjects": ["Graphic Design", "Web Design", "Hospitality", "Tourism", "Healthcare Support", "Beauty & Wellness"],
+  "eligible_after": "education:class_10",
+  "description": "Skill-based certification programs in creative and service industries.",
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+}

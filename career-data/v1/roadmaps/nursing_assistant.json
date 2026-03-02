@@ -1,0 +1,39 @@
+{
+  "career_id": "nursing_assistant",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "3 months",
+      "steps": [
+        "Understand healthcare assistant roles",
+        "Assess physical and emotional readiness",
+        "Choose certified training institute"
+      ]
+    },
+    "career_entry": {
+      "duration": "1–2 years",
+      "steps": [
+        "Complete nursing assistant course",
+        "Work in hospitals or clinics",
+        "Assist nurses and doctors"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "4–7 years",
+      "steps": [
+        "Upgrade to ANM / GNM",
+        "Specialize in departments",
+        "Senior healthcare support roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Certification"],
+    "mid_term": ["Hospital role"],
+    "long_term": ["Senior nursing assistant"]
+  },
+  "tips_for_success": [
+    "Empathy is essential",
+    "Hygiene and discipline matter",
+    "Further study increases scope"
+  ]
+}

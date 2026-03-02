@@ -1,0 +1,55 @@
+{
+  "id": "career:iti",
+  "display_name": "ITI / Technician",
+  "stream": "Vocational",
+  "icon": "🧰",
+  "description": "Skilled technician with hands-on training in various trades",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "6 months",
+      "title": "Decision & Preparation",
+      "steps": [
+        "Choose suitable trade",
+        "Apply for ITI admission",
+        "Understand trade requirements"
+      ]
+    },
+    "career_entry": {
+      "duration": "1–2 years",
+      "title": "Career Entry",
+      "steps": [
+        "Complete ITI training",
+        "Join apprenticeship",
+        "Start skilled job"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–5 years",
+      "title": "Growth & Specialization",
+      "steps": [
+        "Upgrade skills",
+        "Become supervisor or contractor",
+        "Start own service business"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": {
+      "label": "SHORT TERM (0-2 years)",
+      "milestones": ["Complete ITI"]
+    },
+    "mid_term": {
+      "label": "MID TERM (2-4 years)",
+      "milestones": ["Skilled technician"]
+    },
+    "long_term": {
+      "label": "LONG TERM (4+ years)",
+      "milestones": ["Supervisor / Business owner"]
+    }
+  },
+  "tips_for_success": [
+    "Hands-on skills matter most",
+    "Certifications improve pay",
+    "Experience beats degrees here"
+  ]
+}

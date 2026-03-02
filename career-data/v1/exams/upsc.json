@@ -1,0 +1,10 @@
+{
+  "exam_id": "upsc",
+  "display_name": "UPSC (Civil Services Exam)",
+  "exam_type": "competitive",
+  "career_paths": ["civil_services"],
+  "difficulty": "very_high",
+  "status": "active",
+  "last_verified": "2025-12",
+  "alternatives": ["state_psc", "ssc", "banking_exam"]
+}

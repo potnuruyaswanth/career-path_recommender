@@ -1,0 +1,9 @@
+{
+  "exam_id": "ca_foundation",
+  "display_name": "CA Foundation",
+  "exam_type": "professional",
+  "career_paths": ["chartered_accountant"],
+  "difficulty": "high",
+  "status": "active",
+  "last_verified": "2025-12"
+}

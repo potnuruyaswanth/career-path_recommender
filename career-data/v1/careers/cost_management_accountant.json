@@ -1,0 +1,56 @@
+{
+  "career_id": "cost_management_accountant",
+  "display_name": "Cost & Management Accountant (CMA)",
+  "stream": "commerce",
+  "variant": "mec",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["cma_foundation"],
+  "exams_required": ["cma_foundation"],
+  "salary_band": {
+    "entry": "₹5–8 LPA",
+    "mid": "₹12–20 LPA",
+    "senior": "₹30+ LPA"
+  },
+  "failure_safe_paths": [
+    "Financial analyst roles",
+    "MBA",
+    "Cost auditor roles"
+  ],
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand cost and finance roles",
+        "Register for CMA Foundation",
+        "Build costing and analysis skills"
+      ]
+    },
+    "career_entry": {
+      "duration": "3–4 years",
+      "steps": [
+        "Clear CMA exams",
+        "Complete training",
+        "Join corporate finance teams"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–6 years",
+      "steps": [
+        "Move into financial planning roles",
+        "Handle budgeting & strategy",
+        "Become finance controller"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Clear CMA Foundation"],
+    "mid_term": ["CMA Qualified"],
+    "long_term": ["Finance Controller"]
+  },
+  "tips_for_success": [
+    "Analytical thinking is key",
+    "Corporate exposure matters",
+    "Strategy roles come with experience"
+  ]
+}

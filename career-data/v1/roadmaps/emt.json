@@ -1,0 +1,40 @@
+{
+  "career_id": "emt",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1–2 months",
+      "steps": [
+        "Understand emergency care responsibilities",
+        "Assess physical and mental readiness",
+        "Learn basic first aid and CPR"
+      ]
+    },
+    "career_entry": {
+      "duration": "6–18 months",
+      "steps": [
+        "Complete EMT training",
+        "Intern with ambulance/emergency dept",
+        "Practice triage and stabilization",
+        "Learn equipment handling and documentation"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "4–7 years",
+      "steps": [
+        "Advance to senior EMT/paramedic",
+        "Specialize in critical care transport",
+        "Move into training or coordination roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["EMT certification"],
+    "mid_term": ["Senior EMT/paramedic"],
+    "long_term": ["Training lead/coordination"]
+  },
+  "tips_for_success": [
+    "Stay calm under pressure",
+    "Keep skills updated with drills",
+    "Prioritize safety and clear communication"
+  ]
+}

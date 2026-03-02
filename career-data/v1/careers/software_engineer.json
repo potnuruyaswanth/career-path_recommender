@@ -1,0 +1,27 @@
+{
+  "career_id": "software_engineer",
+  "display_name": "Software Engineer",
+  "stream": "science",
+  "variant": "mpc",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": [
+    "b_tech_cse",
+    "b_sc_cs",
+    "bca"
+  ],
+  "exams_required": [
+    "jee",
+    "state_cet"
+  ],
+  "salary_band": {
+    "entry": "₹4–8 LPA",
+    "mid": "₹10–18 LPA",
+    "senior": "₹25+ LPA"
+  },
+  "failure_safe_paths": [
+    "IT support roles",
+    "Web development certifications",
+    "Freelancing / startups"
+  ]
+}

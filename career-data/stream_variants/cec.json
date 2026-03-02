@@ -1,0 +1,36 @@
+{
+  "id": "variant:cec",
+  "name": "CEC",
+  "full_name": "Civics – Economics – Commerce",
+  "stream": "stream:commerce",
+  "description": "Commerce stream variant focused on economics, civics/governance, and commerce fundamentals. Ideal for banking, government administration, and public policy aligned commerce roles.",
+  "characteristics": {
+    "focus": "Commerce + Governance",
+    "subjects": ["Civics/Political Science", "Economics", "Commerce/Accounting"],
+    "optional": ["Statistics", "Business Studies"],
+    "target_students": "Banking/government aspirants, admin/public policy inclined",
+    "aptitude": "Numeracy, reasoning, current affairs awareness"
+  },
+  "career_pathways": {
+    "direct": ["Banking", "Government Clerical/Administrative", "Accounts/Operations"],
+    "with_additional_studies": ["MBA", "M.Com", "Public Administration", "Law (LLB)"],
+    "exams": ["IBPS", "SBI", "SSC", "State PSC"]
+  },
+  "course_eligibility": ["course:bcom", "course:ba_economics", "course:ba_public_admin"],
+  "progression": {
+    "11th_12th": "Commerce with civics/political science and economics focus",
+    "after_12th": "B.Com / BA Economics / BA Public Administration → banking/government jobs",
+    "after_graduation": "MBA/M.Com/LLB or competitive exams (IBPS/SBI/SSC/State PSC)"
+  },
+  "advantages": [
+    "Strong fit for banking exams",
+    "Civics/economics blend supports UPSC/PSC prep",
+    "Open path to MBA and M.Com"
+  ],
+  "challenges": [
+    "Mathematics lighter than MEC",
+    "High competition in banking/government exams"
+  ],
+  "difficulty_level": "Medium",
+  "market_demand": "High for banking/admin roles"
+}

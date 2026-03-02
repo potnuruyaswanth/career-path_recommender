@@ -1,0 +1,55 @@
+{
+  "id": "career:ba_llb_law",
+  "display_name": "BA LLB / Lawyer",
+  "stream": "Arts",
+  "icon": "⚖️",
+  "description": "Legal professional practicing law and advocating justice",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "title": "Decision & Preparation",
+      "steps": [
+        "Understand legal profession",
+        "Prepare for CLAT or law entrances",
+        "Develop reading & reasoning skills"
+      ]
+    },
+    "career_entry": {
+      "duration": "5 years",
+      "title": "Career Entry",
+      "steps": [
+        "Complete BA LLB",
+        "Clear Bar Council exam",
+        "Start practice or join law firm"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–6 years",
+      "title": "Growth & Specialization",
+      "steps": [
+        "Specialize in civil/criminal/corporate law",
+        "Build case portfolio",
+        "Move into senior advocate roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": {
+      "label": "SHORT TERM (0-1 years)",
+      "milestones": ["Clear law entrance"]
+    },
+    "mid_term": {
+      "label": "MID TERM (1-5 years)",
+      "milestones": ["Law graduate"]
+    },
+    "long_term": {
+      "label": "LONG TERM (5+ years)",
+      "milestones": ["Senior Advocate / Judge"]
+    }
+  },
+  "tips_for_success": [
+    "Strong reading habit is essential",
+    "Court exposure matters",
+    "Networking is powerful in law"
+  ]
+}

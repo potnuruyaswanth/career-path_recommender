@@ -1,0 +1,56 @@
+{
+  "career_id": "bba",
+  "display_name": "BBA / Business Administration",
+  "stream": "commerce",
+  "variant": "mec",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["bba"],
+  "exams_required": [],
+  "salary_band": {
+    "entry": "₹3–5 LPA",
+    "mid": "₹6–10 LPA",
+    "senior": "₹15+ LPA"
+  },
+  "failure_safe_paths": [
+    "MBA",
+    "Sales & marketing roles",
+    "Startup roles"
+  ],
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand business & management roles",
+        "Build communication and leadership skills",
+        "Choose specialization interest (HR/Marketing/Finance)"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BBA degree",
+        "Do internships in corporate roles",
+        "Start as management trainee or executive"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–7 years",
+      "steps": [
+        "Pursue MBA",
+        "Move into managerial roles",
+        "Handle teams and business units"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Complete BBA"],
+    "mid_term": ["MBA or management role"],
+    "long_term": ["Business Manager / Leader"]
+  },
+  "tips_for_success": [
+    "Soft skills are as important as academics",
+    "Internships build real value",
+    "MBA accelerates growth"
+  ]
+}

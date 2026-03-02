@@ -1,0 +1,7 @@
+{
+  "id": "course:mbbs",
+  "type": "course",
+  "display_name": "MBBS / Medical",
+  "attributes": {"eligible_stream_variants": ["variant:bipc"], "duration_years": 5, "entry_exams": ["exam:neet"]},
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+}

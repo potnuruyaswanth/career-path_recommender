@@ -1,0 +1,30 @@
+[
+  {
+    "id": "stream:science",
+    "type": "stream",
+    "display_name": "Science",
+    "short_description": "Science stream focusing on mathematics and/or biology leading to technical and medical careers.",
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+  },
+  {
+    "id": "stream:commerce",
+    "type": "stream",
+    "display_name": "Commerce",
+    "short_description": "Commerce stream focusing on business, economics, and accountancy leading to finance and business careers.",
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+  },
+  {
+    "id": "stream:arts",
+    "type": "stream",
+    "display_name": "Arts / Humanities",
+    "short_description": "Arts stream focusing on humanities, social sciences, and liberal arts leading to government, law, journalism, and teaching careers.",
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+  },
+  {
+    "id": "stream:vocational",
+    "type": "stream",
+    "display_name": "Vocational / Skill-Based Education",
+    "short_description": "Vocational stream focusing on practical skills and technical training leading to skilled trades and technical careers.",
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+  }
+]

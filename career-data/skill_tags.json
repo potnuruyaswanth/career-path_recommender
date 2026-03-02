@@ -1,0 +1,74 @@
+{
+  "skill_tags": [
+    {
+      "id": "skill:coding",
+      "label": "Coding & Programming",
+      "description": "Software development and programming skills",
+      "develop_during": ["degree:btech", "degree:bsc"],
+      "required_for": ["career:software_engineer", "career:data_scientist"]
+    },
+    {
+      "id": "skill:communication",
+      "label": "Communication",
+      "description": "Verbal and written communication skills",
+      "develop_during": ["degree:ba", "degree:bcom", "degree:law"],
+      "required_for": ["career:teacher", "career:lawyer", "career:manager"]
+    },
+    {
+      "id": "skill:mathematics",
+      "label": "Mathematics & Numeracy",
+      "description": "Mathematical and numerical problem-solving",
+      "develop_during": ["degree:btech", "degree:bcom", "degree:bsc"],
+      "required_for": ["career:software_engineer", "career:accountant", "career:data_scientist"]
+    },
+    {
+      "id": "skill:research",
+      "label": "Research Skills",
+      "description": "Literature review, data collection, analysis",
+      "develop_during": ["degree:bsc", "degree:ba", "pg:phd"],
+      "required_for": ["career:researcher", "career:scientist", "career:professor"]
+    },
+    {
+      "id": "skill:clinical_knowledge",
+      "label": "Clinical Knowledge",
+      "description": "Medical and healthcare understanding",
+      "develop_during": ["degree:mbbs"],
+      "required_for": ["career:doctor", "career:medical_specialist"]
+    },
+    {
+      "id": "skill:legal_analysis",
+      "label": "Legal Analysis",
+      "description": "Legal reasoning and law application",
+      "develop_during": ["degree:law"],
+      "required_for": ["career:lawyer", "career:judge", "career:legal_consultant"]
+    },
+    {
+      "id": "skill:design_thinking",
+      "label": "Design Thinking",
+      "description": "User-centric problem solving and design",
+      "develop_during": ["degree:btech"],
+      "required_for": ["career:software_engineer", "career:designer"]
+    },
+    {
+      "id": "skill:financial_analysis",
+      "label": "Financial Analysis",
+      "description": "Financial planning and analysis skills",
+      "develop_during": ["degree:bcom"],
+      "required_for": ["career:accountant", "career:finance_professional", "career:ca"]
+    },
+    {
+      "id": "skill:project_management",
+      "label": "Project Management",
+      "description": "Planning, execution, and delivery of projects",
+      "develop_during": ["degree:btech", "pg:mba"],
+      "required_for": ["career:manager", "career:project_lead"]
+    },
+    {
+      "id": "skill:critical_thinking",
+      "label": "Critical Thinking",
+      "description": "Analytical reasoning and problem analysis",
+      "develop_during": ["all_degrees"],
+      "required_for": ["all_careers"]
+    }
+  ]
+}

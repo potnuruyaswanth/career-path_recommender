@@ -1,0 +1,9 @@
+{
+  "id": "exam:state_psc",
+  "type": "exam",
+  "display_name": "State Public Service Commission",
+  "requires": ["education:class_12", "course:ba_humanities"],
+  "leads_to": ["career:state_officer", "career:state_police"],
+  "description": "State-level civil service exams conducted by various state PSCs for state government positions.",
+  "metadata": { "source": ["official_exam_org"], "last_reviewed": "2026-01-14", "version": 1 }
+}

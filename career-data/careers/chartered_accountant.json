@@ -1,0 +1,55 @@
+{
+  "id": "career:chartered_accountant",
+  "display_name": "Chartered Accountant (CA)",
+  "stream": "Commerce",
+  "icon": "📊",
+  "description": "Financial professional managing accounts, audit, and taxation",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1–2 years",
+      "title": "Decision & Preparation",
+      "steps": [
+        "Understand CA structure",
+        "Register for CA Foundation",
+        "Build strong accounting fundamentals"
+      ]
+    },
+    "career_entry": {
+      "duration": "4–5 years",
+      "title": "Career Entry",
+      "steps": [
+        "Clear Foundation & Intermediate",
+        "Complete Articleship",
+        "Clear CA Final"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–7 years",
+      "title": "Growth & Specialization",
+      "steps": [
+        "Specialize in audit, tax, finance",
+        "Handle independent clients",
+        "Move into leadership or partnership roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": {
+      "label": "SHORT TERM (0-2 years)",
+      "milestones": ["Clear CA Foundation"]
+    },
+    "mid_term": {
+      "label": "MID TERM (2-5 years)",
+      "milestones": ["Articleship + CA Final"]
+    },
+    "long_term": {
+      "label": "LONG TERM (5+ years)",
+      "milestones": ["Senior CA / CFO / Partner"]
+    }
+  },
+  "tips_for_success": [
+    "Consistency beats intelligence",
+    "Articleship learning is critical",
+    "Keep updating legal knowledge"
+  ]
+}

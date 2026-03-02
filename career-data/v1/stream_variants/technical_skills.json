@@ -1,0 +1,9 @@
+{
+  "variant_id": "technical_skills",
+  "display_name": "Technical Skills",
+  "stream": "vocational",
+  "description": "Hands-on technical certifications and training",
+  "status": "active",
+  "last_verified": "2025-12",
+  "careers": ["nurse_anm", "electrician", "plumber"]
+}

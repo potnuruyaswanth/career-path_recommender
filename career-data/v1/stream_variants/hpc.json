@@ -1,0 +1,9 @@
+{
+  "variant_id": "hpc",
+  "display_name": "History, Political Science, Commerce",
+  "stream": "commerce",
+  "description": "Business and Law focused",
+  "status": "active",
+  "last_verified": "2025-12",
+  "careers": ["lawyer", "chartered_accountant"]
+}

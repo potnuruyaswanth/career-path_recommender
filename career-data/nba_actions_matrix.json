@@ -1,0 +1,184 @@
+{
+  "universal_actions": [
+    {
+      "id": "eligibility_checklist",
+      "label": "Show Eligibility Checklist",
+      "icon": "✓",
+      "description": "Check if you qualify for this career",
+      "data_source": "career.attributes.eligibility"
+    },
+    {
+      "id": "compare_similar",
+      "label": "Compare with Similar Careers",
+      "icon": "⚖",
+      "description": "See how this compares to related options",
+      "data_source": "graph_edges.json"
+    },
+    {
+      "id": "failure_recovery",
+      "label": "What If I Fail?",
+      "icon": "🔄",
+      "description": "See your backup options and recovery paths",
+      "data_source": "career.attributes.failure_paths"
+    },
+    {
+      "id": "alternate_paths",
+      "label": "Show Alternate Paths",
+      "icon": "🛤",
+      "description": "Explore different routes to this career",
+      "data_source": "graph_edges.json"
+    }
+  ],
+  "exam_based_actions": [
+    {
+      "id": "exam_eligibility",
+      "label": "Exam Eligibility & Attempts",
+      "icon": "📋",
+      "description": "How many attempts, age limits, eligibility",
+      "data_source": "exams/*.json"
+    },
+    {
+      "id": "syllabus_timeline",
+      "label": "Syllabus & Prep Timeline",
+      "icon": "📚",
+      "description": "Topics to study and recommended prep duration",
+      "data_source": "exams/*.json"
+    },
+    {
+      "id": "alternate_exams",
+      "label": "Alternate Exams I Can Write",
+      "icon": "🔀",
+      "description": "Other exams that lead to similar careers",
+      "data_source": "graph_edges.json"
+    }
+  ],
+  "degree_based_actions": [
+    {
+      "id": "degree_structure",
+      "label": "Degree Duration & Structure",
+      "icon": "🎓",
+      "description": "Years, semesters, specializations available",
+      "data_source": "courses/*.json"
+    },
+    {
+      "id": "career_roles",
+      "label": "Career Roles After Graduation",
+      "icon": "💼",
+      "description": "Jobs and roles this degree opens",
+      "data_source": "careers.json"
+    },
+    {
+      "id": "higher_studies",
+      "label": "Higher Studies & Specialization",
+      "icon": "🎯",
+      "description": "Masters, PhD, and specialization options",
+      "data_source": "courses/*.json"
+    },
+    {
+      "id": "exit_options",
+      "label": "Exit Options During Degree",
+      "icon": "🚪",
+      "description": "Can I stop after year 1/2? What credentials?",
+      "data_source": "courses/*.json"
+    }
+  ],
+  "diploma_actions": [
+    {
+      "id": "diploma_roles",
+      "label": "Job Roles After Diploma",
+      "icon": "⚙",
+      "description": "Entry-level positions available",
+      "data_source": "courses/*.json"
+    },
+    {
+      "id": "lateral_entry",
+      "label": "Lateral Entry to Degree",
+      "icon": "➡",
+      "description": "Can I jump to B.Tech/B.Sc? How?",
+      "data_source": "courses/*.json"
+    },
+    {
+      "id": "govt_exams_diploma",
+      "label": "Govt Exams After Diploma",
+      "icon": "🏛",
+      "description": "JE Exam, SSC, and other govt paths",
+      "data_source": "exams/*.json"
+    }
+  ],
+  "govt_service_actions": [
+    {
+      "id": "service_hierarchy",
+      "label": "Service Hierarchy & Ranks",
+      "icon": "📊",
+      "description": "Officer → Senior Officer → Director path",
+      "data_source": "careers/civil_services.json"
+    },
+    {
+      "id": "posting_growth",
+      "label": "Posting & Career Growth",
+      "icon": "🌍",
+      "description": "Where can I be posted? How do I grow?",
+      "data_source": "careers/civil_services.json"
+    },
+    {
+      "id": "other_govt_exams",
+      "label": "Other Govt Exams I Can Try",
+      "icon": "🔀",
+      "description": "State PSC, SSC, Police, Defence",
+      "data_source": "graph_edges.json"
+    }
+  ],
+  "medical_actions": [
+    {
+      "id": "licensing",
+      "label": "Licensing & Registration",
+      "icon": "📜",
+      "description": "Steps to register with medical council",
+      "data_source": "careers/doctor.json"
+    },
+    {
+      "id": "practice_options",
+      "label": "Hospital vs Private Practice",
+      "icon": "🏥",
+      "description": "Work in government hospital or start clinic?",
+      "data_source": "careers/doctor.json"
+    },
+    {
+      "id": "specialization",
+      "label": "Specialization Options",
+      "icon": "🔬",
+      "description": "MD/MS specializations available",
+      "data_source": "courses/medical.json"
+    }
+  ],
+  "skill_based_actions": [
+    {
+      "id": "required_skills",
+      "label": "Required Skills & Tools",
+      "icon": "🛠",
+      "description": "What programming languages, tools, certifications?",
+      "data_source": "career.attributes.skills"
+    },
+    {
+      "id": "entry_jobs",
+      "label": "Entry-Level Job Paths",
+      "icon": "🚀",
+      "description": "First job titles and companies",
+      "data_source": "careers/*.json"
+    },
+    {
+      "id": "certifications",
+      "label": "Certifications to Boost Profile",
+      "icon": "🏆",
+      "description": "AWS, Google, Microsoft certifications etc.",
+      "data_source": "courses/*.json"
+    },
+    {
+      "id": "freelance_vs_job",
+      "label": "Freelancing vs Job",
+      "icon": "💻",
+      "description": "Should I freelance or join a company?",
+      "data_source": "career.attributes"
+    }
+  ]
+}

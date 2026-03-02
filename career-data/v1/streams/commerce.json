@@ -1,0 +1,8 @@
+{
+  "stream_id": "commerce",
+  "display_name": "Commerce",
+  "description": "Accounting, Economics, Business Management careers",
+  "variants": ["hec", "heg"],
+  "status": "active",
+  "last_verified": "2025-12"
+}

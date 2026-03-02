@@ -1,0 +1,7 @@
+{
+  "id": "phase:school",
+  "type": "phase",
+  "display_name": "School",
+  "description": "School level education (classes 8-12), decisions around streams and early career exposure.",
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+}

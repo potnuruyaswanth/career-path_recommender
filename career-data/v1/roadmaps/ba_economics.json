@@ -1,0 +1,45 @@
+{
+  "career_id": "ba_economics",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand economics-based careers",
+        "Build math and statistics foundation",
+        "Explore analyst and policy roles"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BA Economics / Honors",
+        "Join analyst, research or data roles",
+        "Prepare for higher studies or govt exams"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–8 years",
+      "steps": [
+        "MA Economics / MBA / Public Policy",
+        "Move into senior analyst or economist roles",
+        "Policy advisory or leadership positions"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": [
+      "Strong quantitative foundation"
+    ],
+    "mid_term": [
+      "Analyst or postgraduate degree"
+    ],
+    "long_term": [
+      "Economist / Policy expert"
+    ]
+  },
+  "tips_for_success": [
+    "Quantitative skills are critical",
+    "Higher education boosts credibility",
+    "Policy understanding adds advantage"
+  ]
+}

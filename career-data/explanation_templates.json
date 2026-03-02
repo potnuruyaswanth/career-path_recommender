@@ -1,0 +1,25 @@
+{
+  "explanation_templates": {
+    "stream_explanation": "After Class 10, students can choose from {{stream_name}} stream. This stream typically leads to {{career_options}}. The key subjects are {{subjects}}.",
+    "variant_explanation": "{{variant_name}} is a variant of the {{stream_name}} stream that focuses on {{subject_focus}}. This variant prepares students for {{eligible_exams}} and leads to {{career_paths}}.",
+    "exam_explanation": "{{exam_name}} is an entrance exam required for {{degree_or_course}}. It specifically tests your {{subject_areas}} knowledge. You need to have {{stream_variants}} background to be eligible.",
+    "degree_explanation": "{{degree_name}} is a {{duration}}-year program typically undertaken after {{stream_or_exam}}. Graduates from this program pursue careers in {{career_areas}}.",
+    "career_explanation": "A {{career_name}} is a professional pursuing {{field_description}}. This typically comes after completing {{degree_or_course}}. The key skills required are {{skills}}.",
+    "path_explanation": "To become a {{career_name}}, you can follow this path: Class 10 → {{stream}} → {{exam}} → {{degree}} → {{career}}. Each step typically takes {{duration}}.",
+    "interest_match": "You mentioned interest in {{interest}}. This typically aligns well with careers like {{matched_careers}} because {{reason}}.",
+    "skill_development": "During your {{degree}}, you'll develop skills in {{skill_list}}. These skills will help you in pursuing {{career_paths}}.",
+    "lateral_move_explanation": "After completing {{current_degree}}, you can laterally transition to {{alternative_path}} by taking {{exam_or_exam}}. This opens opportunities in {{new_careers}}.",
+    "warning_not_eligible": "Note: {{stream}} students typically cannot directly pursue {{restricted_path}} because of eligibility requirements. However, you may consider {{alternative_path}} instead.",
+    "encouragement": "Your interests in {{interests}} and emerging skills in {{skills}} make you a good fit for {{career_path}}. The path involves {{steps_summary}}.",
+    "exploration_prompt": "Curious about {{career}}? This career requires {{requirements}} and typically earns you skills in {{skills}}. Would you like to explore this path further?"
+  },
+  "rules_for_explanations": {
+    "never_guarantee": "Never say 'you will definitely' - always use 'typically' or 'can lead to'",
+    "always_mention_alternatives": "Always present 2-3 alternative paths when possible",
+    "be_encouraging": "Frame careers positively without dismissing other options",
+    "acknowledge_difficulty": "Be honest about competitive exams and effort required",
+    "include_timelines": "Always mention duration of studies where applicable",
+    "cite_source": "All factual claims should reference official sources (UGC, NTA, etc)",
+    "no_salary_discussion": "Never mention salary or income expectations in explanations"
+  }
+}

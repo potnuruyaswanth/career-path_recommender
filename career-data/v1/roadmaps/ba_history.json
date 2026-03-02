@@ -1,0 +1,39 @@
+{
+  "career_id": "ba_history",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Develop interest in historical analysis",
+        "Improve reading and interpretation skills",
+        "Explore research or teaching scope"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BA History",
+        "Join research projects or teaching support",
+        "Prepare for MA History"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–8 years",
+      "steps": [
+        "MA / PhD",
+        "Academic or archival roles",
+        "Subject expert recognition"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["BA History"],
+    "mid_term": ["Postgraduate degree"],
+    "long_term": ["Historian / academic"]
+  },
+  "tips_for_success": [
+    "Analytical writing is key",
+    "Research skills matter",
+    "Higher education is essential"
+  ]
+}

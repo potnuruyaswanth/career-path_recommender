@@ -1,0 +1,8 @@
+{
+  "id": "exam:neet",
+  "type": "exam",
+  "display_name": "NEET",
+  "requires": ["variant:bipc"],
+  "leads_to": ["course:mbbs"],
+  "metadata": { "source": ["official_exam_org"], "last_reviewed": "2026-01-11", "version": 1 }
+}

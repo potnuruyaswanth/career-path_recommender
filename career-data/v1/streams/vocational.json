@@ -1,0 +1,8 @@
+{
+  "stream_id": "vocational",
+  "display_name": "Vocational",
+  "description": "Skill-based technical and healthcare careers",
+  "variants": ["technical_skills", "healthcare_skills"],
+  "status": "active",
+  "last_verified": "2025-12"
+}

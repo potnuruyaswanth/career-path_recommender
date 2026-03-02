@@ -1,0 +1,20 @@
+{
+  "career_id": "defence_technical_officer",
+  "display_name": "Defence Technical Officer",
+  "stream": "science",
+  "variant": "mpc",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["btech", "bsc"],
+  "exams_required": ["nda", "cds"],
+  "salary_band": {
+    "entry": "₹8–12 LPA",
+    "mid": "₹15–25 LPA",
+    "senior": "₹35+ LPA"
+  },
+  "failure_safe_paths": [
+    "PSU technical roles",
+    "Private engineering sector",
+    "Research & development"
+  ]
+}

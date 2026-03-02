@@ -1,0 +1,21 @@
+{
+  "id": "variant:pcmb",
+  "type": "stream_variant",
+  "display_name": "PCMB (Physics, Chemistry, Math, Biology)",
+  "subjects": ["Physics", "Chemistry", "Mathematics", "Biology"],
+  "eligible_after": "education:class_10",
+  "description": "All four subjects - maximum flexibility but high academic pressure. Students can pursue either engineering or medical paths.",
+  "nba_attributes": {
+    "has_exam": true,
+    "has_degree": true,
+    "has_diploma": true,
+    "is_govt_service": false,
+    "is_medical": true,
+    "is_skill_based": true,
+    "exam_types": ["jee", "neet", "state_cet", "nda"],
+    "degree_types": ["b_tech", "mbbs", "b_sc"],
+    "medical_specializations": true,
+    "max_flexibility": true
+  },
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-15", "version": 2 }
+}

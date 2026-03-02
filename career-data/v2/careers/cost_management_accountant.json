@@ -1,0 +1,20 @@
+{
+  "career_id": "cost_management_accountant",
+  "display_name": "Cost & Management Accountant (CMA)",
+  "stream": "commerce",
+  "variant": "mec",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["cma_foundation"],
+  "exams_required": ["cma_foundation"],
+  "salary_band": {
+    "entry": "₹5–8 LPA",
+    "mid": "₹12–20 LPA",
+    "senior": "₹30+ LPA"
+  },
+  "failure_safe_paths": [
+    "Financial analyst roles",
+    "MBA",
+    "Cost auditor roles"
+  ]
+}

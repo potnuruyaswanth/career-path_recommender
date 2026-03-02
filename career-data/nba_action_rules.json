@@ -1,0 +1,171 @@
+{
+  "rule_engine": {
+    "description": "Determines which actions to show based on career attributes",
+    "rules": [
+      {
+        "id": "all_careers",
+        "condition": "always",
+        "actions": ["eligibility_checklist", "compare_similar", "failure_recovery", "alternate_paths"],
+        "description": "These 4 appear for EVERY career"
+      },
+      {
+        "id": "exam_based_rule",
+        "condition": "career.has_exam == true",
+        "actions": ["exam_eligibility", "syllabus_timeline", "alternate_exams"],
+        "description": "If career requires an exam (CA, JEE, NEET, UPSC, etc.)"
+      },
+      {
+        "id": "degree_based_rule",
+        "condition": "career.has_degree == true",
+        "actions": ["degree_structure", "career_roles", "higher_studies", "exit_options"],
+        "description": "If career requires a degree (B.Tech, MBBS, B.Com, etc.)"
+      },
+      {
+        "id": "diploma_rule",
+        "condition": "career.has_diploma == true",
+        "actions": ["diploma_roles", "lateral_entry", "govt_exams_diploma"],
+        "description": "If career has diploma path (Polytechnic, ITI, JE Diploma)"
+      },
+      {
+        "id": "govt_service_rule",
+        "condition": "career.is_govt_service == true",
+        "actions": ["service_hierarchy", "posting_growth", "other_govt_exams"],
+        "description": "If career is in government (IAS, IPS, Civil Services)"
+      },
+      {
+        "id": "medical_rule",
+        "condition": "career.is_medical == true",
+        "actions": ["licensing", "practice_options", "specialization"],
+        "description": "If career is medical (Doctor, Dentist, Nurse)"
+      },
+      {
+        "id": "skill_based_rule",
+        "condition": "career.is_skill_based == true",
+        "actions": ["required_skills", "entry_jobs", "certifications", "freelance_vs_job"],
+        "description": "If career is skill-based (Software, Data Science)"
+      }
+    ]
+  },
+  "action_to_endpoint_mapping": {
+    "eligibility_checklist": {
+      "endpoint": "/career/{career_id}/eligibility",
+      "method": "GET",
+      "description": "Returns eligibility requirements"
+    },
+    "compare_similar": {
+      "endpoint": "/career/{career_id}/similar",
+      "method": "GET",
+      "description": "Returns similar careers from graph_edges"
+    },
+    "failure_recovery": {
+      "endpoint": "/career/{career_id}/failure-paths",
+      "method": "GET",
+      "description": "Returns backup options if exam/degree fails"
+    },
+    "alternate_paths": {
+      "endpoint": "/career/{career_id}/alternate-paths",
+      "method": "GET",
+      "description": "Returns alternate routes to same career"
+    },
+    "exam_eligibility": {
+      "endpoint": "/exam/{exam_id}/eligibility",
+      "method": "GET",
+      "description": "Exam-specific eligibility"
+    },
+    "syllabus_timeline": {
+      "endpoint": "/exam/{exam_id}/syllabus",
+      "method": "GET",
+      "description": "Syllabus and prep timeline"
+    },
+    "alternate_exams": {
+      "endpoint": "/career/{career_id}/alternate-exams",
+      "method": "GET",
+      "description": "Other exams for same/similar career"
+    },
+    "degree_structure": {
+      "endpoint": "/course/{course_id}/structure",
+      "method": "GET",
+      "description": "Degree duration and structure"
+    },
+    "career_roles": {
+      "endpoint": "/course/{course_id}/career-outcomes",
+      "method": "GET",
+      "description": "Jobs after this degree"
+    },
+    "higher_studies": {
+      "endpoint": "/course/{course_id}/higher-education",
+      "method": "GET",
+      "description": "Masters and specialization"
+    },
+    "exit_options": {
+      "endpoint": "/course/{course_id}/exit-points",
+      "method": "GET",
+      "description": "Can stop after year 1/2?"
+    },
+    "diploma_roles": {
+      "endpoint": "/course/{course_id}/entry-jobs",
+      "method": "GET",
+      "description": "Jobs after diploma"
+    },
+    "lateral_entry": {
+      "endpoint": "/course/{course_id}/lateral-entry",
+      "method": "GET",
+      "description": "Upgrade to degree"
+    },
+    "govt_exams_diploma": {
+      "endpoint": "/course/{course_id}/govt-exams",
+      "method": "GET",
+      "description": "Govt exams eligible after diploma"
+    },
+    "service_hierarchy": {
+      "endpoint": "/career/govt-service/hierarchy",
+      "method": "GET",
+      "description": "Rank progression"
+    },
+    "posting_growth": {
+      "endpoint": "/career/govt-service/posting",
+      "method": "GET",
+      "description": "Career growth and posting"
+    },
+    "other_govt_exams": {
+      "endpoint": "/career/{career_id}/other-govt-exams",
+      "method": "GET",
+      "description": "Similar govt exams"
+    },
+    "licensing": {
+      "endpoint": "/career/medical/licensing",
+      "method": "GET",
+      "description": "Medical council registration"
+    },
+    "practice_options": {
+      "endpoint": "/career/medical/practice-types",
+      "method": "GET",
+      "description": "Govt vs private practice"
+    },
+    "specialization": {
+      "endpoint": "/career/medical/specializations",
+      "method": "GET",
+      "description": "MD/MS options"
+    },
+    "required_skills": {
+      "endpoint": "/career/{career_id}/skills",
+      "method": "GET",
+      "description": "Required technical skills"
+    },
+    "entry_jobs": {
+      "endpoint": "/career/{career_id}/entry-positions",
+      "method": "GET",
+      "description": "First job titles"
+    },
+    "certifications": {
+      "endpoint": "/career/{career_id}/certifications",
+      "method": "GET",
+      "description": "Recommended certifications"
+    },
+    "freelance_vs_job": {
+      "endpoint": "/career/{career_id}/work-options",
+      "method": "GET",
+      "description": "Career flexibility analysis"
+    }
+  }
+}

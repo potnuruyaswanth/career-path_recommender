@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Career App",
+			"type": "shell",
+			"command": "cmd",
+			"args": [
+				"/c",
+				"start-all.bat"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "none"
+		}
+	]
+}

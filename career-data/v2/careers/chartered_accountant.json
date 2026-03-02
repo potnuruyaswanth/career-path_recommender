@@ -1,0 +1,20 @@
+{
+  "career_id": "chartered_accountant",
+  "display_name": "Chartered Accountant (CA)",
+  "stream": "commerce",
+  "variant": "mec",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["ca_foundation"],
+  "exams_required": ["ca_foundation"],
+  "salary_band": {
+    "entry": "₹6–10 LPA",
+    "mid": "₹15–25 LPA",
+    "senior": "₹40+ LPA"
+  },
+  "failure_safe_paths": [
+    "CMA / CS",
+    "B.Com + MBA",
+    "Accounting manager roles"
+  ]
+}

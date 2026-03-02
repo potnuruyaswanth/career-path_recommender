@@ -1,0 +1,9 @@
+{
+  "variant_id": "heg",
+  "display_name": "History, Economics, Geography",
+  "stream": "arts",
+  "description": "Social Sciences and Administration focused",
+  "status": "active",
+  "last_verified": "2025-12",
+  "careers": ["civil_services", "social_worker"]
+}

@@ -1,0 +1,64 @@
+{
+  "interest_tags": [
+    {
+      "id": "interest:problem_solving",
+      "label": "Problem Solving",
+      "description": "Enjoys finding solutions to complex problems",
+      "related_careers": ["career:software_engineer", "career:researcher", "career:civil_servant"]
+    },
+    {
+      "id": "interest:helping_people",
+      "label": "Helping People",
+      "description": "Enjoys working with and helping others",
+      "related_careers": ["career:doctor", "career:teacher", "career:counselor"]
+    },
+    {
+      "id": "interest:creativity",
+      "label": "Creativity",
+      "description": "Enjoys creative and artistic expression",
+      "related_careers": ["career:content_creator", "career:designer", "career:architect"]
+    },
+    {
+      "id": "interest:analytical_thinking",
+      "label": "Analytical Thinking",
+      "description": "Enjoys data analysis and logical reasoning",
+      "related_careers": ["career:software_engineer", "career:accountant", "career:data_scientist"]
+    },
+    {
+      "id": "interest:leadership",
+      "label": "Leadership",
+      "description": "Enjoys leading teams and managing projects",
+      "related_careers": ["career:manager", "career:entrepreneur", "career:civil_servant"]
+    },
+    {
+      "id": "interest:research",
+      "label": "Research & Discovery",
+      "description": "Enjoys investigating and discovering new knowledge",
+      "related_careers": ["career:researcher", "career:scientist", "career:professor"]
+    },
+    {
+      "id": "interest:business",
+      "label": "Business & Entrepreneurship",
+      "description": "Enjoys business concepts and startup ideas",
+      "related_careers": ["career:entrepreneur", "career:finance_professional", "career:manager"]
+    },
+    {
+      "id": "interest:law_justice",
+      "label": "Law & Justice",
+      "description": "Enjoys legal concepts and social justice",
+      "related_careers": ["career:lawyer", "career:judge", "career:civil_servant"]
+    },
+    {
+      "id": "interest:technology",
+      "label": "Technology",
+      "description": "Enjoys working with latest technology",
+      "related_careers": ["career:software_engineer", "career:data_scientist", "career:it_professional"]
+    },
+    {
+      "id": "interest:nature_environment",
+      "label": "Nature & Environment",
+      "description": "Interested in environmental conservation",
+      "related_careers": ["career:environmental_scientist", "career:civil_engineer"]
+    }
+  ]
+}

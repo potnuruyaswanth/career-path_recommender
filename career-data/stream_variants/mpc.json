@@ -1,0 +1,19 @@
+{
+  "id": "variant:mpc",
+  "type": "stream_variant",
+  "display_name": "MPC (Mathematics, Physics, Chemistry)",
+  "subjects": ["Mathematics", "Physics", "Chemistry"],
+  "eligible_after": "education:class_10",
+  "nba_attributes": {
+    "has_exam": true,
+    "has_degree": true,
+    "has_diploma": true,
+    "is_govt_service": false,
+    "is_medical": false,
+    "is_skill_based": true,
+    "exam_types": ["jee", "state_cet", "nda"],
+    "degree_types": ["b_tech", "b_sc"],
+    "diploma_types": ["polytechnic", "je_diploma"]
+  },
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-15", "version": 2 }
+}

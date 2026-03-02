@@ -1,0 +1,27 @@
+{
+  "name": "career-path-navigator",
+  "version": "1.0.0",
+  "description": "Career Path Navigator - Interactive Career Guidance System",
+  "scripts": {
+    "install:all": "cd frontend && npm install && cd ../backend && pip install -r requirements.txt",
+    "dev": "start-all.bat",
+    "build": "cd frontend && npm install && npm run build",
+    "postbuild": "echo Build completed successfully",
+    "preview": "cd frontend && npm run preview",
+    "start:backend": "cd backend && uvicorn main:app --reload --host 0.0.0.0 --port 8000",
+    "start:frontend": "cd frontend && npm run dev",
+    "test": "cd frontend && npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuruvamunirangadu/Career-path-Navigator"
+  },
+  "keywords": [
+    "career",
+    "guidance",
+    "education",
+    "paths"
+  ],
+  "author": "Kuruva Munirangadu",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "variant_id": "mec",
+  "display_name": "Mathematics, Economics, Computer Science",
+  "stream": "science",
+  "description": "Mixed - Computer Science with Economics focus",
+  "status": "active",
+  "last_verified": "2025-12",
+  "careers": ["software_engineer", "data_scientist"]
+}

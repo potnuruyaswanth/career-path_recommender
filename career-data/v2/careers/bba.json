@@ -1,0 +1,20 @@
+{
+  "career_id": "bba",
+  "display_name": "BBA / Business Administration",
+  "stream": "commerce",
+  "variant": "mec",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["bba"],
+  "exams_required": [],
+  "salary_band": {
+    "entry": "₹3–5 LPA",
+    "mid": "₹6–10 LPA",
+    "senior": "₹15+ LPA"
+  },
+  "failure_safe_paths": [
+    "MBA",
+    "Sales & marketing roles",
+    "Startup roles"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "career_id": "mcom",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "6–12 months",
+      "steps": [
+        "Decide specialization in commerce",
+        "Strengthen accounting and finance basics",
+        "Plan for academic or corporate path"
+      ]
+    },
+    "career_entry": {
+      "duration": "2 years",
+      "steps": [
+        "Complete M.Com",
+        "Join teaching or finance roles",
+        "Prepare for PhD or NET"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–8 years",
+      "steps": [
+        "PhD or academic research",
+        "Senior teaching roles",
+        "Policy or consultancy positions"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["M.Com completion"],
+    "mid_term": ["NET / teaching role"],
+    "long_term": ["Professor / consultant"]
+  },
+  "tips_for_success": [
+    "Academic consistency matters",
+    "NET qualification boosts scope",
+    "Research exposure is valuable"
+  ]
+}

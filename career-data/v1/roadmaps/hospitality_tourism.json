@@ -1,0 +1,39 @@
+{
+  "career_id": "hospitality_tourism",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "3–6 months",
+      "steps": [
+        "Understand hospitality roles",
+        "Develop communication skills",
+        "Choose specialization (hotel, travel)"
+      ]
+    },
+    "career_entry": {
+      "duration": "2–3 years",
+      "steps": [
+        "Complete hospitality course",
+        "Join hotel or travel firm",
+        "Gain customer handling experience"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–8 years",
+      "steps": [
+        "Move into management roles",
+        "Handle operations or property management",
+        "Senior hospitality leadership"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Entry hospitality role"],
+    "mid_term": ["Supervisor / manager"],
+    "long_term": ["Hotel / tourism head"]
+  },
+  "tips_for_success": [
+    "Customer service is key",
+    "Communication skills matter",
+    "Experience drives growth"
+  ]
+}

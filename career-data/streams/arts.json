@@ -1,0 +1,21 @@
+{
+  "id": "stream:arts",
+  "type": "stream",
+  "display_name": "Arts / Humanities",
+  "short_description": "Arts and humanities stream focusing on social sciences, languages and creative fields.",
+  "description": "Arts stream offers two main pathways: Civil Services/Policy route (BA → UPSC/State PSC → IAS/IPS/IFS) and Law/Media/Academia route (BA + LLB, BJMC, or Psychology degrees → careers in law, journalism, academia, research and policy analysis).",
+  "paths": [
+    {
+      "name": "Civil Services / Policy",
+      "courses": ["course:ba_humanities"],
+      "entry_exams": ["exam:upsc", "exam:state_psc"],
+      "careers": ["career:ias_officer", "career:ips_officer", "career:ifs_officer", "career:policy_analyst"]
+    },
+    {
+      "name": "Law / Academia / Media",
+      "courses": ["course:ba_llb", "course:bjmc", "course:ba_psychology"],
+      "careers": ["career:lawyer", "career:judge", "career:journalist", "career:professor_researcher"]
+    }
+  ],
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 2 }
+}

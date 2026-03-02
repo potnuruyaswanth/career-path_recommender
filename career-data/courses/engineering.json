@@ -1,0 +1,7 @@
+{
+  "id": "course:engineering_btech",
+  "type": "course",
+  "display_name": "B.Tech / Engineering",
+  "attributes": {"eligible_stream_variants": ["variant:mpc"], "duration_years": 4, "entry_exams": ["exam:jee", "exam:state_cet"]},
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+}

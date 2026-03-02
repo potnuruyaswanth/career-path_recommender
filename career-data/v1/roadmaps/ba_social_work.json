@@ -1,0 +1,39 @@
+{
+  "career_id": "ba_social_work",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand social service sectors",
+        "Volunteer in NGOs",
+        "Build empathy and communication"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BA Social Work",
+        "Work in NGOs or community projects",
+        "Prepare for MSW"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–8 years",
+      "steps": [
+        "MSW or policy specialization",
+        "Project leadership roles",
+        "Senior social sector positions"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Field exposure"],
+    "mid_term": ["MSW"],
+    "long_term": ["Program director"]
+  },
+  "tips_for_success": [
+    "Field work is critical",
+    "Emotional resilience matters",
+    "Leadership grows with experience"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "variant:bipc",
+  "type": "stream_variant",
+  "display_name": "BiPC (Biology, Physics, Chemistry)",
+  "subjects": ["Biology", "Physics", "Chemistry"],
+  "eligible_after": "education:class_10",
+  "nba_attributes": {
+    "has_exam": true,
+    "has_degree": true,
+    "has_diploma": false,
+    "is_govt_service": false,
+    "is_medical": true,
+    "is_skill_based": false,
+    "exam_types": ["neet"],
+    "degree_types": ["mbbs", "bds", "b_pharm", "nursing"],
+    "medical_specializations": true
+  },
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-15", "version": 2 }
+}

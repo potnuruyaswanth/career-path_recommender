@@ -1,0 +1,8 @@
+{
+  "id": "career:doctor",
+  "type": "career",
+  "display_name": "Doctor / Medical Professional",
+  "attributes": {"course_ids": ["course:mbbs"], "career_type": "Private/Government", "nature": "Medical", "nba_attributes": {"has_exam": true, "has_degree": true, "is_medical": true, "exam_types": ["neet"]}},
+  "skills": ["skill:biology_knowledge", "skill:patient_care"],
+  "metadata": { "source": ["industry_consensus"], "last_reviewed": "2026-01-11", "version": 1 }
+}

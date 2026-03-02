@@ -1,0 +1,8 @@
+{
+  "id": "education:class_10",
+  "type": "education_level",
+  "display_name": "Class 10",
+  "phase_id": "phase:school",
+  "boards": ["CBSE", "ICSE", "STATE"],
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+}

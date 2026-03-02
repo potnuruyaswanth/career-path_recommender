@@ -1,0 +1,9 @@
+{
+  "variant_id": "hsp",
+  "display_name": "History, Sociology, Philosophy",
+  "stream": "arts",
+  "description": "Philosophy and Social Sciences focused",
+  "status": "active",
+  "last_verified": "2025-12",
+  "careers": ["journalist", "social_worker"]
+}

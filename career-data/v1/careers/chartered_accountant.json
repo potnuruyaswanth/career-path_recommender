@@ -1,0 +1,56 @@
+{
+  "career_id": "chartered_accountant",
+  "display_name": "Chartered Accountant (CA)",
+  "stream": "commerce",
+  "variant": "hec",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["ca_foundation"],
+  "exams_required": ["ca_foundation"],
+  "salary_band": {
+    "entry": "₹6–10 LPA",
+    "mid": "₹15–25 LPA",
+    "senior": "₹40+ LPA"
+  },
+  "failure_safe_paths": [
+    "CMA / CS",
+    "B.Com + MBA",
+    "Accounting manager roles"
+  ],
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1–2 years",
+      "steps": [
+        "Understand CA course structure",
+        "Register for CA Foundation",
+        "Build strong accounting fundamentals"
+      ]
+    },
+    "career_entry": {
+      "duration": "4–5 years",
+      "steps": [
+        "Clear Foundation and Intermediate",
+        "Complete articleship",
+        "Clear CA Final"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–8 years",
+      "steps": [
+        "Specialize in audit, tax or finance",
+        "Handle independent clients",
+        "Move into CFO or partner roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Clear CA Foundation"],
+    "mid_term": ["CA Final + Articleship"],
+    "long_term": ["Senior CA / CFO"]
+  },
+  "tips_for_success": [
+    "Consistency matters more than speed",
+    "Articleship learning is critical",
+    "Law updates are continuous"
+  ]
+}

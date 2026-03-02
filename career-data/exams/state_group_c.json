@@ -1,0 +1,7 @@
+{
+  "id": "exam:state_group_c",
+  "type": "exam",
+  "display_name": "State Govt Group-C Exams",
+  "attributes": { "level": "State Government Exams", "eligibility": "10th/12th/Diploma/Graduates" },
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+}

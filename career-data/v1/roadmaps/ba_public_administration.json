@@ -1,0 +1,39 @@
+{
+  "career_id": "ba_public_administration",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand governance and administration",
+        "Study polity and public systems",
+        "Align with civil services preparation"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BA Public Administration",
+        "Prepare for UPSC / State PSC",
+        "Join administrative roles"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–10 years",
+      "steps": [
+        "Clear civil services",
+        "Senior policy implementation roles",
+        "Administrative leadership"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["BA completion"],
+    "mid_term": ["Govt service entry"],
+    "long_term": ["Senior administrator"]
+  },
+  "tips_for_success": [
+    "Governance clarity is essential",
+    "Answer writing discipline matters",
+    "Public service mindset helps"
+  ]
+}

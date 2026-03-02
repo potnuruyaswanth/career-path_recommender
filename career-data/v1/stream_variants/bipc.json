@@ -1,0 +1,9 @@
+{
+  "variant_id": "bipc",
+  "display_name": "Biology, Physics, Chemistry",
+  "stream": "science",
+  "description": "Medical and Healthcare focused",
+  "status": "active",
+  "last_verified": "2025-12",
+  "careers": ["doctor", "dentist", "pharmacist", "nurse_gnm"]
+}

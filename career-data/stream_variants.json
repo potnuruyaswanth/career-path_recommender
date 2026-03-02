@@ -1,0 +1,29 @@
+[
+  {
+    "id": "variant:mpc",
+    "type": "stream_variant",
+    "stream_id": "stream:science",
+    "display_name": "MPC (Mathematics, Physics, Chemistry)",
+    "subjects": ["Mathematics", "Physics", "Chemistry"],
+    "eligible_after": "education:class_10",
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+  },
+  {
+    "id": "variant:bipc",
+    "type": "stream_variant",
+    "stream_id": "stream:science",
+    "display_name": "BiPC (Biology, Physics, Chemistry)",
+    "subjects": ["Biology", "Physics", "Chemistry"],
+    "eligible_after": "education:class_10",
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+  },
+  {
+    "id": "variant:mec",
+    "type": "stream_variant",
+    "stream_id": "stream:commerce",
+    "display_name": "MEC (Mathematics, Economics, Commerce)",
+    "subjects": ["Mathematics", "Economics", "Commerce"],
+    "eligible_after": "education:class_10",
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "career_id": "ba_literature",
+  "display_name": "BA Literature",
+  "stream": "arts",
+  "variant": "language_based",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["ba_literature"],
+  "exams_required": [],
+  "salary_band": {
+    "entry": "₹2.5–4 LPA",
+    "mid": "₹5–8 LPA",
+    "senior": "₹12+ LPA"
+  },
+  "failure_safe_paths": [
+    "Content writing & editing",
+    "Teaching (after B.Ed)",
+    "Translation & publishing"
+  ]
+}

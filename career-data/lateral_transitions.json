@@ -1,0 +1,56 @@
+{
+  "lateral_transitions": [
+    {
+      "id": "transition:engineering_to_civil_services",
+      "from_degree": "degree:btech",
+      "to_career": "career:civil_servant",
+      "via_exam": "exam:upsc",
+      "notes": "Engineers are eligible for UPSC civil services exam",
+      "feasibility": "High"
+    },
+    {
+      "id": "transition:medical_to_research",
+      "from_degree": "degree:mbbs",
+      "to_path": "pg:phd",
+      "notes": "Medical graduates can pursue research after MBBS",
+      "feasibility": "Medium"
+    },
+    {
+      "id": "transition:engineering_to_mba",
+      "from_degree": "degree:btech",
+      "to_path": "pg:mba",
+      "via_exam": "exam:cat",
+      "notes": "Engineers commonly pursue MBA for management roles",
+      "feasibility": "Very High"
+    },
+    {
+      "id": "transition:commerce_to_law",
+      "from_degree": "degree:bcom",
+      "to_degree": "degree:law",
+      "notes": "Commerce graduates can pursue law - requires CLAT",
+      "feasibility": "Medium"
+    },
+    {
+      "id": "transition:any_to_entrepreneurship",
+      "from_degree": ["degree:btech", "degree:bcom", "degree:ba"],
+      "to_career": "career:entrepreneur",
+      "notes": "All graduates can become entrepreneurs",
+      "feasibility": "Very High"
+    },
+    {
+      "id": "transition:engineering_to_teaching",
+      "from_degree": "degree:btech",
+      "to_career": "career:teacher",
+      "notes": "Engineers can teach after B.Tech",
+      "feasibility": "High"
+    },
+    {
+      "id": "transition:arts_to_civil_services",
+      "from_degree": "degree:ba",
+      "to_career": "career:civil_servant",
+      "via_exam": "exam:upsc",
+      "notes": "Arts graduates have strong eligibility for UPSC",
+      "feasibility": "Very High"
+    }
+  ]
+}

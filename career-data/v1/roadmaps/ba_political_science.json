@@ -1,0 +1,39 @@
+{
+  "career_id": "ba_political_science",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand political systems",
+        "Read constitution and current affairs",
+        "Align with UPSC preparation"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BA Political Science",
+        "Prepare for competitive exams",
+        "Join research or govt roles"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–10 years",
+      "steps": [
+        "Civil services or policy roles",
+        "Political advisory positions",
+        "Senior administrative leadership"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["BA completion"],
+    "mid_term": ["Govt exam success"],
+    "long_term": ["Policy / civil services role"]
+  },
+  "tips_for_success": [
+    "Current affairs discipline is mandatory",
+    "Answer writing matters",
+    "Consistency beats speed"
+  ]
+}

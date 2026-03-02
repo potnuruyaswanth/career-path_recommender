@@ -1,0 +1,8 @@
+{
+  "id": "variant:humanities",
+  "type": "stream_variant",
+  "display_name": "Humanities",
+  "subjects": ["History", "Geography", "Political Science"],
+  "eligible_after": "education:class_10",
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+}

@@ -1,0 +1,40 @@
+{
+  "career_id": "diploma_mlt",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1–3 months",
+      "steps": [
+        "Understand lab technology scope",
+        "Confirm interest in diagnostics",
+        "Strengthen biology and chemistry basics"
+      ]
+    },
+    "career_entry": {
+      "duration": "2–3 years",
+      "steps": [
+        "Complete MLT diploma",
+        "Intern in pathology lab",
+        "Learn quality and safety protocols",
+        "Get trained on lab instruments"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "4–7 years",
+      "steps": [
+        "Lead sections (hematology/biochem)",
+        "Specialize in QA or histopath",
+        "Advance to lab supervisor/manager"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["MLT diploma completion"],
+    "mid_term": ["Section lead"],
+    "long_term": ["Lab manager"]
+  },
+  "tips_for_success": [
+    "Be meticulous about quality control",
+    "Stay current on test standards",
+    "Invest in equipment proficiency"
+  ]
+}

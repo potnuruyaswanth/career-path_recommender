@@ -1,0 +1,20 @@
+{
+  "career_id": "barch_architecture",
+  "display_name": "B.Arch / Architecture",
+  "stream": "science",
+  "variant": "mpc",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["barch"],
+  "exams_required": ["nata", "jee"],
+  "salary_band": {
+    "entry": "₹3–5 LPA",
+    "mid": "₹7–12 LPA",
+    "senior": "₹20+ LPA"
+  },
+  "failure_safe_paths": [
+    "Interior design",
+    "Urban planning",
+    "Construction management"
+  ]
+}

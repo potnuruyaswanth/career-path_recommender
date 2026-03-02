@@ -1,0 +1,56 @@
+{
+  "career_id": "ba_economics",
+  "display_name": "BA Economics / Economics Honors",
+  "stream": "arts",
+  "variant": "hec",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["ba_economics"],
+  "exams_required": [],
+  "salary_band": {
+    "entry": "₹3–5 LPA",
+    "mid": "₹6–10 LPA",
+    "senior": "₹15+ LPA"
+  },
+  "failure_safe_paths": [
+    "MA Economics",
+    "Policy research roles",
+    "Banking exams"
+  ],
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand economics career scope",
+        "Develop analytical thinking",
+        "Build quantitative skills"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BA Economics",
+        "Join analyst or research roles",
+        "Prepare for higher studies"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–7 years",
+      "steps": [
+        "MA Economics / MBA",
+        "Policy or finance specialization",
+        "Senior economist roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Complete BA Economics"],
+    "mid_term": ["Analyst / Postgraduate"],
+    "long_term": ["Economist / Policy Expert"]
+  },
+  "tips_for_success": [
+    "Quantitative skills are essential",
+    "Research mindset helps growth",
+    "Higher studies unlock top roles"
+  ]
+}

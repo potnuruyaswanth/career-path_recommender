@@ -1,0 +1,9 @@
+{
+  "id": "exam:ca_foundation",
+  "type": "exam",
+  "display_name": "CA Foundation",
+  "requires": ["education:class_12"],
+  "leads_to": ["course:ca"],
+  "description": "First level exam for becoming a Chartered Accountant in India. Prerequisite before articleship.",
+  "metadata": { "source": ["official_exam_org"], "last_reviewed": "2026-01-14", "version": 1 }
+}

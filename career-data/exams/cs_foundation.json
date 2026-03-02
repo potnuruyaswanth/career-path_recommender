@@ -1,0 +1,9 @@
+{
+  "id": "exam:cs_foundation",
+  "type": "exam",
+  "display_name": "CS Foundation",
+  "requires": ["education:class_12"],
+  "leads_to": ["course:cs"],
+  "description": "Foundation level exam for becoming a Company Secretary. Prerequisite before articleship.",
+  "metadata": { "source": ["official_exam_org"], "last_reviewed": "2026-01-14", "version": 1 }
+}

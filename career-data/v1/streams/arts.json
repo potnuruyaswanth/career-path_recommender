@@ -1,0 +1,8 @@
+{
+  "stream_id": "arts",
+  "display_name": "Arts",
+  "description": "History, Geography, Economics, Philosophy based careers",
+  "variants": ["hec", "hsp", "heg"],
+  "status": "active",
+  "last_verified": "2025-12"
+}

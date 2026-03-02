@@ -1,0 +1,79 @@
+{
+  "postgraduate_paths": [
+    {
+      "id": "pg:mtech",
+      "type": "postgraduate",
+      "display_name": "M.Tech (Master of Technology)",
+      "requires_degree": ["degree:btech", "degree:bsc"],
+      "duration_years": 2,
+      "entry_exams": ["exam:gate"],
+      "leads_to_careers": ["career:research_engineer", "career:senior_engineer", "career:professor"],
+      "notes": "Optional - not mandatory after B.Tech",
+      "metadata": {
+        "source": ["official_ugc_framework"],
+        "last_reviewed": "2026-01-11",
+        "version": 1
+      }
+    },
+    {
+      "id": "pg:md_ms",
+      "type": "postgraduate",
+      "display_name": "MD / MS (Postgraduate Medical)",
+      "requires_degree": ["degree:mbbs"],
+      "duration_years": 3,
+      "entry_exams": ["exam:neet_pg"],
+      "leads_to_careers": ["career:medical_specialist", "career:consultant"],
+      "notes": "For medical specialization after MBBS internship",
+      "metadata": {
+        "source": ["official_ugc_framework"],
+        "last_reviewed": "2026-01-11",
+        "version": 1
+      }
+    },
+    {
+      "id": "pg:mba",
+      "type": "postgraduate",
+      "display_name": "MBA (Master of Business Administration)",
+      "requires_degree": ["degree:btech", "degree:bcom", "degree:ba", "degree:bsc"],
+      "duration_years": 2,
+      "entry_exams": ["exam:cat", "exam:mat", "exam:gmat"],
+      "leads_to_careers": ["career:management_consultant", "career:business_analyst", "career:entrepreneur"],
+      "notes": "Open to all graduates - not stream specific",
+      "metadata": {
+        "source": ["official_practice"],
+        "last_reviewed": "2026-01-11",
+        "version": 1
+      }
+    },
+    {
+      "id": "pg:ma",
+      "type": "postgraduate",
+      "display_name": "M.A (Master of Arts)",
+      "requires_degree": ["degree:ba"],
+      "duration_years": 2,
+      "entry_exams": [],
+      "leads_to_careers": ["career:researcher", "career:professor", "career:content_specialist"],
+      "notes": "Specialization in humanities disciplines",
+      "metadata": {
+        "source": ["official_ugc_framework"],
+        "last_reviewed": "2026-01-11",
+        "version": 1
+      }
+    },
+    {
+      "id": "pg:phd",
+      "type": "postgraduate",
+      "display_name": "Ph.D (Doctor of Philosophy)",
+      "requires_degree": ["degree:btech", "degree:bsc", "degree:ba", "degree:bcom"],
+      "duration_years": 3,
+      "entry_exams": [],
+      "leads_to_careers": ["career:researcher", "career:professor", "career:scientist"],
+      "notes": "Research-focused - all streams eligible",
+      "metadata": {
+        "source": ["official_ugc_framework"],
+        "last_reviewed": "2026-01-11",
+        "version": 1
+      }
+    }
+  ]
+}

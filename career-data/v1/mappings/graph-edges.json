@@ -1,0 +1,96 @@
+{
+  "version": "v1",
+  "last_verified": "2025-12",
+  "graph_edges": [
+    {
+      "from": "mpc",
+      "to": "software_engineer",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "mpc",
+      "to": "barch_architecture",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "mpc",
+      "to": "bsc_mathematics",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "mpc",
+      "to": "bsc_physics",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "mpc",
+      "to": "bsc_chemistry",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "mpc",
+      "to": "bsc_computer_science",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "mpc",
+      "to": "bsc_statistics",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "mpc",
+      "to": "scientific_researcher",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "mpc",
+      "to": "defence_technical_officer",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "bipc",
+      "to": "doctor",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "bipc",
+      "to": "pharmacist",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "hec",
+      "to": "civil_services",
+      "weight": 1.0,
+      "rule_type": "stream_to_career"
+    },
+    {
+      "from": "jee",
+      "to": "software_engineer",
+      "weight": 1.0,
+      "rule_type": "exam_to_career"
+    },
+    {
+      "from": "neet",
+      "to": "doctor",
+      "weight": 1.0,
+      "rule_type": "exam_to_career"
+    },
+    {
+      "from": "upsc",
+      "to": "civil_services",
+      "weight": 1.0,
+      "rule_type": "exam_to_career"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "career:bds_dentist",
+  "display_name": "BDS / Dentist",
+  "stream": "Science",
+  "icon": "🦷",
+  "description": "Dental health professional providing oral care and treatments",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1–2 years",
+      "title": "Decision & Preparation",
+      "steps": [
+        "Understand dental career scope",
+        "Prepare for NEET",
+        "Build hand-skill precision mindset"
+      ]
+    },
+    "career_entry": {
+      "duration": "5 years",
+      "title": "Career Entry",
+      "steps": [
+        "Complete BDS degree",
+        "Finish internship",
+        "Register with Dental Council"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–6 years",
+      "title": "Growth & Specialization",
+      "steps": [
+        "Open private clinic or hospital practice",
+        "Pursue MDS specialization",
+        "Build patient base"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": {
+      "label": "SHORT TERM (0-2 years)",
+      "milestones": ["Clear NEET"]
+    },
+    "mid_term": {
+      "label": "MID TERM (2-5 years)",
+      "milestones": ["Complete BDS"]
+    },
+    "long_term": {
+      "label": "LONG TERM (5+ years)",
+      "milestones": ["Established Dentist / Specialist"]
+    }
+  },
+  "tips_for_success": [
+    "Practice hand skills early",
+    "Patient trust is critical",
+    "Clinic management skills help growth"
+  ]
+}

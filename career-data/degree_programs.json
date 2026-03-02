@@ -1,0 +1,88 @@
+{
+  "degree_programs": [
+    {
+      "id": "degree:btech",
+      "type": "degree",
+      "display_name": "B.Tech / B.E (Bachelor of Engineering)",
+      "requires_stream_variants": ["variant:mpc"],
+      "duration_years": 4,
+      "entry_exams": ["exam:jee", "exam:bitsat", "exam:state_cet"],
+      "leads_to_careers": ["career:software_engineer", "career:hardware_engineer", "career:civil_engineer", "career:mechanical_engineer"],
+      "metadata": {
+        "source": ["official_ugc_framework"],
+        "last_reviewed": "2026-01-11",
+        "version": 1
+      }
+    },
+    {
+      "id": "degree:mbbs",
+      "type": "degree",
+      "display_name": "MBBS (Bachelor of Medicine)",
+      "requires_stream_variants": ["variant:bipc"],
+      "duration_years": 5.5,
+      "entry_exams": ["exam:neet"],
+      "leads_to_careers": ["career:doctor", "career:medical_specialist", "career:physician"],
+      "metadata": {
+        "source": ["official_ugc_framework"],
+        "last_reviewed": "2026-01-11",
+        "version": 1
+      }
+    },
+    {
+      "id": "degree:bcom",
+      "type": "degree",
+      "display_name": "B.Com (Bachelor of Commerce)",
+      "requires_stream_variants": ["variant:mec"],
+      "duration_years": 3,
+      "entry_exams": [],
+      "leads_to_careers": ["career:accountant", "career:finance_professional", "career:ca"],
+      "metadata": {
+        "source": ["official_ugc_framework"],
+        "last_reviewed": "2026-01-11",
+        "version": 1
+      }
+    },
+    {
+      "id": "degree:ba",
+      "type": "degree",
+      "display_name": "B.A (Bachelor of Arts)",
+      "requires_stream_variants": ["variant:humanities"],
+      "duration_years": 3,
+      "entry_exams": ["exam:cuet"],
+      "leads_to_careers": ["career:civil_servant", "career:teacher", "career:journalist", "career:content_creator"],
+      "metadata": {
+        "source": ["official_ugc_framework"],
+        "last_reviewed": "2026-01-11",
+        "version": 1
+      }
+    },
+    {
+      "id": "degree:bsc",
+      "type": "degree",
+      "display_name": "B.Sc (Bachelor of Science)",
+      "requires_stream_variants": ["variant:mpc", "variant:bipc"],
+      "duration_years": 3,
+      "entry_exams": ["exam:cuet"],
+      "leads_to_careers": ["career:researcher", "career:scientist", "career:teacher"],
+      "metadata": {
+        "source": ["official_ugc_framework"],
+        "last_reviewed": "2026-01-11",
+        "version": 1
+      }
+    },
+    {
+      "id": "degree:law",
+      "type": "degree",
+      "display_name": "B.L / L.L.B (Bachelor of Law)",
+      "requires_stream_variants": ["variant:mpc", "variant:mec", "variant:humanities"],
+      "duration_years": 5,
+      "entry_exams": ["exam:clat"],
+      "leads_to_careers": ["career:lawyer", "career:judge", "career:legal_consultant"],
+      "metadata": {
+        "source": ["official_ugc_framework"],
+        "last_reviewed": "2026-01-11",
+        "version": 1
+      }
+    }
+  ]
+}

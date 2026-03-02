@@ -1,0 +1,45 @@
+{
+  "career_id": "bcom",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand commerce fundamentals",
+        "Build basics of accounting and finance",
+        "Decide between job or professional courses"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete B.Com degree",
+        "Intern in accounting or finance roles",
+        "Join entry-level finance or accounting job"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "4–7 years",
+      "steps": [
+        "Pursue MBA / CA / CMA",
+        "Move into finance management",
+        "Senior accountant or business leadership roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": [
+      "Complete B.Com basics"
+    ],
+    "mid_term": [
+      "Secure first finance/accounting role"
+    ],
+    "long_term": [
+      "Finance manager / business leader"
+    ]
+  },
+  "tips_for_success": [
+    "Accounting clarity is essential",
+    "Certifications accelerate growth",
+    "Practical exposure matters more than theory"
+  ]
+}

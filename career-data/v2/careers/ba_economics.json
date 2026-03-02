@@ -1,0 +1,20 @@
+{
+  "career_id": "ba_economics",
+  "display_name": "BA Economics / Economics Honors",
+  "stream": "arts",
+  "variant": "hec",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["ba_economics"],
+  "exams_required": [],
+  "salary_band": {
+    "entry": "₹3–5 LPA",
+    "mid": "₹6–10 LPA",
+    "senior": "₹15+ LPA"
+  },
+  "failure_safe_paths": [
+    "MA Economics",
+    "Policy research roles",
+    "Banking exams"
+  ]
+}

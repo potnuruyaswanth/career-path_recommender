@@ -1,0 +1,7 @@
+{
+  "id": "course:bsc",
+  "type": "course",
+  "display_name": "Bachelor's Degree (BSc / BCom / BA)",
+  "attributes": {"eligible_stream_variants": ["variant:mpc", "variant:bipc", "variant:mec", "variant:humanities"], "duration_years": 3},
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-11", "version": 1 }
+}

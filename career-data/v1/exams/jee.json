@@ -1,0 +1,10 @@
+{
+  "exam_id": "jee",
+  "display_name": "JEE Main / Advanced",
+  "exam_type": "entrance",
+  "career_paths": ["software_engineer", "mechanical_engineer"],
+  "difficulty": "high",
+  "status": "active",
+  "last_verified": "2025-12",
+  "alternatives": ["state_cet", "jee_mains_retry"]
+}

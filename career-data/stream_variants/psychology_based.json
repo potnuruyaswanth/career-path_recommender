@@ -1,0 +1,12 @@
+{
+  "id": "variant:psychology_based",
+  "name": "Psychology-focused",
+  "full_name": "Psychology – Sociology – Civics",
+  "stream": "stream:arts",
+  "description": "Humanities path centered on psychology for counseling, HR/training, and social impact roles.",
+  "course_eligibility": ["course:ba_psychology", "course:ba_sociology"],
+  "exam_options": ["exam:upsc", "exam:state_psc"],
+  "career_focus": ["Counselor", "HR/Training"],
+  "recovery_options": ["Open degree", "Skill certifications in counseling/HR"],
+  "difficulty_level": "Medium"
+}

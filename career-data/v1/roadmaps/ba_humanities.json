@@ -1,0 +1,39 @@
+{
+  "career_id": "ba_humanities",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Explore humanities disciplines",
+        "Identify interests like history, polity, society",
+        "Build reading and writing habits"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BA degree",
+        "Participate in internships or social projects",
+        "Prepare for higher studies or govt exams"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–8 years",
+      "steps": [
+        "MA or specialized postgraduate degree",
+        "Move into research, teaching or administration",
+        "Develop subject expertise"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Choose specialization"],
+    "mid_term": ["Postgraduate degree"],
+    "long_term": ["Academic / policy leadership"]
+  },
+  "tips_for_success": [
+    "Reading depth matters more than marks",
+    "Writing clarity is critical",
+    "Higher studies unlock real scope"
+  ]
+}

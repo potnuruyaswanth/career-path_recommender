@@ -1,0 +1,383 @@
+[
+  {
+    "id": "r1",
+    "description": "BiPC variant should not lead to engineering courses",
+    "from": "variant:bipc",
+    "disallow_to_types": ["course:engineering_btech", "course:barch"]
+  },
+  {
+    "id": "r2",
+    "description": "Arts stream typically does not directly lead to MBBS",
+    "from": "stream:arts",
+    "disallow_to_types": ["course:mbbs", "course:bds", "course:bpharm", "course:nursing"]
+  },
+  {
+    "id": "r3",
+    "description": "MPC variant cannot pursue medical courses",
+    "from": "variant:mpc",
+    "disallow_to_types": ["course:mbbs", "course:bds", "course:bpharm", "course:nursing"]
+  },
+  {
+    "id": "r4",
+    "description": "PCMB variant allows both engineering and medical paths",
+    "from": "variant:pcmb",
+    "allow_to_types": ["course:engineering_btech", "course:barch", "course:mbbs", "course:bds", "course:bpharm", "course:nursing", "course:bsc"]
+  },
+  {
+    "id": "r5",
+    "description": "Science to Commerce/Arts transition - EASY",
+    "from": "stream:science",
+    "allow_to_types": ["stream:commerce", "stream:arts"],
+    "difficulty": "easy",
+    "notes": "Science students can easily switch to Commerce or Arts"
+  },
+  {
+    "id": "r6",
+    "description": "Commerce to Arts transition - EASY",
+    "from": "stream:commerce",
+    "allow_to_types": ["stream:arts"],
+    "difficulty": "easy",
+    "notes": "Commerce students can easily switch to Arts"
+  },
+  {
+    "id": "r7",
+    "description": "Arts to Commerce transition - LIMITED",
+    "from": "stream:arts",
+    "allow_to_types": ["stream:commerce"],
+    "difficulty": "limited",
+    "notes": "Arts to Commerce is possible but may require bridging mathematics"
+  },
+  {
+    "id": "r8",
+    "description": "Commerce/Arts to Science transition - VERY RARE",
+    "from": "stream:commerce",
+    "disallow_to_types": ["stream:science"],
+    "difficulty": "very_rare",
+    "notes": "Not recommended as it requires rigorous science background from 11th class"
+  },
+  {
+    "id": "r9",
+    "description": "Arts to Science transition - VERY RARE",
+    "from": "stream:arts",
+    "disallow_to_types": ["stream:science"],
+    "difficulty": "very_rare",
+    "notes": "Not recommended as it requires rigorous science background from 11th class"
+  },
+  {
+    "id": "r10",
+    "description": "Vocational to Degree - POSSIBLE via Lateral Entry",
+    "from": "stream:vocational",
+    "allow_to_types": ["course:engineering_btech", "course:polytechnic"],
+    "difficulty": "possible",
+    "notes": "ITI/Polytechnic graduates can pursue B.Tech via lateral entry (2nd year admission)",
+    "requirements": ["Merit-based selection", "Entrance exams"]
+  },
+  {
+    "id": "r11",
+    "description": "Hybrid Skills Path - Future Direction",
+    "type": "guidance",
+    "recommendation": "Combine academic stream with complementary skills for competitive advantage",
+    "examples": [
+      "Science + AI/ML + Business Skills",
+      "Commerce + Data Analytics + Technology",
+      "Arts + Policy Studies + Digital Tools",
+      "Any Stream + Online Certifications (Coursera, Udemy, etc)"
+    ],
+    "notes": "Single degree is no longer sufficient; employers value hybrid skill combinations"
+  },
+
+  {
+    "id": "r12",
+    "description": "MPC Group - Dropout/Exam Failure Alternative Paths",
+    "type": "alternative_pathway",
+    "from": "variant:mpc",
+    "situation": "Dropout after 11th-12th OR Failed to clear JEE/EAMCET/State CET",
+    "alternatives": [
+      {
+        "option": "Polytechnic Diploma (2-3 years)",
+        "courses": ["course:polytechnic"],
+        "outcomes": "ITI Technician → Supervisor → Lateral Entry B.Tech"
+      },
+      {
+        "option": "B.Sc (Open University)",
+        "courses": ["course:bsc"],
+        "outcomes": "Self-paced, part-time study, regular job + studies"
+      },
+      {
+        "option": "Skill Courses (IT, Data, Programming)",
+        "duration": "6-12 months",
+        "platforms": "NIIT, Aptech, Coursera, edX",
+        "outcomes": "Tech jobs, freelancing, startup roles"
+      },
+      {
+        "option": "Govt Competitive Exams (SSC, Banking, Railways)",
+        "eligibility": "12th pass + Diploma",
+        "outcomes": "Government job security, stable income"
+      }
+    ],
+    "success_rate": "High with polytechnic or skill courses"
+  },
+
+  {
+    "id": "r13",
+    "description": "BiPC Group - Dropout/NEET Failure Alternative Paths",
+    "type": "alternative_pathway",
+    "from": "variant:bipc",
+    "situation": "Dropout after 11th-12th OR Failed NEET exam (2+ attempts)",
+    "alternatives": [
+      {
+        "option": "B.Sc (Life Sciences/Biotech)",
+        "courses": ["course:bsc"],
+        "outcomes": "Lab scientist, researcher, PhD path"
+      },
+      {
+        "option": "Allied Health Courses (2-3 years)",
+        "examples": "Nursing, Lab Technology, X-ray Technology, Dental Hygiene",
+        "outcomes": "Healthcare jobs, paramedical roles, hospital management"
+      },
+      {
+        "option": "Pharma Sales / Quality Assurance",
+        "duration": "Diploma level",
+        "outcomes": "Pharmaceutical industry careers, good salary"
+      },
+      {
+        "option": "Govt Health Exams",
+        "examples": "Staff Nurse (AIIMS), Lab Technician (DSSSB, Railway)",
+        "outcomes": "Government healthcare job, stable career"
+      }
+    ],
+    "success_rate": "Very high - life sciences field has multiple entry points"
+  },
+
+  {
+    "id": "r14",
+    "description": "MEC Group - Dropout/Professional Exam Failure Paths",
+    "type": "alternative_pathway",
+    "from": "variant:mec",
+    "situation": "Dropout after graduation OR Failed CA/CS/CMA Foundation exams",
+    "alternatives": [
+      {
+        "option": "Skill-based Finance Courses",
+        "examples": "GST Practitioner, Income Tax Course, Corporate Accounting",
+        "duration": "6-12 months",
+        "outcomes": "Accounting jobs, tax consultant, finance analyst"
+      },
+      {
+        "option": "Govt Finance Exams",
+        "examples": "Banking (IBPS, SBI), UPSC (Finance Service), SSC CGL",
+        "duration": "6-12 months preparation",
+        "outcomes": "Bank officer, government finance job"
+      },
+      {
+        "option": "Online Degree + Internships",
+        "courses": ["NPTEL", "Coursera Finance", "edX"],
+        "examples": "Work part-time + study online for B.Com/MBA",
+        "outcomes": "Degree completion while earning, employer sponsorship possible"
+      }
+    ],
+    "success_rate": "Medium-High if switching to govt exams"
+  },
+
+  {
+    "id": "r15",
+    "description": "HEC Group - Dropout/Exam Failure Alternative Paths",
+    "type": "alternative_pathway",
+    "from": "variant:hec",
+    "situation": "Dropout after graduation OR UPSC/CLAT exam failure (multiple attempts)",
+    "alternatives": [
+      {
+        "option": "Competitive Exams (State PSC, SSC, Railway)",
+        "difficulty": "Lower than UPSC but still competitive",
+        "outcomes": "State officer, clerical job, inspector role"
+      },
+      {
+        "option": "Journalism / Content Creation",
+        "courses": ["Diploma in Journalism", "Online Media Courses"],
+        "outcomes": "Freelance journalist, content creator, media house job, YouTube/Blogging"
+      },
+      {
+        "option": "Govt Clerical / Administrative Jobs",
+        "examples": "Post Office, Railway Clerk, LDC, Data Entry",
+        "duration": "6 months preparation",
+        "outcomes": "Secure government job with pension"
+      },
+      {
+        "option": "Teaching / Coaching",
+        "qualifications": "BA + Diploma in Education or BED",
+        "outcomes": "School teacher, online tutor, coaching center owner"
+      }
+    ],
+    "success_rate": "Medium - clerical jobs very attainable"
+  },
+
+  {
+    "id": "r16",
+    "description": "HEC (History-Economics-Civics) Variant Added",
+    "type": "stream_variant",
+    "stream": "stream:arts",
+    "description": "Humanities group combining history, economics, and civics. Hybrid nature allows some commerce elements (economics). Primary pathway: Civil Services & Law. Secondary: Journalism, Teaching, Policy Analysis.",
+    "created": "2026-01-14"
+  },
+
+  {
+    "id": "r18",
+    "description": "CEC Group - Dropout/Change-Mind Paths",
+    "type": "alternative_pathway",
+    "from": "variant:cec",
+    "situation": "Dropout or change after 12th or during graduation",
+    "alternatives": [
+      { "option": "Banking Exams", "examples": "IBPS, SBI", "outcomes": "Bank clerk/officer" },
+      { "option": "SSC / State Govt Jobs", "outcomes": "Clerical/admin roles" },
+      { "option": "Skill Courses (Accounting, Excel, Data)", "duration": "3-6 months", "outcomes": "Accounts/operations jobs" },
+      { "option": "Online/Open Degree (B.Com)", "outcomes": "Finish degree while working" },
+      { "option": "Law (3-year LLB after degree/open degree)", "outcomes": "Legal/admin roles" }
+    ],
+    "success_rate": "Medium-High for banking/government"
+  },
+
+  {
+    "id": "r19",
+    "description": "HEC (Commerce-Oriented) - Dropout/Change Paths",
+    "type": "alternative_pathway",
+    "from": "variant:hec_commerce",
+    "situation": "Dropout or switch during/after graduation",
+    "alternatives": [
+      { "option": "Banking/SSC/State PSC", "outcomes": "Admin/banking roles" },
+      { "option": "Teaching Track", "requirements": "B.Ed after graduation", "outcomes": "School teacher" },
+      { "option": "MBA/M.Com/MA", "outcomes": "Management/finance/policy roles" }
+    ],
+    "success_rate": "Medium"
+  },
+
+  {
+    "id": "r17",
+    "description": "Intermediate not mandatory – Diploma/ITI/Skill → Degree → Jobs/Higher Studies",
+    "type": "guidance",
+    "from": "stream:vocational",
+    "pathways": [
+      "10th → ITI/Polytechnic/Skill → Job → Experience → Supervisor/Entrepreneur",
+      "10th → ITI/Polytechnic → Lateral Entry B.Tech (2nd year) → Engineer → M.Tech/MBA/PSU/SSC/State JE",
+      "10th → ITI/Polytechnic/Skill → Open/Regular Degree (BSc/BCom/BA) → Govt/Private jobs → Higher studies",
+      "10th → Agri Diploma → Farm management/Agri-tech jobs → Govt schemes/Own business"
+    ],
+    "notes": "Skills + experience can substitute intermediate; multiple recovery and upgrade options are available"
+  },
+
+  {
+    "id": "r20",
+    "description": "HPC - Dropout/Recovery",
+    "type": "alternative_pathway",
+    "from": "variant:hpc",
+    "situation": "Dropout or change after 11th/12th",
+    "alternatives": [
+      { "option": "Govt Exams", "examples": "SSC, State jobs", "outcomes": "Clerical/admin" },
+      { "option": "Political Consulting / Media Research", "outcomes": "Field work, research" },
+      { "option": "Open Degree BA", "outcomes": "Finish degree while working" }
+    ]
+  },
+  {
+    "id": "r21",
+    "description": "HSP - Dropout/Recovery",
+    "type": "alternative_pathway",
+    "from": "variant:hsp",
+    "situation": "Dropout or change after 11th/12th",
+    "alternatives": [
+      { "option": "Community Work + Certification", "outcomes": "NGO/support roles" },
+      { "option": "Govt Welfare Exams", "examples": "Social welfare worker", "outcomes": "Govt welfare roles" },
+      { "option": "Open Degree BA", "outcomes": "Finish degree while working" }
+    ]
+  },
+  {
+    "id": "r22",
+    "description": "HEG - Dropout/Recovery",
+    "type": "alternative_pathway",
+    "from": "variant:heg",
+    "situation": "Dropout or change after 11th/12th",
+    "alternatives": [
+      { "option": "Govt Exams (SSC/PSC)", "outcomes": "Clerical/admin" },
+      { "option": "Open Degree BA", "outcomes": "Finish degree while working" }
+    ]
+  },
+  {
+    "id": "r23",
+    "description": "Psychology-based - Dropout/Recovery",
+    "type": "alternative_pathway",
+    "from": "variant:psychology_based",
+    "situation": "Dropout or change after 11th/12th",
+    "alternatives": [
+      { "option": "Open Degree BA/BSc Psychology", "outcomes": "Continue via distance" },
+      { "option": "Counseling/HR Certifications", "outcomes": "Entry HR/assistant counselor" }
+    ]
+  },
+  {
+    "id": "r24",
+    "description": "Language-based - Dropout/Recovery",
+    "type": "alternative_pathway",
+    "from": "variant:language_based",
+    "situation": "Dropout or change after 11th/12th",
+    "alternatives": [
+      { "option": "Open Degree BA", "outcomes": "Complete degree while working" },
+      { "option": "Digital Media / Content", "outcomes": "Freelance/content roles" }
+    ]
+  }
+  ,
+  {
+    "id": "r25",
+    "description": "Vocational (All) - Common Recovery / Settlement",
+    "type": "alternative_pathway",
+    "from": "stream:vocational",
+    "situation": "Dropout or early exit from ITI/Polytechnic/Skill courses",
+    "alternatives": [
+      { "option": "Open Degree (IGNOU/State Open)", "courses": ["course:degree"], "outcomes": "Finish degree while working" },
+      { "option": "Govt Exams (SSC/Group-C/State)", "exams": ["exam:ssc", "exam:state_group_c"], "outcomes": "Clerical/assistant roles" },
+      { "option": "Re-skill + Certification", "examples": "NSQF/Skill India", "outcomes": "Better entry-level jobs" },
+      { "option": "Entrepreneurship", "outcomes": "Start small service business" }
+    ]
+  },
+  {
+    "id": "r26",
+    "description": "Polytechnic (Diploma) - Dropout/Recovery",
+    "type": "alternative_pathway",
+    "from": "course:polytechnic",
+    "situation": "Diploma discontinued or failed semesters",
+    "alternatives": [
+      { "option": "Switch to ITI/Skill", "courses": ["course:iti", "course:nsqf_it_basics"], "outcomes": "Quicker job entry" },
+      { "option": "Open Degree (B.Sc/BCA)", "courses": ["course:degree"], "outcomes": "Graduate via distance, parallel work" },
+      { "option": "Govt Exams (SSC/Group-C)", "exams": ["exam:ssc", "exam:state_group_c"], "outcomes": "Clerical/technical assistant" }
+    ]
+  },
+  {
+    "id": "r27",
+    "description": "ITI - Dropout/Recovery",
+    "type": "alternative_pathway",
+    "from": "course:iti",
+    "situation": "ITI discontinued early",
+    "alternatives": [
+      { "option": "Skill Certification", "courses": ["course:nsqf_it_basics", "course:retail_skills"], "outcomes": "Entry roles" },
+      { "option": "Informal Apprenticeship", "outcomes": "On-the-job learning" },
+      { "option": "Open Degree", "courses": ["course:degree"], "outcomes": "Graduate while working" }
+    ]
+  },
+  {
+    "id": "r28",
+    "description": "Healthcare Vocational - Dropout/Recovery",
+    "type": "alternative_pathway",
+    "from": "course:mlt_diploma",
+    "situation": "Paramedical course exit",
+    "alternatives": [
+      { "option": "Hospital Assistant Roles", "outcomes": "Support roles in clinics/hospitals" },
+      { "option": "Re-entry via Certification", "courses": ["course:healthcare_assistant"], "outcomes": "Return to healthcare" }
+    ]
+  },
+  {
+    "id": "r29",
+    "description": "Creative/Media - Dropout/Recovery",
+    "type": "alternative_pathway",
+    "from": "course:graphic_design",
+    "situation": "Left course or paused",
+    "alternatives": [
+      { "option": "Freelancing / Online Platforms", "outcomes": "Gig work, portfolio building" },
+      { "option": "Skill Rebuild + Portfolio", "outcomes": "Re-enter studios/agency roles" }
+    ]
+  }
+]

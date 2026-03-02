@@ -1,0 +1,301 @@
+[
+  {
+    "id": "course:engineering_btech",
+    "type": "course",
+    "display_name": "B.Tech / Engineering",
+    "attributes": { "eligible_stream_variants": ["variant:mpc", "variant:pcmb"], "duration_years": 4, "entry_exams": ["exam:jee", "exam:state_cet"] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:barch",
+    "type": "course",
+    "display_name": "B.Arch / Architecture",
+    "attributes": { "eligible_stream_variants": ["variant:mpc"], "duration_years": 5, "entry_exams": ["exam:jee", "exam:state_cet"] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:mbbs",
+    "type": "course",
+    "display_name": "MBBS / Medical",
+    "attributes": { "eligible_stream_variants": ["variant:bipc", "variant:pcmb"], "duration_years": 5, "entry_exams": ["exam:neet"] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:bds",
+    "type": "course",
+    "display_name": "BDS / Dental",
+    "attributes": { "eligible_stream_variants": ["variant:bipc", "variant:pcmb"], "duration_years": 4, "entry_exams": ["exam:neet"] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:bpharm",
+    "type": "course",
+    "display_name": "B.Pharm / Pharmacy",
+    "attributes": { "eligible_stream_variants": ["variant:bipc", "variant:pcmb"], "duration_years": 4, "entry_exams": ["exam:neet"] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:nursing",
+    "type": "course",
+    "display_name": "B.Sc Nursing",
+    "attributes": { "eligible_stream_variants": ["variant:bipc", "variant:pcmb"], "duration_years": 4, "entry_exams": ["exam:neet"] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:bsc",
+    "type": "course",
+    "display_name": "B.Sc / Science",
+    "attributes": { "eligible_stream_variants": ["variant:mpc", "variant:bipc", "variant:pcmb"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:bcom",
+    "type": "course",
+    "display_name": "B.Com / Bachelor of Commerce",
+    "attributes": { "eligible_stream_variants": ["variant:mec", "variant:cec", "variant:hec_commerce"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:bba",
+    "type": "course",
+    "display_name": "BBA / Bachelor of Business Administration",
+    "attributes": { "eligible_stream_variants": ["variant:mec"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:bms",
+    "type": "course",
+    "display_name": "BMS / Bachelor of Management Studies",
+    "attributes": { "eligible_stream_variants": ["variant:mec", "variant:cec", "variant:hec_commerce"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ca",
+    "type": "course",
+    "display_name": "CA / Chartered Accountant",
+    "attributes": { "eligible_stream_variants": ["variant:mec"], "duration_years": 4.5, "entry_exams": ["exam:ca_foundation"], "requirements": ["articleship"] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:cs",
+    "type": "course",
+    "display_name": "CS / Company Secretary",
+    "attributes": { "eligible_stream_variants": ["variant:mec"], "duration_years": 4.5, "entry_exams": ["exam:cs_foundation"], "requirements": ["articleship"] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:cma",
+    "type": "course",
+    "display_name": "CMA / Cost Management Accountant",
+    "attributes": { "eligible_stream_variants": ["variant:mec"], "duration_years": 4.5, "entry_exams": ["exam:cma_foundation"], "requirements": ["articleship"] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ba_economics",
+    "type": "course",
+    "display_name": "BA Economics / Economics Honors",
+    "attributes": { "eligible_stream_variants": ["variant:mec", "variant:cec", "variant:hec_commerce"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ba_public_admin",
+    "type": "course",
+    "display_name": "BA Public Administration",
+    "attributes": { "eligible_stream_variants": ["variant:cec"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:mba",
+    "type": "course",
+    "display_name": "MBA / Master of Business Administration",
+    "attributes": { "eligible_stream_variants": ["variant:mec"], "duration_years": 2, "entry_exams": [] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:mcom",
+    "type": "course",
+    "display_name": "M.Com / Master of Commerce",
+    "attributes": { "eligible_stream_variants": ["variant:mec"], "duration_years": 2 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:degree",
+    "type": "course",
+    "display_name": "Bachelor's Degree (BSc / BCom / BA)",
+    "attributes": { "eligible_stream_variants": ["variant:mpc", "variant:bipc", "variant:mec", "variant:technical_skills", "variant:creative_service_skills"], "duration_years": 3, "mode": ["regular", "open/distance"], "notes": "Open/regular degree option for diploma/ITI/skill learners" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ba_humanities",
+    "type": "course",
+    "display_name": "BA / Bachelor of Arts (Humanities)",
+    "attributes": { "eligible_stream_variants": ["variant:humanities"], "duration_years": 3, "specializations": ["History", "Political Science", "Economics", "Geography", "Sociology"] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ba_political_science",
+    "type": "course",
+    "display_name": "BA Political Science",
+    "attributes": { "eligible_stream_variants": ["variant:hpc", "variant:hec", "variant:hec_commerce"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ba_history",
+    "type": "course",
+    "display_name": "BA History",
+    "attributes": { "eligible_stream_variants": ["variant:hpc", "variant:hec", "variant:hec_commerce"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ba_sociology",
+    "type": "course",
+    "display_name": "BA Sociology",
+    "attributes": { "eligible_stream_variants": ["variant:hsp"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ba_social_work",
+    "type": "course",
+    "display_name": "BA Social Work",
+    "attributes": { "eligible_stream_variants": ["variant:hsp"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ba_geography",
+    "type": "course",
+    "display_name": "BA Geography",
+    "attributes": { "eligible_stream_variants": ["variant:heg"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ba_literature",
+    "type": "course",
+    "display_name": "BA Literature",
+    "attributes": { "eligible_stream_variants": ["variant:language_based"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ba_llb",
+    "type": "course",
+    "display_name": "BA LLB / Law (5-Year Integrated)",
+    "attributes": { "eligible_stream_variants": ["variant:humanities"], "duration_years": 5, "entry_exams": ["exam:clat", "exam:state_law_exam"] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:llb",
+    "type": "course",
+    "display_name": "LLB / Bachelor of Laws",
+    "attributes": { "eligible_stream_variants": ["variant:humanities"], "duration_years": 3, "entry_exams": [] },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:bjmc",
+    "type": "course",
+    "display_name": "BJMC / Bachelor of Journalism and Mass Communication",
+    "attributes": { "eligible_stream_variants": ["variant:humanities"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:ba_psychology",
+    "type": "course",
+    "display_name": "BA Psychology / Bachelor of Arts in Psychology",
+    "attributes": { "eligible_stream_variants": ["variant:humanities"], "duration_years": 3 },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:iti",
+    "type": "course",
+    "display_name": "ITI / Industrial Training Institute",
+    "attributes": { "eligible_stream_variants": ["variant:technical_skills"], "duration_years": 2, "certification": "National Certificate" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:polytechnic",
+    "type": "course",
+    "display_name": "Polytechnic / Diploma",
+    "attributes": { "eligible_stream_variants": ["variant:technical_skills"], "duration_years": 3, "certification": "Diploma in Engineering" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:graphic_design",
+    "type": "course",
+    "display_name": "Graphic Design / Web Design Certificate",
+    "attributes": { "eligible_stream_variants": ["variant:creative_service_skills"], "duration_years": 1, "certification": "Professional Certificate" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:hospitality",
+    "type": "course",
+    "display_name": "Hospitality & Tourism Management",
+    "attributes": { "eligible_stream_variants": ["variant:creative_service_skills"], "duration_years": 2, "certification": "Hospitality Diploma" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:healthcare_assistant",
+    "type": "course",
+    "display_name": "Healthcare Support / Nursing Assistant",
+    "attributes": { "eligible_stream_variants": ["variant:creative_service_skills"], "duration_years": 1, "certification": "Healthcare Certificate" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:agri_diploma",
+    "type": "course",
+    "display_name": "Agriculture & Allied Diploma",
+    "attributes": {
+      "eligible_stream_variants": ["variant:technical_skills"],
+      "duration_years": 2,
+      "specializations": ["Farm Management", "Agri Tech", "Horticulture", "Animal Husbandry"],
+      "outcomes": "Farm management, agri tech jobs, govt schemes, entrepreneurship"
+    },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:nsqf_it_basics",
+    "type": "course",
+    "display_name": "NSQF IT / Digital Basics",
+    "attributes": { "eligible_stream_variants": ["variant:technical_skills"], "duration_years": 0.5, "certification": "NSQF Level" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:retail_skills",
+    "type": "course",
+    "display_name": "Retail & Sales Skills",
+    "attributes": { "eligible_stream_variants": ["variant:creative_service_skills"], "duration_years": 0.5, "certification": "Skill Certificate" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:tourism_skills",
+    "type": "course",
+    "display_name": "Tourism & Travel Basics",
+    "attributes": { "eligible_stream_variants": ["variant:creative_service_skills"], "duration_years": 0.5, "certification": "Skill Certificate" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:mlt_diploma",
+    "type": "course",
+    "display_name": "Diploma in Medical Lab Technology (MLT)",
+    "attributes": { "eligible_stream_variants": ["variant:creative_service_skills"], "duration_years": 2, "certification": "Paramedical Diploma" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:anm",
+    "type": "course",
+    "display_name": "ANM / Auxiliary Nurse Midwifery",
+    "attributes": { "eligible_stream_variants": ["variant:creative_service_skills"], "duration_years": 2, "certification": "Nursing" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:gnm",
+    "type": "course",
+    "display_name": "GNM / General Nursing & Midwifery",
+    "attributes": { "eligible_stream_variants": ["variant:creative_service_skills"], "duration_years": 3, "certification": "Nursing" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  },
+  {
+    "id": "course:emt",
+    "type": "course",
+    "display_name": "Emergency Medical Technician (EMT)",
+    "attributes": { "eligible_stream_variants": ["variant:creative_service_skills"], "duration_years": 1, "certification": "Paramedical" },
+    "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "career_id": "ba_geography",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand physical and human geography",
+        "Develop map and spatial skills",
+        "Explore GIS applications"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BA Geography",
+        "Assist in GIS or planning roles",
+        "Prepare for MA Geography"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–8 years",
+      "steps": [
+        "GIS specialization",
+        "Urban / environmental planning",
+        "Senior geospatial roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["BA Geography"],
+    "mid_term": ["GIS skill development"],
+    "long_term": ["Planning / research lead"]
+  },
+  "tips_for_success": [
+    "GIS skills add strong value",
+    "Technical tools matter",
+    "Environmental knowledge boosts scope"
+  ]
+}

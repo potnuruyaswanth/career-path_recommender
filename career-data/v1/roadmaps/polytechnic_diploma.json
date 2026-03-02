@@ -1,0 +1,39 @@
+{
+  "career_id": "polytechnic_diploma",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "6 months",
+      "steps": [
+        "Select diploma branch (Mechanical, Civil, EEE)",
+        "Understand lateral entry opportunities",
+        "Prepare for state polytechnic admissions"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete diploma course",
+        "Join as junior engineer or technician",
+        "Optionally enter B.Tech via lateral entry"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "4–8 years",
+      "steps": [
+        "Gain field experience",
+        "Upgrade to engineering or management roles",
+        "Move into senior technical positions"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Diploma completion"],
+    "mid_term": ["Junior engineer role"],
+    "long_term": ["Senior engineer / site head"]
+  },
+  "tips_for_success": [
+    "Field exposure is critical",
+    "Lateral entry boosts growth",
+    "Certifications add value"
+  ]
+}

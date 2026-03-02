@@ -1,0 +1,52 @@
+{
+  "id": "variant:hec",
+  "name": "HEC",
+  "full_name": "History–Economics–Civics",
+  "stream": "stream:arts",
+  "description": "Humanities group with economics and civics focus. Suitable for students interested in social sciences, economics, policy-making, law, and government. Strong foundation for civil services, law, journalism, and policy analysis. Hybrid nature allows some commerce elements.",
+  "characteristics": {
+    "focus": "Social Sciences + Economics",
+    "subjects": ["History", "Economics", "Civics/Political Science"],
+    "optional": ["Geography", "Psychology", "Sociology"],
+    "target_students": "Policy makers, civil servants, lawyers, economists, journalists, administrators",
+    "aptitude": "Analytical thinking, current affairs awareness, writing skills, ethics, public interest"
+  },
+  "career_pathways": {
+    "direct": ["Civil Services (UPSC/PSC)", "Law", "Journalism", "Teaching", "Policy Research"],
+    "with_additional_studies": ["MBA (Finance/Policy)", "M.A in Economics", "PhD (Social Sciences)"],
+    "entrepreneurship": ["Policy Consulting", "News Media", "Educational Institutions", "NGO Leadership"]
+  },
+  "exam_options": [
+    "exam:upsc",
+    "exam:state_psc",
+    "exam:clat"
+  ],
+  "course_eligibility": [
+    "course:ba_humanities",
+    "course:ba_llb",
+    "course:bjmc",
+    "course:ba_psychology",
+    "course:mba",
+    "course:mcom"
+  ],
+  "progression": {
+    "11th_12th": "Studies history, economics, civics with depth in social understanding",
+    "after_12th": "Multiple pathways: (1) BA Humanities + UPSC/Law, (2) BA LLB direct, (3) Diploma in Journalism, (4) B.Com for business blend",
+    "after_graduation": "Professional exams (UPSC, CLAT, CA if commerce blend), Master's programs, direct employment"
+  },
+  "advantages": [
+    "Clear path to prestigious civil services (IAS/IPS/IFS)",
+    "Strong foundation for law studies (judiciary, corporate law, NGO work)",
+    "Media and journalism careers with strong voice",
+    "Policy influence and social impact roles",
+    "Flexibility to add commerce skills for business policy"
+  ],
+  "challenges": [
+    "Highly competitive exams (UPSC has 0.001% selection rate)",
+    "Requires consistent preparation over years",
+    "Limited private sector focus compared to science/commerce",
+    "Requires strong current affairs and reading habits"
+  ],
+  "difficulty_level": "Medium-High (exams competitive but subjects accessible)",
+  "market_demand": "High for government jobs, medium for private sector (policy roles, consulting)"
+}

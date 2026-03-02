@@ -1,0 +1,55 @@
+{
+  "id": "career:bsc_nursing",
+  "display_name": "B.Sc Nursing",
+  "stream": "Science",
+  "icon": "👩‍⚕️",
+  "description": "Nursing professional providing comprehensive patient care",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "title": "Decision & Preparation",
+      "steps": [
+        "Understand nursing responsibilities",
+        "Prepare science subjects",
+        "Apply for nursing entrance exams"
+      ]
+    },
+    "career_entry": {
+      "duration": "4 years",
+      "title": "Career Entry",
+      "steps": [
+        "Complete B.Sc Nursing",
+        "Register with Nursing Council",
+        "Join hospital or healthcare center"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–5 years",
+      "title": "Growth & Specialization",
+      "steps": [
+        "Specialize (ICU, Pediatrics, etc.)",
+        "Move to senior nurse or educator roles",
+        "Pursue M.Sc Nursing"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": {
+      "label": "SHORT TERM (0-1 years)",
+      "milestones": ["Join Nursing course"]
+    },
+    "mid_term": {
+      "label": "MID TERM (1-4 years)",
+      "milestones": ["Registered Nurse"]
+    },
+    "long_term": {
+      "label": "LONG TERM (4+ years)",
+      "milestones": ["Senior Nurse / Educator"]
+    }
+  },
+  "tips_for_success": [
+    "Empathy and patience are vital",
+    "Clinical skills matter more than theory",
+    "Work experience improves career stability"
+  ]
+}

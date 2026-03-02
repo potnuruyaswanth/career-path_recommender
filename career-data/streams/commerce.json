@@ -1,0 +1,22 @@
+{
+  "id": "stream:commerce",
+  "type": "stream",
+  "display_name": "Commerce",
+  "short_description": "Commerce stream focusing on business, economics, and accountancy leading to finance and business careers.",
+  "description": "Commerce stream offers two main paths: Professional Route (CA/CS/CMA certifications with articleship) for specialized professional careers, and Degree Route (B.Com/BBA/BMS) for broader business education leading to MBA and diverse business careers.",
+  "paths": [
+    {
+      "name": "Professional Route",
+      "courses": ["course:ca", "course:cs", "course:cma"],
+      "requirements": ["articleship"],
+      "careers": ["career:auditor", "career:financial_analyst", "career:corporate_lawyer", "career:cfo_consultant"]
+    },
+    {
+      "name": "Degree Route",
+      "courses": ["course:bcom", "course:bba", "course:bms"],
+      "higher_studies": ["course:mba", "course:mcom"],
+      "careers": ["career:banker", "career:finance_professional", "career:business_manager", "career:entrepreneur"]
+    }
+  ],
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 2 }
+}

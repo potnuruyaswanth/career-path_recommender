@@ -1,0 +1,9 @@
+{
+  "variant_id": "mpc",
+  "display_name": "Mathematics, Physics, Chemistry",
+  "stream": "science",
+  "description": "Engineering and Computer Science focused",
+  "status": "active",
+  "last_verified": "2025-12",
+  "careers": ["software_engineer", "mechanical_engineer", "civil_engineer"]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "career:bpharm_pharmacist",
+  "display_name": "B.Pharm / Pharmacist",
+  "stream": "Science",
+  "icon": "💊",
+  "description": "Pharmaceutical professional managing medications and patient health",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "title": "Decision & Preparation",
+      "steps": [
+        "Understand pharmaceutical roles",
+        "Choose B.Pharm or D.Pharm",
+        "Prepare for state admission exams"
+      ]
+    },
+    "career_entry": {
+      "duration": "4 years",
+      "title": "Career Entry",
+      "steps": [
+        "Complete pharmacy degree",
+        "Register with State Pharmacy Council",
+        "Join hospital / retail / pharma company"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–5 years",
+      "title": "Growth & Specialization",
+      "steps": [
+        "Move into clinical / industrial pharmacy",
+        "Pursue M.Pharm or MBA",
+        "Take supervisory roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": {
+      "label": "SHORT TERM (0-1 years)",
+      "milestones": ["Join pharmacy course"]
+    },
+    "mid_term": {
+      "label": "MID TERM (1-4 years)",
+      "milestones": ["Registered Pharmacist"]
+    },
+    "long_term": {
+      "label": "LONG TERM (4+ years)",
+      "milestones": ["Senior Pharmacist / Manager"]
+    }
+  },
+  "tips_for_success": [
+    "Accuracy and responsibility are critical",
+    "Regulatory knowledge is important",
+    "Industry exposure boosts growth"
+  ]
+}

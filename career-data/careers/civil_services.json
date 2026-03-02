@@ -1,0 +1,8 @@
+{
+  "id": "career:civil_services",
+  "type": "career",
+  "display_name": "Civil Services (IAS / IPS / Administrative)",
+  "attributes": {"course_ids": ["course:bsc", "course:degree_general"], "career_type": "Government", "nature": "Administrative", "nba_attributes": {"has_exam": true, "is_govt_service": true, "exam_types": ["upsc"]}},
+  "skills": ["skill:communication", "skill:analytical_reasoning"],
+  "metadata": { "source": ["industry_consensus"], "last_reviewed": "2026-01-11", "version": 1 }
+}

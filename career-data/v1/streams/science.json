@@ -1,0 +1,8 @@
+{
+  "stream_id": "science",
+  "display_name": "Science",
+  "description": "Physics, Chemistry, Biology / Mathematics based careers",
+  "variants": ["mpc", "bipc", "mec"],
+  "status": "active",
+  "last_verified": "2025-12"
+}

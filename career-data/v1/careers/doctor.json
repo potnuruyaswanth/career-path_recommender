@@ -1,0 +1,24 @@
+{
+  "career_id": "doctor",
+  "display_name": "Doctor (MBBS)",
+  "stream": "science",
+  "variant": "bipc",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": [
+    "mbbs"
+  ],
+  "exams_required": [
+    "neet"
+  ],
+  "salary_band": {
+    "entry": "₹6–10 LPA",
+    "mid": "₹15–25 LPA",
+    "senior": "₹40+ LPA"
+  },
+  "failure_safe_paths": [
+    "B.Sc Life Sciences",
+    "Allied health courses",
+    "Medical administration"
+  ]
+}

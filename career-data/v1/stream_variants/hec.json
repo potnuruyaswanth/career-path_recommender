@@ -1,0 +1,9 @@
+{
+  "variant_id": "hec",
+  "display_name": "History, Economics, Commerce",
+  "stream": "arts",
+  "description": "Business and Administration focused",
+  "status": "active",
+  "last_verified": "2025-12",
+  "careers": ["civil_services", "chartered_accountant", "company_secretary"]
+}

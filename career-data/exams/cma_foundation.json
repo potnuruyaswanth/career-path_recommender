@@ -1,0 +1,9 @@
+{
+  "id": "exam:cma_foundation",
+  "type": "exam",
+  "display_name": "CMA Foundation",
+  "requires": ["education:class_12"],
+  "leads_to": ["course:cma"],
+  "description": "Foundation level exam for Cost Management Accountant. Prerequisite before pursuing CMA certification.",
+  "metadata": { "source": ["official_exam_org"], "last_reviewed": "2026-01-14", "version": 1 }
+}

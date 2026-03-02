@@ -1,0 +1,29 @@
+{
+  "subject_requirements": [
+    {
+      "path": "engineering",
+      "required_subjects": ["Mathematics", "Physics", "Chemistry"],
+      "notes": "Standard requirement for B.Tech/B.E admission"
+    },
+    {
+      "path": "medical",
+      "required_subjects": ["Biology", "Physics", "Chemistry"],
+      "notes": "Standard requirement for MBBS/Medical admission"
+    },
+    {
+      "path": "commerce_degrees",
+      "required_subjects": ["Accountancy"],
+      "notes": "Standard requirement for B.Com admission"
+    },
+    {
+      "path": "law",
+      "required_subjects": [],
+      "notes": "No specific subject requirement, based on eligibility test"
+    },
+    {
+      "path": "humanities",
+      "required_subjects": [],
+      "notes": "Flexible subject combination in Arts stream"
+    }
+  ]
+}

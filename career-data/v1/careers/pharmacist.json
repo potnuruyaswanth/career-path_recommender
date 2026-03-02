@@ -1,0 +1,25 @@
+{
+  "career_id": "pharmacist",
+  "display_name": "Pharmacist",
+  "stream": "science",
+  "variant": "bipc",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": [
+    "b_pharm",
+    "d_pharm"
+  ],
+  "exams_required": [
+    "state_pharmacy_council"
+  ],
+  "salary_band": {
+    "entry": "₹2–4 LPA",
+    "mid": "₹5–8 LPA",
+    "senior": "₹12+ LPA"
+  },
+  "failure_safe_paths": [
+    "Medical sales",
+    "Hospital assistant roles",
+    "Clinical research support"
+  ]
+}

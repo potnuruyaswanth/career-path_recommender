@@ -1,0 +1,26 @@
+{
+  "career_id": "civil_services",
+  "display_name": "Civil Services (IAS/IPS/IFS)",
+  "stream": "arts",
+  "variant": "hec",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": [
+    "ba",
+    "bsc",
+    "bcom"
+  ],
+  "exams_required": [
+    "upsc"
+  ],
+  "salary_band": {
+    "entry": "₹10–15 LPA",
+    "mid": "₹20–30 LPA",
+    "senior": "₹40+ LPA"
+  },
+  "failure_safe_paths": [
+    "State PSC services",
+    "SSC / Group A & B jobs",
+    "Policy & public administration roles"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "career_id": "nurse_anm",
+  "display_name": "Auxiliary Nurse Midwifery (ANM)",
+  "stream": "vocational",
+  "variant": "technical_skills",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": [
+    "anm"
+  ],
+  "exams_required": [],
+  "salary_band": {
+    "entry": "₹1.8–3 LPA",
+    "mid": "₹4–6 LPA",
+    "senior": "₹8+ LPA"
+  },
+  "failure_safe_paths": [
+    "GNM nursing",
+    "Healthcare assistant roles",
+    "Community health worker"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "course_id": "b_tech_cse",
+  "display_name": "B.Tech Computer Science",
+  "stream": "science",
+  "variant": "mpc",
+  "duration_years": 4,
+  "careers": ["software_engineer"],
+  "status": "active",
+  "last_verified": "2025-12"
+}

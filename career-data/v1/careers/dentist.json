@@ -1,0 +1,24 @@
+{
+  "career_id": "dentist",
+  "display_name": "Dentist",
+  "stream": "science",
+  "variant": "bipc",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": [
+    "bds"
+  ],
+  "exams_required": [
+    "neet"
+  ],
+  "salary_band": {
+    "entry": "₹4–7 LPA",
+    "mid": "₹10–15 LPA",
+    "senior": "₹25+ LPA"
+  },
+  "failure_safe_paths": [
+    "Dental assistant roles",
+    "Dental lab technician",
+    "Healthcare management"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "career_id": "iti",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "3–6 months",
+      "steps": [
+        "Choose trade based on interest (Electrician, Fitter, Welder)",
+        "Check ITI eligibility and admission process",
+        "Understand job-oriented nature of ITI"
+      ]
+    },
+    "career_entry": {
+      "duration": "1–2 years",
+      "steps": [
+        "Complete ITI trade training",
+        "Gain hands-on workshop experience",
+        "Join industry as technician or apprentice"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "3–6 years",
+      "steps": [
+        "Gain industry experience",
+        "Upgrade skills or certifications",
+        "Move into supervisor or instructor roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["ITI trade completion"],
+    "mid_term": ["Industry technician role"],
+    "long_term": ["Senior technician / supervisor"]
+  },
+  "tips_for_success": [
+    "Practical skills matter more than theory",
+    "Industry exposure is key",
+    "Continuous upskilling increases salary"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "career_id": "tourism_travel_basics",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1–3 months",
+      "steps": [
+        "Understand travel industry basics",
+        "Develop customer interaction skills",
+        "Learn ticketing and planning"
+      ]
+    },
+    "career_entry": {
+      "duration": "6–12 months",
+      "steps": [
+        "Complete travel basics course",
+        "Join travel agency or airline support",
+        "Handle bookings and tours"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "4–7 years",
+      "steps": [
+        "Tour operations management",
+        "International travel handling",
+        "Senior tourism roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Travel certification"],
+    "mid_term": ["Tour executive"],
+    "long_term": ["Tour operations manager"]
+  },
+  "tips_for_success": [
+    "Customer service is crucial",
+    "Geography knowledge helps",
+    "Experience builds trust"
+  ]
+}

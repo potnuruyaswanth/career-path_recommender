@@ -1,0 +1,8 @@
+{
+  "id": "exam:jee",
+  "type": "exam",
+  "display_name": "Joint Entrance Examination (JEE)",
+  "requires": ["variant:mpc"],
+  "leads_to": ["course:engineering_btech"],
+  "metadata": { "source": ["official_exam_org"], "last_reviewed": "2026-01-11", "version": 1 }
+}

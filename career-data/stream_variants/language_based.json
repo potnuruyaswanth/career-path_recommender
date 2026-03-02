@@ -1,0 +1,12 @@
+{
+  "id": "variant:language_based",
+  "name": "Language-focused",
+  "full_name": "Literature + Social Sciences",
+  "stream": "stream:arts",
+  "description": "Humanities route focused on languages and literature with social sciences context for teaching, translation, and content careers.",
+  "course_eligibility": ["course:ba_literature", "course:ba_humanities"],
+  "exam_options": ["exam:upsc", "exam:state_psc"],
+  "career_focus": ["Teaching", "Content Writing", "Translation"],
+  "recovery_options": ["Open degree", "Digital media"],
+  "difficulty_level": "Medium"
+}

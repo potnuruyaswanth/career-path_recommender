@@ -1,0 +1,39 @@
+{
+  "career_id": "agriculture_diploma",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "3–6 months",
+      "steps": [
+        "Understand agriculture and allied sectors",
+        "Explore diploma options (horticulture, dairy)",
+        "Assess rural and field-based work interest"
+      ]
+    },
+    "career_entry": {
+      "duration": "2–3 years",
+      "steps": [
+        "Complete agriculture diploma",
+        "Work as field assistant or technician",
+        "Join govt or private agri organizations"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–8 years",
+      "steps": [
+        "Specialize in agri-tech or management",
+        "Move into advisory or supervisory roles",
+        "Start independent agri-business"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Diploma completion"],
+    "mid_term": ["Field officer role"],
+    "long_term": ["Agri consultant / entrepreneur"]
+  },
+  "tips_for_success": [
+    "Field work experience is essential",
+    "Technology adoption improves growth",
+    "Government schemes knowledge helps"
+  ]
+}

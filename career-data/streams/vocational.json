@@ -1,0 +1,22 @@
+{
+  "id": "stream:vocational",
+  "type": "stream",
+  "display_name": "Vocational / Skill Stream",
+  "short_description": "Vocational and skill-based education focusing on practical training and industry readiness after Class 10.",
+  "description": "Vocational stream offers direct entry into skill-based careers without traditional academics. Two main paths: Technical Skills (ITI/Polytechnic) for industry jobs with growth to supervisory or entrepreneurial roles, and Creative/Service Skills (Design, Media, Tourism, Healthcare) for immediate employment or freelance work. Provides lateral entry to degree programs.",
+  "paths": [
+    {
+      "name": "Technical Skills",
+      "courses": ["course:iti", "course:polytechnic"],
+      "careers": ["career:iti_technician", "career:technician_supervisor", "career:vocational_entrepreneur"],
+      "advancement": "Lateral entry to B.Tech, upskilling, or business ownership"
+    },
+    {
+      "name": "Creative / Service Skills",
+      "courses": ["course:graphic_design", "course:hospitality", "course:healthcare_assistant"],
+      "careers": ["career:designer", "career:hospitality_professional", "career:healthcare_support"],
+      "advancement": "Freelancing, job placement, startup opportunities"
+    }
+  ],
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+}

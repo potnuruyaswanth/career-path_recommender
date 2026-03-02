@@ -1,0 +1,39 @@
+{
+  "career_id": "vocational_bachelors_degree",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "6–12 months",
+      "steps": [
+        "Choose degree aligned with skills",
+        "Understand career vs academic orientation",
+        "Plan internships early"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete bachelor's degree",
+        "Gain internships or project experience",
+        "Enter job market or skill specialization"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–8 years",
+      "steps": [
+        "Professional certifications",
+        "Management or technical leadership roles",
+        "Higher studies if required"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["Degree completion"],
+    "mid_term": ["First skilled job"],
+    "long_term": ["Specialist / manager"]
+  },
+  "tips_for_success": [
+    "Skills + degree matter most",
+    "Internships are crucial",
+    "Continuous learning is key"
+  ]
+}

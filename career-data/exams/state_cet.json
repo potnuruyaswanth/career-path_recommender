@@ -1,0 +1,9 @@
+{
+  "id": "exam:state_cet",
+  "type": "exam",
+  "display_name": "State Common Entrance Test (CET)",
+  "requires": ["variant:mpc"],
+  "leads_to": ["course:engineering_btech", "course:bsc"],
+  "description": "State-level entrance exam for engineering and technical courses conducted by various state education boards.",
+  "metadata": { "source": ["official_exam_org"], "last_reviewed": "2026-01-14", "version": 1 }
+}

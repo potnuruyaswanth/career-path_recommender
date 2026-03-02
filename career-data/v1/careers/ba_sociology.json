@@ -1,0 +1,20 @@
+{
+  "career_id": "ba_sociology",
+  "display_name": "BA Sociology",
+  "stream": "arts",
+  "variant": "hsp",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["ba_sociology"],
+  "exams_required": [],
+  "salary_band": {
+    "entry": "₹3–5 LPA",
+    "mid": "₹6–10 LPA",
+    "senior": "₹15+ LPA"
+  },
+  "failure_safe_paths": [
+    "Social research roles",
+    "NGO / CSR sector",
+    "MA Sociology / Social Work"
+  ]
+}

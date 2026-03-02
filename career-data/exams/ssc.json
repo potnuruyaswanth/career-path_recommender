@@ -1,0 +1,7 @@
+{
+  "id": "exam:ssc",
+  "type": "exam",
+  "display_name": "SSC (Staff Selection Commission)",
+  "attributes": { "level": "Government Exams", "eligibility": "10th/12th/Diploma/Graduates" },
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+}

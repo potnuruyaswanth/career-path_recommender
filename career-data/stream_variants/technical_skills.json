@@ -1,0 +1,9 @@
+{
+  "id": "variant:technical_skills",
+  "type": "stream_variant",
+  "display_name": "Technical Skills (ITI/Polytechnic)",
+  "subjects": ["Mechanical", "Electrical", "Electronics", "Automotive", "Plumbing", "Welding"],
+  "eligible_after": "education:class_10",
+  "description": "Technical vocational training for hands-on industrial skills and trade certifications.",
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+}

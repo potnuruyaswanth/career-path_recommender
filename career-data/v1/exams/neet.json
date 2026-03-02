@@ -1,0 +1,10 @@
+{
+  "exam_id": "neet",
+  "display_name": "NEET (National Eligibility cum Entrance Test)",
+  "exam_type": "entrance",
+  "career_paths": ["doctor", "dentist", "pharmacist", "nurse_gnm"],
+  "difficulty": "high",
+  "status": "active",
+  "last_verified": "2025-12",
+  "alternatives": ["state_medical_entrance", "neet_retry"]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "variant:hec_commerce",
+  "name": "HEC (Commerce-Oriented)",
+  "full_name": "History – Economics – Commerce",
+  "stream": "stream:commerce",
+  "description": "Commerce-oriented HEC blend for students wanting economics + commerce with social sciences context. Suitable for teaching, policy, government exams, commerce degrees, and BA Economics/History.",
+  "characteristics": {
+    "focus": "Commerce + Economics + Social Sciences",
+    "subjects": ["History", "Economics", "Commerce/Accounting"],
+    "optional": ["Public Administration", "Political Science"],
+    "target_students": "Commerce students who want policy/teaching/government paths",
+    "aptitude": "Reading, reasoning, numeracy, public affairs awareness"
+  },
+  "career_pathways": {
+    "direct": ["Teaching (after B.Ed)", "Banking exams", "Government clerical/admin roles"],
+    "with_additional_studies": ["MBA", "M.Com", "MA Economics/History", "LLB"],
+    "exams": ["IBPS", "SBI", "SSC", "State PSC"]
+  },
+  "course_eligibility": ["course:bcom", "course:ba_economics", "course:degree"],
+  "progression": {
+    "11th_12th": "Commerce base with history/economics blend",
+    "after_12th": "B.Com / BA Economics / BA History → banking/admin/teaching",
+    "after_graduation": "MBA/M.Com/MA/LLB or government exams"
+  },
+  "advantages": [
+    "Keeps both commerce and govt exam routes open",
+    "History improves essay/current affairs for PSC/UPSC",
+    "Economics + commerce supports banking roles"
+  ],
+  "challenges": [
+    "Needs self-driven math practice for quant sections",
+    "Teaching path needs B.Ed/qualifications"
+  ],
+  "difficulty_level": "Medium",
+  "market_demand": "High for banking/admin; stable for teaching"
+}

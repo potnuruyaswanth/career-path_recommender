@@ -1,0 +1,20 @@
+{
+  "career_id": "scientific_researcher",
+  "display_name": "Scientific Researcher",
+  "stream": "science",
+  "variant": "mpc",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["msc", "phd"],
+  "exams_required": ["gate", "csir_net"],
+  "salary_band": {
+    "entry": "₹6–10 LPA",
+    "mid": "₹12–20 LPA",
+    "senior": "₹30+ LPA"
+  },
+  "failure_safe_paths": [
+    "Industry R&D roles",
+    "Teaching & academia",
+    "Technical consulting"
+  ]
+}

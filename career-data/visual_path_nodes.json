@@ -1,0 +1,144 @@
+{
+  "visual_nodes": [
+    {
+      "id": "class_10",
+      "type": "start",
+      "display_name": "Class 10",
+      "level": 1,
+      "description": "Entry point to Indian education system decision"
+    },
+    {
+      "id": "stream:science",
+      "type": "stream",
+      "display_name": "Science",
+      "level": 2,
+      "description": "Science stream with technical focus"
+    },
+    {
+      "id": "stream:commerce",
+      "type": "stream",
+      "display_name": "Commerce",
+      "level": 2,
+      "description": "Commerce stream with business focus"
+    },
+    {
+      "id": "stream:arts",
+      "type": "stream",
+      "display_name": "Arts/Humanities",
+      "level": 2,
+      "description": "Humanities stream with social sciences focus"
+    },
+    {
+      "id": "variant:mpc",
+      "type": "variant",
+      "display_name": "MPC (Math, Physics, Chemistry)",
+      "level": 3,
+      "parent_stream": "stream:science"
+    },
+    {
+      "id": "variant:bipc",
+      "type": "variant",
+      "display_name": "BiPC (Biology, Physics, Chemistry)",
+      "level": 3,
+      "parent_stream": "stream:science"
+    },
+    {
+      "id": "variant:mec",
+      "type": "variant",
+      "display_name": "MEC (Math, Economics, Commerce)",
+      "level": 3,
+      "parent_stream": "stream:commerce"
+    },
+    {
+      "id": "variant:humanities",
+      "type": "variant",
+      "display_name": "Humanities",
+      "level": 3,
+      "parent_stream": "stream:arts"
+    },
+    {
+      "id": "exam:jee",
+      "type": "exam",
+      "display_name": "JEE",
+      "level": 4,
+      "description": "Joint Entrance Examination for engineering"
+    },
+    {
+      "id": "exam:neet",
+      "type": "exam",
+      "display_name": "NEET",
+      "level": 4,
+      "description": "National Eligibility cum Entrance Test for medical"
+    },
+    {
+      "id": "exam:cuet",
+      "type": "exam",
+      "display_name": "CUET",
+      "level": 4,
+      "description": "Common University Entrance Test"
+    },
+    {
+      "id": "exam:clat",
+      "type": "exam",
+      "display_name": "CLAT",
+      "level": 4,
+      "description": "Common Law Admission Test"
+    },
+    {
+      "id": "degree:btech",
+      "type": "course",
+      "display_name": "B.Tech",
+      "level": 5,
+      "description": "4-year engineering degree"
+    },
+    {
+      "id": "degree:mbbs",
+      "type": "course",
+      "display_name": "MBBS",
+      "level": 5,
+      "description": "5.5-year medical degree"
+    },
+    {
+      "id": "degree:bcom",
+      "type": "course",
+      "display_name": "B.Com",
+      "level": 5,
+      "description": "3-year commerce degree"
+    },
+    {
+      "id": "degree:ba",
+      "type": "course",
+      "display_name": "B.A",
+      "level": 5,
+      "description": "3-year arts degree"
+    },
+    {
+      "id": "career:software_engineer",
+      "type": "career",
+      "display_name": "Software Engineer",
+      "level": 6,
+      "description": "IT professional developing software"
+    },
+    {
+      "id": "career:doctor",
+      "type": "career",
+      "display_name": "Doctor",
+      "level": 6,
+      "description": "Medical professional"
+    },
+    {
+      "id": "career:accountant",
+      "type": "career",
+      "display_name": "Accountant",
+      "level": 6,
+      "description": "Finance and accounting professional"
+    },
+    {
+      "id": "career:civil_servant",
+      "type": "career",
+      "display_name": "Civil Servant",
+      "level": 6,
+      "description": "Government administrative officer"
+    }
+  ]
+}

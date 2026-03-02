@@ -1,0 +1,2317 @@
+[
+  {
+    "id": "career:software_engineer",
+    "type": "career",
+    "display_name": "Software Engineer",
+    "attributes": {
+      "course_ids": [
+        "course:engineering_btech",
+        "course:bsc"
+      ],
+      "career_type": "Private",
+      "nature": "Technical",
+      "stream_paths": [
+        "variant:mpc",
+        "variant:pcmb"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "is_skill_based": true,
+        "exam_types": [
+          "jee",
+          "state_cet"
+        ]
+      }
+    },
+    "skills": [
+      "skill:problem_solving",
+      "skill:coding_basics"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Software Engineer typically follows courses like B.Tech / Engineering, B.Sc / Science and focuses on technical work in private sector.",
+    "what_to_study": "Subjects and courses: B.Tech / Engineering, B.Sc / Science. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MPC, PCMB background, Prepare for relevant entrance exams",
+      "mid_term": "Complete B.Tech / Engineering (typically 3-4 years)",
+      "long_term": "Work as Software Engineer, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in technical focusing on professional growth in private organizations."
+  },
+  {
+    "id": "career:data_scientist",
+    "type": "career",
+    "display_name": "Data Scientist / AI Engineer",
+    "attributes": {
+      "course_ids": [
+        "course:engineering_btech",
+        "course:bsc"
+      ],
+      "career_type": "Private",
+      "nature": "Technical",
+      "stream_paths": [
+        "variant:mpc",
+        "variant:pcmb"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "is_skill_based": true,
+        "exam_types": [
+          "jee",
+          "state_cet"
+        ]
+      }
+    },
+    "skills": [
+      "skill:problem_solving",
+      "skill:statistical_analysis",
+      "skill:coding_basics"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Data Scientist / AI Engineer typically follows courses like B.Tech / Engineering, B.Sc / Science and focuses on technical work in private sector.",
+    "what_to_study": "Subjects and courses: B.Tech / Engineering, B.Sc / Science. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MPC, PCMB background, Prepare for relevant entrance exams",
+      "mid_term": "Complete B.Tech / Engineering (typically 3-4 years)",
+      "long_term": "Work as Data Scientist / AI Engineer, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in technical focusing on professional growth in private organizations."
+  },
+  {
+    "id": "career:ai_engineer",
+    "type": "career",
+    "display_name": "AI / Machine Learning Engineer",
+    "attributes": {
+      "course_ids": [
+        "course:engineering_btech",
+        "course:bsc"
+      ],
+      "career_type": "Private",
+      "nature": "Technical",
+      "stream_paths": [
+        "variant:mpc",
+        "variant:pcmb"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "is_skill_based": true,
+        "exam_types": [
+          "jee",
+          "state_cet"
+        ]
+      }
+    },
+    "skills": [
+      "skill:problem_solving",
+      "skill:coding_basics",
+      "skill:statistical_analysis"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "AI / Machine Learning Engineer typically follows courses like B.Tech / Engineering, B.Sc / Science and focuses on technical work in private sector.",
+    "what_to_study": "Subjects and courses: B.Tech / Engineering, B.Sc / Science. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MPC, PCMB background, Prepare for relevant entrance exams",
+      "mid_term": "Complete B.Tech / Engineering (typically 3-4 years)",
+      "long_term": "Work as AI / Machine Learning Engineer, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in technical focusing on professional growth in private organizations."
+  },
+  {
+    "id": "career:core_engineer",
+    "type": "career",
+    "display_name": "Core Engineer (Mechanical / Electrical / Civil)",
+    "attributes": {
+      "course_ids": [
+        "course:engineering_btech"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Technical",
+      "stream_paths": [
+        "variant:mpc",
+        "variant:pcmb"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "is_govt_service": true,
+        "exam_types": [
+          "jee",
+          "state_cet"
+        ]
+      }
+    },
+    "skills": [
+      "skill:technical_design",
+      "skill:problem_solving"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Core Engineer (Mechanical / Electrical / Civil) typically follows courses like B.Tech / Engineering and focuses on technical work in private/government sector.",
+    "what_to_study": "Subjects and courses: B.Tech / Engineering. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MPC, PCMB background, Prepare for relevant entrance exams",
+      "mid_term": "Complete B.Tech / Engineering (typically 3-4 years)",
+      "long_term": "Work as Core Engineer (Mechanical / Electrical / Civil), gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in technical focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:psu_officer",
+    "type": "career",
+    "display_name": "PSU / Government Engineer",
+    "attributes": {
+      "course_ids": [
+        "course:engineering_btech"
+      ],
+      "career_type": "Government",
+      "nature": "Technical",
+      "stream_paths": [
+        "variant:mpc",
+        "variant:pcmb"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "is_govt_service": true,
+        "exam_types": [
+          "jee",
+          "state_cet"
+        ]
+      }
+    },
+    "skills": [
+      "skill:technical_knowledge",
+      "skill:public_service"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "PSU / Government Engineer typically follows courses like B.Tech / Engineering and focuses on technical work in government sector.",
+    "what_to_study": "Subjects and courses: B.Tech / Engineering. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MPC, PCMB background, Prepare for relevant entrance exams",
+      "mid_term": "Complete B.Tech / Engineering (typically 3-4 years)",
+      "long_term": "Work as PSU / Government Engineer, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in technical focusing on professional growth in government organizations."
+  },
+  {
+    "id": "career:architect",
+    "type": "career",
+    "display_name": "Architect / Architectural Professional",
+    "short_description": "Design and plan buildings and structures with creativity and technical precision",
+    "attributes": {
+      "course_ids": [
+        "course:barch"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Design & Technical",
+      "stream_paths": [
+        "variant:mpc"
+      ],
+      "mandatory_subjects": [
+        "Architectural Design",
+        "Building Materials",
+        "Structural Systems",
+        "Urban Planning"
+      ],
+      "entry_exams": [
+        "NATA",
+        "JEE Paper 2"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "is_skill_based": true,
+        "exam_types": [
+          "nata",
+          "jee"
+        ]
+      }
+    },
+    "skills": [
+      "skill:design_thinking",
+      "skill:technical_design",
+      "skill:problem_solving",
+      "skill:creativity"
+    ],
+    "why_path": "Architect / Architectural Professional typically follows the course: B.Arch (Bachelor of Architecture) and focuses on building design, planning, and construction.",
+    "what_to_study": "Subjects and courses: B.Arch, Architectural Design, Building Materials, Structural Systems, Urban Planning",
+    "roadmap": {
+      "short_term": "MPC background, Prepare for NATA / JEE Paper 2",
+      "mid_term": "Complete B.Arch (5 years), Internships under licensed architects",
+      "long_term": "Licensed Architect, Urban Planner / Interior Architect, Higher studies (M.Arch)"
+    },
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:doctor",
+    "type": "career",
+    "display_name": "Doctor / Medical Professional",
+    "short_description": "Provide medical care and treatment to patients with expertise and compassion",
+    "attributes": {
+      "course_ids": [
+        "course:mbbs"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Medical",
+      "stream_paths": [
+        "variant:bipc",
+        "variant:pcmb"
+      ],
+      "mandatory_subjects": [
+        "Anatomy",
+        "Physiology",
+        "Pathology",
+        "Pharmacology"
+      ],
+      "entry_exams": [
+        "NEET"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "is_medical": true,
+        "exam_types": [
+          "neet"
+        ]
+      }
+    },
+    "skills": [
+      "skill:biology_knowledge",
+      "skill:patient_care",
+      "skill:medical_knowledge",
+      "skill:communication"
+    ],
+    "why_path": "Doctor typically follows the course: MBBS (Bachelor of Medicine, Bachelor of Surgery) and focuses on diagnosing and treating diseases.",
+    "what_to_study": "Subjects and courses: MBBS, Anatomy, Physiology, Pathology, Pharmacology, Medicine, Surgery",
+    "roadmap": {
+      "short_term": "BiPC subjects, Prepare for NEET",
+      "mid_term": "Complete MBBS (5.5 years including internship)",
+      "long_term": "Medical Practice, Specialization (MD/MS), Hospital / Clinic setup"
+    },
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:pharmacist",
+    "type": "career",
+    "display_name": "Pharmacist / Pharmaceutical Professional",
+    "short_description": "Dispense medications and provide pharmaceutical advice to ensure safe and effective medication use",
+    "attributes": {
+      "course_ids": [
+        "course:bpharm"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Medical",
+      "stream_paths": [
+        "variant:bipc",
+        "variant:pcmb"
+      ],
+      "mandatory_subjects": [
+        "Chemistry",
+        "Pharmaceutics",
+        "Pharmacology",
+        "Biochemistry"
+      ],
+      "entry_exams": [
+        "NEET"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "is_medical": true,
+        "exam_types": [
+          "neet"
+        ]
+      }
+    },
+    "skills": [
+      "skill:chemistry_knowledge",
+      "skill:patient_care",
+      "skill:medical_knowledge",
+      "skill:communication"
+    ],
+    "why_path": "Pharmacist typically follows the course: B.Pharm (Bachelor of Pharmacy) and focuses on medication and pharmaceutical care.",
+    "what_to_study": "Subjects and courses: B.Pharm, Chemistry, Pharmaceutics, Pharmacology, Biochemistry, Pharmaceutical Analysis",
+    "roadmap": {
+      "short_term": "BiPC subjects, Prepare for NEET",
+      "mid_term": "Complete B.Pharm (4 years)",
+      "long_term": "Pharmacist, M.Pharm (Specialization), Hospital Pharmacy / Industry / Govt Jobs"
+    },
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:dental_surgeon",
+    "type": "career",
+    "display_name": "Dental Surgeon",
+    "short_description": "Provide oral healthcare and perform dental procedures with precision and care",
+    "attributes": {
+      "course_ids": [
+        "course:bds"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Medical",
+      "stream_paths": [
+        "variant:bipc",
+        "variant:pcmb"
+      ],
+      "mandatory_subjects": [
+        "Oral Anatomy",
+        "Dental Materials",
+        "Prosthodontics",
+        "Orthodontics"
+      ],
+      "entry_exams": [
+        "NEET"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "is_medical": true,
+        "exam_types": [
+          "neet"
+        ]
+      }
+    },
+    "skills": [
+      "skill:biology_knowledge",
+      "skill:patient_care",
+      "skill:precision",
+      "skill:communication"
+    ],
+    "why_path": "Dental Surgeon typically follows the course: BDS (Bachelor of Dental Surgery) and focuses on oral health and dental care.",
+    "what_to_study": "Subjects and courses: BDS, Oral Anatomy, Dental Materials, Prosthodontics, Orthodontics",
+    "roadmap": {
+      "short_term": "BiPC subjects, Prepare for NEET",
+      "mid_term": "Complete BDS (5 years including internship)",
+      "long_term": "Dental Practice, MDS (Specialization), Hospital / Clinic setup"
+    },
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:registered_nurse",
+    "type": "career",
+    "display_name": "Registered Nurse",
+    "short_description": "Provide compassionate patient care and clinical services in healthcare settings",
+    "attributes": {
+      "course_ids": [
+        "course:nursing"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Medical/Healthcare",
+      "stream_paths": [
+        "variant:bipc",
+        "variant:pcmb"
+      ],
+      "mandatory_subjects": [
+        "Anatomy & Physiology",
+        "Medical-Surgical Nursing",
+        "Community Health Nursing"
+      ],
+      "entry_exams": [
+        "State/National Entrance Exams"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "is_medical": true,
+        "exam_types": [
+          "state_cet"
+        ]
+      }
+    },
+    "skills": [
+      "skill:patient_care",
+      "skill:medical_knowledge",
+      "skill:empathy",
+      "skill:communication"
+    ],
+    "why_path": "Registered Nurse typically follows the course: B.Sc Nursing and focuses on patient care and clinical services.",
+    "what_to_study": "Subjects and courses: B.Sc Nursing, Anatomy & Physiology, Medical-Surgical Nursing, Community Health Nursing",
+    "roadmap": {
+      "short_term": "BiPC background, Entrance exams (State / National)",
+      "mid_term": "Complete B.Sc Nursing (4 years)",
+      "long_term": "Hospital Nurse, Nurse Educator, M.Sc Nursing / Govt Jobs"
+    },
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:research_scientist",
+    "type": "career",
+    "display_name": "Research Scientist",
+    "short_description": "Conduct scientific research and experiments to advance knowledge in your field",
+    "attributes": {
+      "course_ids": [
+        "course:bsc",
+        "course:mbbs",
+        "course:engineering_btech"
+      ],
+      "career_type": "Academic/Government",
+      "nature": "Research",
+      "stream_paths": [
+        "variant:mpc",
+        "variant:bipc",
+        "variant:pcmb"
+      ]
+    },
+    "skills": [
+      "skill:research_methodology",
+      "skill:analytical_thinking",
+      "skill:critical_thinking"
+    ],
+    "why_path": "Research Scientist requires strong foundational knowledge from Science or Engineering degrees and advanced study through PhD or postdoctoral research.",
+    "what_to_study": "B.Sc in Physics/Chemistry/Biology, M.Sc, and PhD in relevant specialization",
+    "roadmap": {
+      "short_term": "Choose science specialization in Class 11-12",
+      "mid_term": "Complete B.Sc and M.Sc (5-6 years)",
+      "long_term": "PhD research, Publications, Research positions in labs/universities"
+    },
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:healthcare_manager",
+    "type": "career",
+    "display_name": "Healthcare Manager / Hospital Administrator",
+    "short_description": "Oversee hospital operations and healthcare facility management with leadership and strategic planning",
+    "attributes": {
+      "course_ids": [
+        "course:mbbs",
+        "course:bpharm"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Medical",
+      "stream_paths": [
+        "variant:bipc",
+        "variant:pcmb"
+      ]
+    },
+    "skills": [
+      "skill:management",
+      "skill:patient_care",
+      "skill:leadership"
+    ],
+    "why_path": "Healthcare Manager combines medical knowledge with management skills, typically after a degree in medicine or pharmacy plus management certification.",
+    "what_to_study": "MBBS/B.Pharm + Hospital Management or MBA in Healthcare Management",
+    "roadmap": {
+      "short_term": "Complete MBBS/B.Pharm degree",
+      "mid_term": "Work as doctor/pharmacist + Management certification",
+      "long_term": "Hospital Administrator, Healthcare Consultant, Health Policy roles"
+    },
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:chartered_accountant",
+    "type": "career",
+    "display_name": "Chartered Accountant (CA)",
+    "short_description": "Professional accountant qualified through rigorous examinations and practical training",
+    "attributes": {
+      "course_ids": [
+        "course:ca",
+        "course:bcom"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Finance",
+      "stream_paths": [
+        "variant:mec",
+        "variant:hec_commerce"
+      ],
+      "mandatory_subjects": [
+        "Accounting",
+        "Taxation",
+        "Auditing",
+        "Business Laws"
+      ],
+      "entry_exams": [
+        "CA Foundation",
+        "CA Intermediate",
+        "CA Final"
+      ],
+      "foundation_allowed_in_12": true,
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "is_skill_based": true,
+        "exam_types": [
+          "ca_foundation",
+          "ca_intermediate",
+          "ca_final"
+        ]
+      }
+    },
+    "skills": [
+      "skill:accounting_basics",
+      "skill:analytical_thinking",
+      "skill:taxation_knowledge",
+      "skill:financial_analysis",
+      "skill:attention_to_detail"
+    ],
+    "why_path": "CA is one of the most respected finance professions in India, offering expertise in accounting, taxation, auditing, and financial management.",
+    "what_to_study": "Commerce stream (Class 11-12), then CA Foundation → CA Intermediate (with Articleship) → CA Final",
+    "roadmap": {
+      "short_term": "Class 12 Commerce, register for CA Foundation",
+      "mid_term": "Clear CA Intermediate + complete 3 years Articleship training",
+      "long_term": "Clear CA Final exam → Practice as CA / Join firms / Corporate positions"
+    },
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-15",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:auditor",
+    "type": "career",
+    "display_name": "Auditor / Audit Professional",
+    "short_description": "Examine financial records and ensure compliance with accounting standards",
+    "attributes": {
+      "course_ids": [
+        "course:ca",
+        "course:bcom"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Finance",
+      "stream_paths": [
+        "variant:mec"
+      ],
+      "mandatory_subjects": [
+        "Accounting",
+        "Auditing",
+        "Taxation"
+      ],
+      "entry_exams": [
+        "CA Examination"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true,
+        "exam_types": [
+          "ca_final"
+        ]
+      }
+    },
+    "skills": [
+      "skill:accounting_basics",
+      "skill:analytical_thinking",
+      "skill:compliance_knowledge",
+      "skill:attention_to_detail"
+    ],
+    "why_path": "Auditor requires detailed knowledge of accounting and financial regulations, typically obtained through CA or equivalent professional qualifications.",
+    "what_to_study": "B.Com followed by CA (Chartered Accountant) or similar professional certification",
+    "roadmap": {
+      "short_term": "Commerce stream, prepare for professional exams",
+      "mid_term": "Complete CA articles/training (4.5 years)",
+      "long_term": "Auditor, Audit Partner, Compliance Officer"
+    },
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:financial_analyst",
+    "type": "career",
+    "display_name": "Financial Analyst",
+    "attributes": {
+      "course_ids": [
+        "course:bcom",
+        "course:bba",
+        "course:ca",
+        "course:ba_economics",
+        "course:ba_public_admin"
+      ],
+      "career_type": "Private",
+      "nature": "Finance",
+      "stream_paths": [
+        "variant:mec",
+        "variant:cec",
+        "variant:hec_commerce"
+      ],
+      "nba_attributes": {
+        "has_degree": true,
+        "is_skill_based": true
+      }
+    },
+    "skills": [
+      "skill:statistical_analysis",
+      "skill:financial_modeling",
+      "skill:numeracy"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Financial Analyst typically follows courses like B.Com / Bachelor of Commerce, BBA / Bachelor of Business Administration, CA / Chartered Accountant and focuses on finance work in private sector.",
+    "what_to_study": "Subjects and courses: B.Com / Bachelor of Commerce, BBA / Bachelor of Business Administration, CA / Chartered Accountant. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MEC, CEC background, Prepare for relevant entrance exams",
+      "mid_term": "Complete B.Com / Bachelor of Commerce (typically 3-4 years)",
+      "long_term": "Work as Financial Analyst, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in finance focusing on professional growth in private organizations."
+  },
+  {
+    "id": "career:corporate_lawyer",
+    "type": "career",
+    "display_name": "Corporate Lawyer / Legal Professional",
+    "attributes": {
+      "course_ids": [
+        "course:cs",
+        "course:bcom"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Legal/Business",
+      "stream_paths": [
+        "variant:mec"
+      ],
+      "nba_attributes": {
+        "has_exam": true,
+        "has_degree": true
+      }
+    },
+    "skills": [
+      "skill:legal_knowledge",
+      "skill:communication",
+      "skill:analytical_thinking"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Corporate Lawyer / Legal Professional typically follows courses like CS / Company Secretary, B.Com / Bachelor of Commerce and focuses on legal/business work in private/government sector.",
+    "what_to_study": "Subjects and courses: CS / Company Secretary, B.Com / Bachelor of Commerce. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MEC background, Prepare for relevant entrance exams",
+      "mid_term": "Complete CS / Company Secretary (typically 3-4 years)",
+      "long_term": "Work as Corporate Lawyer / Legal Professional, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in legal/business focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:cfo_consultant",
+    "type": "career",
+    "display_name": "CFO / Financial Consultant",
+    "attributes": {
+      "course_ids": [
+        "course:ca",
+        "course:mba",
+        "course:mcom"
+      ],
+      "career_type": "Private",
+      "nature": "Finance/Management",
+      "stream_paths": [
+        "variant:mec"
+      ],
+      "nba_attributes": {
+        "has_degree": true,
+        "is_skill_based": true
+      }
+    },
+    "skills": [
+      "skill:financial_strategy",
+      "skill:leadership",
+      "skill:accounting_basics"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "CFO / Financial Consultant typically follows courses like CA / Chartered Accountant, MBA / Master of Business Administration, M.Com / Master of Commerce and focuses on finance/management work in private sector.",
+    "what_to_study": "Subjects and courses: CA / Chartered Accountant, MBA / Master of Business Administration, M.Com / Master of Commerce. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MEC background, Prepare for relevant entrance exams",
+      "mid_term": "Complete CA / Chartered Accountant (typically 3-4 years)",
+      "long_term": "Work as CFO / Financial Consultant, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in finance/management focusing on professional growth in private organizations."
+  },
+  {
+    "id": "career:banker",
+    "type": "career",
+    "display_name": "Banker / Banking Professional",
+    "attributes": {
+      "course_ids": [
+        "course:bcom",
+        "course:bba",
+        "course:ba_economics",
+        "course:ba_public_admin"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Finance",
+      "stream_paths": [
+        "variant:mec",
+        "variant:cec",
+        "variant:hec_commerce"
+      ],
+      "nba_attributes": {
+        "has_degree": true,
+        "is_govt_service": true
+      }
+    },
+    "skills": [
+      "skill:customer_service",
+      "skill:numeracy",
+      "skill:financial_knowledge"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Banker / Banking Professional typically follows courses like B.Com / Bachelor of Commerce, BBA / Bachelor of Business Administration, BA Economics / Economics Honors and focuses on finance work in private/government sector.",
+    "what_to_study": "Subjects and courses: B.Com / Bachelor of Commerce, BBA / Bachelor of Business Administration, BA Economics / Economics Honors. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MEC, CEC background, Prepare for relevant entrance exams",
+      "mid_term": "Complete B.Com / Bachelor of Commerce (typically 3-4 years)",
+      "long_term": "Work as Banker / Banking Professional, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in finance focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:finance_professional",
+    "type": "career",
+    "display_name": "Finance Professional / Accountant",
+    "attributes": {
+      "course_ids": [
+        "course:bcom",
+        "course:ca",
+        "course:cma",
+        "course:ba_economics",
+        "course:ba_public_admin"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Finance",
+      "stream_paths": [
+        "variant:mec",
+        "variant:cec",
+        "variant:hec_commerce"
+      ],
+      "nba_attributes": {
+        "has_degree": true,
+        "has_exam": true
+      }
+    },
+    "skills": [
+      "skill:accounting_basics",
+      "skill:financial_planning",
+      "skill:numeracy"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Finance Professional / Accountant typically follows courses like B.Com / Bachelor of Commerce, CA / Chartered Accountant, CMA / Cost Management Accountant and focuses on finance work in private/government sector.",
+    "what_to_study": "Subjects and courses: B.Com / Bachelor of Commerce, CA / Chartered Accountant, CMA / Cost Management Accountant. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MEC, CEC background, Prepare for relevant entrance exams",
+      "mid_term": "Complete B.Com / Bachelor of Commerce (typically 3-4 years)",
+      "long_term": "Work as Finance Professional / Accountant, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in finance focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:business_manager",
+    "type": "career",
+    "display_name": "Business Manager / Operations Manager",
+    "attributes": {
+      "course_ids": [
+        "course:bba",
+        "course:mba"
+      ],
+      "career_type": "Private",
+      "nature": "Management",
+      "stream_paths": [
+        "variant:mec"
+      ]
+    },
+    "skills": [
+      "skill:leadership",
+      "skill:management",
+      "skill:strategic_thinking"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Business Manager / Operations Manager typically follows courses like BBA / Bachelor of Business Administration, MBA / Master of Business Administration and focuses on management work in private sector.",
+    "what_to_study": "Subjects and courses: BBA / Bachelor of Business Administration, MBA / Master of Business Administration. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MEC background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BBA / Bachelor of Business Administration (typically 3-4 years)",
+      "long_term": "Work as Business Manager / Operations Manager, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in management focusing on professional growth in private organizations."
+  },
+  {
+    "id": "career:management_professional",
+    "type": "career",
+    "display_name": "Management Professional",
+    "short_description": "Lead teams and drive business growth through strategic management and leadership",
+    "attributes": {
+      "course_ids": [
+        "course:bms",
+        "course:bba"
+      ],
+      "career_type": "Private",
+      "nature": "Management",
+      "stream_paths": [
+        "variant:mec",
+        "variant:cec"
+      ],
+      "mandatory_subjects": [
+        "Management Principles",
+        "Marketing",
+        "Finance",
+        "Human Resources"
+      ],
+      "entry_exams": [
+        "Entrance tests (if required)"
+      ]
+    },
+    "skills": [
+      "skill:leadership",
+      "skill:management",
+      "skill:communication",
+      "skill:analytical_thinking"
+    ],
+    "why_path": "Management Professional typically follows the course: BMS (Bachelor of Management Studies) and focuses on business, leadership, and management.",
+    "what_to_study": "Subjects and courses: BMS, Management Principles, Marketing, Finance, Human Resources",
+    "roadmap": {
+      "short_term": "Commerce / Any stream, Entrance tests (if required)",
+      "mid_term": "Complete BMS (3 years)",
+      "long_term": "Corporate Manager, MBA, Entrepreneurship"
+    },
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:entrepreneur",
+    "type": "career",
+    "display_name": "Entrepreneur / Business Owner",
+    "attributes": {
+      "course_ids": [
+        "course:bba",
+        "course:mba",
+        "course:bcom"
+      ],
+      "career_type": "Self-Employed",
+      "nature": "Business",
+      "stream_paths": [
+        "variant:mec"
+      ]
+    },
+    "skills": [
+      "skill:entrepreneurship",
+      "skill:financial_planning",
+      "skill:leadership"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Entrepreneur / Business Owner typically follows courses like BBA / Bachelor of Business Administration, MBA / Master of Business Administration, B.Com / Bachelor of Commerce and focuses on business work in self-employed sector.",
+    "what_to_study": "Subjects and courses: BBA / Bachelor of Business Administration, MBA / Master of Business Administration, B.Com / Bachelor of Commerce. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "MEC background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BBA / Bachelor of Business Administration (typically 3-4 years)",
+      "long_term": "Work as Entrepreneur / Business Owner, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in business focusing on professional growth in self-employed organizations."
+  },
+  {
+    "id": "career:accountant",
+    "type": "career",
+    "display_name": "Accountant / Finance Professional",
+    "attributes": {
+      "course_ids": [
+        "course:degree",
+        "course:bcom"
+      ],
+      "career_type": "Private",
+      "nature": "Business/Finance"
+    },
+    "skills": [
+      "skill:numeracy",
+      "skill:accounting_basics"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Accountant / Finance Professional typically follows courses like Bachelor's Degree (BSc / BCom / BA), B.Com / Bachelor of Commerce and focuses on business/finance work in private sector.",
+    "what_to_study": "Subjects and courses: Bachelor's Degree (BSc / BCom / BA), B.Com / Bachelor of Commerce. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "various streams background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Bachelor's Degree (BSc / BCom / BA) (typically 3-4 years)",
+      "long_term": "Work as Accountant / Finance Professional, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in business/finance focusing on professional growth in private organizations."
+  },
+  {
+    "id": "career:ias_officer",
+    "type": "career",
+    "display_name": "IAS Officer / Civil Administrator",
+    "attributes": {
+      "course_ids": [
+        "course:ba_humanities"
+      ],
+      "career_type": "Government",
+      "nature": "Civil Service",
+      "stream_paths": [
+        "variant:humanities"
+      ],
+      "exam_required": "exam:upsc"
+    },
+    "skills": [
+      "skill:leadership",
+      "skill:public_service",
+      "skill:analytical_thinking",
+      "skill:communication"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "IAS Officer / Civil Administrator typically follows courses like BA / Bachelor of Arts (Humanities) and focuses on civil service work in government sector.",
+    "what_to_study": "Subjects and courses: BA / Bachelor of Arts (Humanities). Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HUMANITIES background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA / Bachelor of Arts (Humanities) (typically 3-4 years)",
+      "long_term": "Work as IAS Officer / Civil Administrator, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in civil service focusing on professional growth in government organizations."
+  },
+  {
+    "id": "career:ips_officer",
+    "type": "career",
+    "display_name": "IPS Officer / Police Commissioner",
+    "attributes": {
+      "course_ids": [
+        "course:ba_humanities"
+      ],
+      "career_type": "Government",
+      "nature": "Civil Service",
+      "stream_paths": [
+        "variant:humanities"
+      ],
+      "exam_required": "exam:upsc"
+    },
+    "skills": [
+      "skill:leadership",
+      "skill:public_service",
+      "skill:decision_making",
+      "skill:physical_fitness"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "IPS Officer / Police Commissioner typically follows courses like BA / Bachelor of Arts (Humanities) and focuses on civil service work in government sector.",
+    "what_to_study": "Subjects and courses: BA / Bachelor of Arts (Humanities). Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HUMANITIES background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA / Bachelor of Arts (Humanities) (typically 3-4 years)",
+      "long_term": "Work as IPS Officer / Police Commissioner, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in civil service focusing on professional growth in government organizations."
+  },
+  {
+    "id": "career:ifs_officer",
+    "type": "career",
+    "display_name": "IFS Officer / Forest Administrator",
+    "attributes": {
+      "course_ids": [
+        "course:ba_humanities"
+      ],
+      "career_type": "Government",
+      "nature": "Civil Service",
+      "stream_paths": [
+        "variant:humanities"
+      ],
+      "exam_required": "exam:upsc"
+    },
+    "skills": [
+      "skill:environmental_knowledge",
+      "skill:public_service",
+      "skill:leadership",
+      "skill:conservation_expertise"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "IFS Officer / Forest Administrator typically follows courses like BA / Bachelor of Arts (Humanities) and focuses on civil service work in government sector.",
+    "what_to_study": "Subjects and courses: BA / Bachelor of Arts (Humanities). Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HUMANITIES background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA / Bachelor of Arts (Humanities) (typically 3-4 years)",
+      "long_term": "Work as IFS Officer / Forest Administrator, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in civil service focusing on professional growth in government organizations."
+  },
+  {
+    "id": "career:policy_analyst",
+    "type": "career",
+    "display_name": "Policy Analyst / Think Tank Researcher",
+    "attributes": {
+      "course_ids": [
+        "course:ba_humanities",
+        "course:ba_political_science",
+        "course:ba_economics",
+        "course:ba_public_admin"
+      ],
+      "career_type": "Government/NGO/Private",
+      "nature": "Research/Policy",
+      "stream_paths": [
+        "variant:humanities",
+        "variant:hpc",
+        "variant:heg",
+        "variant:language_based"
+      ]
+    },
+    "skills": [
+      "skill:research_methodology",
+      "skill:analytical_thinking",
+      "skill:public_policy_knowledge"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Policy Analyst / Think Tank Researcher typically follows courses like BA / Bachelor of Arts (Humanities), BA Political Science, BA Economics / Economics Honors and focuses on research/policy work in government/ngo/private sector.",
+    "what_to_study": "Subjects and courses: BA / Bachelor of Arts (Humanities), BA Political Science, BA Economics / Economics Honors. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HUMANITIES, HPC background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA / Bachelor of Arts (Humanities) (typically 3-4 years)",
+      "long_term": "Work as Policy Analyst / Think Tank Researcher, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in research/policy focusing on professional growth in government/ngo/private organizations."
+  },
+  {
+    "id": "career:state_officer",
+    "type": "career",
+    "display_name": "State Civil Services Officer",
+    "attributes": {
+      "course_ids": [
+        "course:ba_humanities"
+      ],
+      "career_type": "Government",
+      "nature": "Civil Service",
+      "stream_paths": [
+        "variant:humanities"
+      ],
+      "exam_required": "exam:state_psc"
+    },
+    "skills": [
+      "skill:leadership",
+      "skill:public_service",
+      "skill:analytical_thinking"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "State Civil Services Officer typically follows courses like BA / Bachelor of Arts (Humanities) and focuses on civil service work in government sector.",
+    "what_to_study": "Subjects and courses: BA / Bachelor of Arts (Humanities). Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HUMANITIES background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA / Bachelor of Arts (Humanities) (typically 3-4 years)",
+      "long_term": "Work as State Civil Services Officer, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in civil service focusing on professional growth in government organizations."
+  },
+  {
+    "id": "career:state_police",
+    "type": "career",
+    "display_name": "State Police Officer / Superintendent of Police",
+    "attributes": {
+      "course_ids": [
+        "course:ba_humanities"
+      ],
+      "career_type": "Government",
+      "nature": "Civil Service",
+      "stream_paths": [
+        "variant:humanities"
+      ],
+      "exam_required": "exam:state_psc"
+    },
+    "skills": [
+      "skill:leadership",
+      "skill:public_service",
+      "skill:physical_fitness"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "State Police Officer / Superintendent of Police typically follows courses like BA / Bachelor of Arts (Humanities) and focuses on civil service work in government sector.",
+    "what_to_study": "Subjects and courses: BA / Bachelor of Arts (Humanities). Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HUMANITIES background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA / Bachelor of Arts (Humanities) (typically 3-4 years)",
+      "long_term": "Work as State Police Officer / Superintendent of Police, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in civil service focusing on professional growth in government organizations."
+  },
+  {
+    "id": "career:lawyer",
+    "type": "career",
+    "display_name": "Lawyer / Advocate",
+    "attributes": {
+      "course_ids": [
+        "course:ba_llb",
+        "course:llb"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Legal",
+      "stream_paths": [
+        "variant:humanities"
+      ]
+    },
+    "skills": [
+      "skill:legal_knowledge",
+      "skill:communication",
+      "skill:analytical_thinking",
+      "skill:persuasion"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Lawyer / Advocate typically follows courses like BA LLB / Law (5-Year Integrated), LLB / Bachelor of Laws and focuses on legal work in private/government sector.",
+    "what_to_study": "Subjects and courses: BA LLB / Law (5-Year Integrated), LLB / Bachelor of Laws. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HUMANITIES background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA LLB / Law (5-Year Integrated) (typically 3-4 years)",
+      "long_term": "Work as Lawyer / Advocate, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in legal focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:judge",
+    "type": "career",
+    "display_name": "Judge / Judicial Officer",
+    "attributes": {
+      "course_ids": [
+        "course:ba_llb",
+        "course:llb"
+      ],
+      "career_type": "Government",
+      "nature": "Legal/Judiciary",
+      "stream_paths": [
+        "variant:humanities"
+      ]
+    },
+    "skills": [
+      "skill:legal_knowledge",
+      "skill:judgment",
+      "skill:ethical_reasoning",
+      "skill:decision_making"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Judge / Judicial Officer typically follows courses like BA LLB / Law (5-Year Integrated), LLB / Bachelor of Laws and focuses on legal/judiciary work in government sector.",
+    "what_to_study": "Subjects and courses: BA LLB / Law (5-Year Integrated), LLB / Bachelor of Laws. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HUMANITIES background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA LLB / Law (5-Year Integrated) (typically 3-4 years)",
+      "long_term": "Work as Judge / Judicial Officer, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in legal/judiciary focusing on professional growth in government organizations."
+  },
+  {
+    "id": "career:journalist",
+    "type": "career",
+    "display_name": "Journalist / News Reporter",
+    "attributes": {
+      "course_ids": [
+        "course:bjmc"
+      ],
+      "career_type": "Private/Government/NGO",
+      "nature": "Media",
+      "stream_paths": [
+        "variant:humanities"
+      ]
+    },
+    "skills": [
+      "skill:communication",
+      "skill:research_methodology",
+      "skill:writing",
+      "skill:critical_thinking"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Journalist / News Reporter typically follows courses like BJMC / Bachelor of Journalism and Mass Communication and focuses on media work in private/government/ngo sector.",
+    "what_to_study": "Subjects and courses: BJMC / Bachelor of Journalism and Mass Communication. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HUMANITIES background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BJMC / Bachelor of Journalism and Mass Communication (typically 3-4 years)",
+      "long_term": "Work as Journalist / News Reporter, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in media focusing on professional growth in private/government/ngo organizations."
+  },
+  {
+    "id": "career:professor_researcher",
+    "type": "career",
+    "display_name": "Professor / University Researcher",
+    "attributes": {
+      "course_ids": [
+        "course:ba_humanities",
+        "course:ba_psychology",
+        "course:ba_political_science",
+        "course:ba_history",
+        "course:ba_sociology",
+        "course:ba_geography",
+        "course:ba_literature",
+        "course:ba_economics"
+      ],
+      "career_type": "Academic",
+      "nature": "Research/Education",
+      "stream_paths": [
+        "variant:humanities",
+        "variant:hpc",
+        "variant:hsp",
+        "variant:heg",
+        "variant:psychology_based",
+        "variant:language_based"
+      ]
+    },
+    "skills": [
+      "skill:research_methodology",
+      "skill:teaching",
+      "skill:analytical_thinking",
+      "skill:publication_writing"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Professor / University Researcher typically follows courses like BA / Bachelor of Arts (Humanities), BA Psychology / Bachelor of Arts in Psychology, BA Political Science and focuses on research/education work in academic sector.",
+    "what_to_study": "Subjects and courses: BA / Bachelor of Arts (Humanities), BA Psychology / Bachelor of Arts in Psychology, BA Political Science. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HUMANITIES, HPC background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA / Bachelor of Arts (Humanities) (typically 3-4 years)",
+      "long_term": "Work as Professor / University Researcher, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in research/education focusing on professional growth in academic organizations."
+  },
+  {
+    "id": "career:iti_technician",
+    "type": "career",
+    "display_name": "ITI Technician / Skilled Worker",
+    "attributes": {
+      "course_ids": [
+        "course:iti"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Technical/Trade",
+      "stream_paths": [
+        "variant:technical_skills"
+      ]
+    },
+    "skills": [
+      "skill:technical_knowledge",
+      "skill:hands_on_skills",
+      "skill:mechanical_aptitude"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "ITI Technician / Skilled Worker typically follows courses like ITI / Industrial Training Institute and focuses on technical/trade work in private/government sector.",
+    "what_to_study": "Subjects and courses: ITI / Industrial Training Institute. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "TECHNICAL_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete ITI / Industrial Training Institute (typically 3-4 years)",
+      "long_term": "Work as ITI Technician / Skilled Worker, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in technical/trade focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:polytechnic_engineer",
+    "type": "career",
+    "display_name": "Diploma Engineer / Junior Engineer Track",
+    "attributes": {
+      "course_ids": [
+        "course:polytechnic"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Technical",
+      "stream_paths": [
+        "variant:technical_skills"
+      ],
+      "lateral_entry": "B.Tech"
+    },
+    "skills": [
+      "skill:technical_design",
+      "skill:project_management",
+      "skill:team_supervision"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Diploma Engineer / Junior Engineer Track typically follows courses like Polytechnic / Diploma and focuses on technical work in private/government sector.",
+    "what_to_study": "Subjects and courses: Polytechnic / Diploma. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "TECHNICAL_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Polytechnic / Diploma (typically 3-4 years)",
+      "long_term": "Work as Diploma Engineer / Junior Engineer Track, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in technical focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:junior_engineer",
+    "type": "career",
+    "display_name": "Junior Engineer (JE) / Diploma Engineer Govt",
+    "attributes": {
+      "course_ids": [
+        "course:polytechnic"
+      ],
+      "career_type": "Government",
+      "nature": "Technical",
+      "stream_paths": [
+        "variant:technical_skills"
+      ],
+      "exam_required": "exam:je_diploma"
+    },
+    "skills": [
+      "skill:technical_knowledge",
+      "skill:problem_solving"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Junior Engineer (JE) / Diploma Engineer Govt typically follows courses like Polytechnic / Diploma and focuses on technical work in government sector.",
+    "what_to_study": "Subjects and courses: Polytechnic / Diploma. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "TECHNICAL_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Polytechnic / Diploma (typically 3-4 years)",
+      "long_term": "Work as Junior Engineer (JE) / Diploma Engineer Govt, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in technical focusing on professional growth in government organizations."
+  },
+  {
+    "id": "career:counselor",
+    "type": "career",
+    "display_name": "Counselor / Psychology Practitioner",
+    "attributes": {
+      "course_ids": [
+        "course:ba_psychology"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Psychology/Practice",
+      "stream_paths": [
+        "variant:psychology_based"
+      ]
+    },
+    "skills": [
+      "skill:empathy",
+      "skill:counseling",
+      "skill:communication"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Counselor / Psychology Practitioner typically follows courses like BA Psychology / Bachelor of Arts in Psychology and focuses on psychology/practice work in private/government sector.",
+    "what_to_study": "Subjects and courses: BA Psychology / Bachelor of Arts in Psychology. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "PSYCHOLOGY_BASED background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA Psychology / Bachelor of Arts in Psychology (typically 3-4 years)",
+      "long_term": "Work as Counselor / Psychology Practitioner, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in psychology/practice focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:hr_trainer",
+    "type": "career",
+    "display_name": "HR / Training Professional",
+    "attributes": {
+      "course_ids": [
+        "course:ba_psychology",
+        "course:ba_sociology"
+      ],
+      "career_type": "Private",
+      "nature": "People/Training",
+      "stream_paths": [
+        "variant:psychology_based",
+        "variant:hsp"
+      ]
+    },
+    "skills": [
+      "skill:communication",
+      "skill:facilitation",
+      "skill:people_management"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "HR / Training Professional typically follows courses like BA Psychology / Bachelor of Arts in Psychology, BA Sociology and focuses on people/training work in private sector.",
+    "what_to_study": "Subjects and courses: BA Psychology / Bachelor of Arts in Psychology, BA Sociology. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "PSYCHOLOGY_BASED, HSP background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA Psychology / Bachelor of Arts in Psychology (typically 3-4 years)",
+      "long_term": "Work as HR / Training Professional, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in people/training focusing on professional growth in private organizations."
+  },
+  {
+    "id": "career:social_worker",
+    "type": "career",
+    "display_name": "Social Worker / NGO Professional",
+    "attributes": {
+      "course_ids": [
+        "course:ba_social_work",
+        "course:ba_sociology"
+      ],
+      "career_type": "NGO/Government",
+      "nature": "Social Impact",
+      "stream_paths": [
+        "variant:hsp"
+      ]
+    },
+    "skills": [
+      "skill:community_engagement",
+      "skill:empathy",
+      "skill:program_management"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Social Worker / NGO Professional typically follows courses like BA Social Work, BA Sociology and focuses on social impact work in ngo/government sector.",
+    "what_to_study": "Subjects and courses: BA Social Work, BA Sociology. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HSP background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA Social Work (typically 3-4 years)",
+      "long_term": "Work as Social Worker / NGO Professional, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in social impact focusing on professional growth in ngo/government organizations."
+  },
+  {
+    "id": "career:urban_planner",
+    "type": "career",
+    "display_name": "Urban Planner / Development Officer",
+    "attributes": {
+      "course_ids": [
+        "course:ba_geography",
+        "course:ba_economics"
+      ],
+      "career_type": "Government/Private",
+      "nature": "Planning/Infrastructure",
+      "stream_paths": [
+        "variant:heg"
+      ]
+    },
+    "skills": [
+      "skill:spatial_analysis",
+      "skill:planning",
+      "skill:policy_knowledge"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Urban Planner / Development Officer typically follows courses like BA Geography, BA Economics / Economics Honors and focuses on planning/infrastructure work in government/private sector.",
+    "what_to_study": "Subjects and courses: BA Geography, BA Economics / Economics Honors. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HEG background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA Geography (typically 3-4 years)",
+      "long_term": "Work as Urban Planner / Development Officer, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in planning/infrastructure focusing on professional growth in government/private organizations."
+  },
+  {
+    "id": "career:gis_specialist",
+    "type": "career",
+    "display_name": "GIS / Mapping Specialist",
+    "attributes": {
+      "course_ids": [
+        "course:ba_geography"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Geospatial",
+      "stream_paths": [
+        "variant:heg"
+      ]
+    },
+    "skills": [
+      "skill:gis_tools",
+      "skill:spatial_analysis",
+      "skill:data_visualization"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "GIS / Mapping Specialist typically follows courses like BA Geography and focuses on geospatial work in private/government sector.",
+    "what_to_study": "Subjects and courses: BA Geography. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "HEG background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA Geography (typically 3-4 years)",
+      "long_term": "Work as GIS / Mapping Specialist, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in geospatial focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:translator",
+    "type": "career",
+    "display_name": "Translator / Language Specialist",
+    "attributes": {
+      "course_ids": [
+        "course:ba_literature"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Language/Content",
+      "stream_paths": [
+        "variant:language_based"
+      ]
+    },
+    "skills": [
+      "skill:language_proficiency",
+      "skill:writing",
+      "skill:accuracy"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Translator / Language Specialist typically follows courses like BA Literature and focuses on language/content work in private/government sector.",
+    "what_to_study": "Subjects and courses: BA Literature. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "LANGUAGE_BASED background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA Literature (typically 3-4 years)",
+      "long_term": "Work as Translator / Language Specialist, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in language/content focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:content_writer",
+    "type": "career",
+    "display_name": "Content Writer / Digital Media",
+    "attributes": {
+      "course_ids": [
+        "course:ba_literature",
+        "course:bjmc"
+      ],
+      "career_type": "Private/Freelance",
+      "nature": "Media/Content",
+      "stream_paths": [
+        "variant:language_based",
+        "variant:humanities"
+      ]
+    },
+    "skills": [
+      "skill:writing",
+      "skill:research_methodology",
+      "skill:communication"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Content Writer / Digital Media typically follows courses like BA Literature, BJMC / Bachelor of Journalism and Mass Communication and focuses on media/content work in private/freelance sector.",
+    "what_to_study": "Subjects and courses: BA Literature, BJMC / Bachelor of Journalism and Mass Communication. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "LANGUAGE_BASED, HUMANITIES background, Prepare for relevant entrance exams",
+      "mid_term": "Complete BA Literature (typically 3-4 years)",
+      "long_term": "Work as Content Writer / Digital Media, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in media/content focusing on professional growth in private/freelance organizations."
+  },
+  {
+    "id": "career:technician_supervisor",
+    "type": "career",
+    "display_name": "Technician Supervisor / Foreman",
+    "attributes": {
+      "course_ids": [
+        "course:iti",
+        "course:polytechnic"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Technical/Management",
+      "stream_paths": [
+        "variant:technical_skills"
+      ],
+      "experience_required": "3-5 years"
+    },
+    "skills": [
+      "skill:team_supervision",
+      "skill:technical_knowledge",
+      "skill:leadership"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Technician Supervisor / Foreman typically follows courses like ITI / Industrial Training Institute, Polytechnic / Diploma and focuses on technical/management work in private/government sector.",
+    "what_to_study": "Subjects and courses: ITI / Industrial Training Institute, Polytechnic / Diploma. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "TECHNICAL_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete ITI / Industrial Training Institute (typically 3-4 years)",
+      "long_term": "Work as Technician Supervisor / Foreman, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in technical/management focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:vocational_entrepreneur",
+    "type": "career",
+    "display_name": "Entrepreneur / Small Business Owner",
+    "attributes": {
+      "course_ids": [
+        "course:iti",
+        "course:polytechnic"
+      ],
+      "career_type": "Self-Employed",
+      "nature": "Business/Technical",
+      "stream_paths": [
+        "variant:technical_skills"
+      ],
+      "examples": [
+        "Plumbing shop",
+        "Electrical services",
+        "Automotive repair"
+      ]
+    },
+    "skills": [
+      "skill:entrepreneurship",
+      "skill:technical_knowledge",
+      "skill:business_management"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Entrepreneur / Small Business Owner typically follows courses like ITI / Industrial Training Institute, Polytechnic / Diploma and focuses on business/technical work in self-employed sector.",
+    "what_to_study": "Subjects and courses: ITI / Industrial Training Institute, Polytechnic / Diploma. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "TECHNICAL_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete ITI / Industrial Training Institute (typically 3-4 years)",
+      "long_term": "Work as Entrepreneur / Small Business Owner, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in business/technical focusing on professional growth in self-employed organizations."
+  },
+  {
+    "id": "career:designer",
+    "type": "career",
+    "display_name": "Graphic / Web Designer",
+    "attributes": {
+      "course_ids": [
+        "course:graphic_design"
+      ],
+      "career_type": "Private/Freelance",
+      "nature": "Creative",
+      "stream_paths": [
+        "variant:creative_service_skills"
+      ]
+    },
+    "skills": [
+      "skill:design_software",
+      "skill:creativity",
+      "skill:communication"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Graphic / Web Designer typically follows courses like Graphic Design / Web Design Certificate and focuses on creative work in private/freelance sector.",
+    "what_to_study": "Subjects and courses: Graphic Design / Web Design Certificate. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "CREATIVE_SERVICE_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Graphic Design / Web Design Certificate (typically 3-4 years)",
+      "long_term": "Work as Graphic / Web Designer, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in creative focusing on professional growth in private/freelance organizations."
+  },
+  {
+    "id": "career:hospitality_professional",
+    "type": "career",
+    "display_name": "Hotel Manager / Tourism Professional",
+    "attributes": {
+      "course_ids": [
+        "course:hospitality"
+      ],
+      "career_type": "Private",
+      "nature": "Service/Hospitality",
+      "stream_paths": [
+        "variant:creative_service_skills"
+      ]
+    },
+    "skills": [
+      "skill:customer_service",
+      "skill:management",
+      "skill:communication"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Hotel Manager / Tourism Professional typically follows courses like Hospitality & Tourism Management and focuses on service/hospitality work in private sector.",
+    "what_to_study": "Subjects and courses: Hospitality & Tourism Management. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "CREATIVE_SERVICE_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Hospitality & Tourism Management (typically 3-4 years)",
+      "long_term": "Work as Hotel Manager / Tourism Professional, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in service/hospitality focusing on professional growth in private organizations."
+  },
+  {
+    "id": "career:healthcare_support",
+    "type": "career",
+    "display_name": "Healthcare Support / Nursing Assistant",
+    "attributes": {
+      "course_ids": [
+        "course:healthcare_assistant"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Healthcare",
+      "stream_paths": [
+        "variant:creative_service_skills"
+      ]
+    },
+    "skills": [
+      "skill:patient_care",
+      "skill:medical_knowledge",
+      "skill:empathy"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Healthcare Support / Nursing Assistant typically follows courses like Healthcare Support / Nursing Assistant and focuses on healthcare work in private/government sector.",
+    "what_to_study": "Subjects and courses: Healthcare Support / Nursing Assistant. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "CREATIVE_SERVICE_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Healthcare Support / Nursing Assistant (typically 3-4 years)",
+      "long_term": "Work as Healthcare Support / Nursing Assistant, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in healthcare focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:agri_technician",
+    "type": "career",
+    "display_name": "Agriculture Technician / Field Supervisor",
+    "attributes": {
+      "course_ids": [
+        "course:agri_diploma"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Agriculture/Field",
+      "stream_paths": [
+        "variant:technical_skills"
+      ]
+    },
+    "skills": [
+      "skill:agriculture_basics",
+      "skill:field_operations",
+      "skill:equipment_handling"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Agriculture Technician / Field Supervisor typically follows courses like Agriculture & Allied Diploma and focuses on agriculture/field work in private/government sector.",
+    "what_to_study": "Subjects and courses: Agriculture & Allied Diploma. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "TECHNICAL_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Agriculture & Allied Diploma (typically 3-4 years)",
+      "long_term": "Work as Agriculture Technician / Field Supervisor, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in agriculture/field focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:agri_entrepreneur",
+    "type": "career",
+    "display_name": "Agri Entrepreneur / Farm Business Owner",
+    "attributes": {
+      "course_ids": [
+        "course:agri_diploma",
+        "course:degree"
+      ],
+      "career_type": "Self-Employed",
+      "nature": "Agribusiness",
+      "stream_paths": [
+        "variant:technical_skills"
+      ],
+      "examples": [
+        "Organic farming",
+        "Agri-tech services",
+        "Input supply"
+      ]
+    },
+    "skills": [
+      "skill:entrepreneurship",
+      "skill:agriculture_basics",
+      "skill:business_management"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Agri Entrepreneur / Farm Business Owner typically follows courses like Agriculture & Allied Diploma, Bachelor's Degree (BSc / BCom / BA) and focuses on agribusiness work in self-employed sector.",
+    "what_to_study": "Subjects and courses: Agriculture & Allied Diploma, Bachelor's Degree (BSc / BCom / BA). Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "TECHNICAL_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Agriculture & Allied Diploma (typically 3-4 years)",
+      "long_term": "Work as Agri Entrepreneur / Farm Business Owner, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in agribusiness focusing on professional growth in self-employed organizations."
+  },
+  {
+    "id": "career:retail_associate",
+    "type": "career",
+    "display_name": "Retail Associate / Store Executive",
+    "attributes": {
+      "course_ids": [
+        "course:retail_skills"
+      ],
+      "career_type": "Private",
+      "nature": "Service/Retail",
+      "stream_paths": [
+        "variant:creative_service_skills"
+      ]
+    },
+    "skills": [
+      "skill:customer_service",
+      "skill:communication"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Retail Associate / Store Executive typically follows courses like Retail & Sales Skills and focuses on service/retail work in private sector.",
+    "what_to_study": "Subjects and courses: Retail & Sales Skills. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "CREATIVE_SERVICE_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Retail & Sales Skills (typically 3-4 years)",
+      "long_term": "Work as Retail Associate / Store Executive, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in service/retail focusing on professional growth in private organizations."
+  },
+  {
+    "id": "career:tourism_executive",
+    "type": "career",
+    "display_name": "Tourism / Travel Executive",
+    "attributes": {
+      "course_ids": [
+        "course:tourism_skills",
+        "course:hospitality"
+      ],
+      "career_type": "Private",
+      "nature": "Tourism/Hospitality",
+      "stream_paths": [
+        "variant:creative_service_skills"
+      ]
+    },
+    "skills": [
+      "skill:customer_service",
+      "skill:communication",
+      "skill:planning"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Tourism / Travel Executive typically follows courses like Tourism & Travel Basics, Hospitality & Tourism Management and focuses on tourism/hospitality work in private sector.",
+    "what_to_study": "Subjects and courses: Tourism & Travel Basics, Hospitality & Tourism Management. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "CREATIVE_SERVICE_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Tourism & Travel Basics (typically 3-4 years)",
+      "long_term": "Work as Tourism / Travel Executive, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in tourism/hospitality focusing on professional growth in private organizations."
+  },
+  {
+    "id": "career:lab_technician",
+    "type": "career",
+    "display_name": "Medical Laboratory Technician (MLT)",
+    "attributes": {
+      "course_ids": [
+        "course:mlt_diploma"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Healthcare/Diagnostics",
+      "stream_paths": [
+        "variant:creative_service_skills"
+      ]
+    },
+    "skills": [
+      "skill:medical_knowledge",
+      "skill:lab_procedures"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Medical Laboratory Technician (MLT) typically follows courses like Diploma in Medical Lab Technology (MLT) and focuses on healthcare/diagnostics work in private/government sector.",
+    "what_to_study": "Subjects and courses: Diploma in Medical Lab Technology (MLT). Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "CREATIVE_SERVICE_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Diploma in Medical Lab Technology (MLT) (typically 3-4 years)",
+      "long_term": "Work as Medical Laboratory Technician (MLT), gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in healthcare/diagnostics focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:anm_nurse",
+    "type": "career",
+    "display_name": "ANM Nurse / Auxiliary Nurse Midwife",
+    "attributes": {
+      "course_ids": [
+        "course:anm"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Healthcare/Nursing",
+      "stream_paths": [
+        "variant:creative_service_skills"
+      ]
+    },
+    "skills": [
+      "skill:patient_care",
+      "skill:medical_knowledge",
+      "skill:empathy"
+    ],
+    "why_path": "ANM (Auxiliary Nurse Midwifery) is a 2-year diploma program ideal for those passionate about healthcare and community service. ANM nurses work in primary health centers, rural health facilities, maternity homes, and provide basic nursing care, maternal and child health services, immunization, and health education. This career offers job security in government health departments and opportunities in private clinics and hospitals.",
+    "what_to_study": "During the 2-year ANM program, you'll study nursing fundamentals, anatomy and physiology, nutrition, community health nursing, midwifery, child health, and health center management. The curriculum includes practical training in hospitals and community health centers.",
+    "roadmap": [
+      {
+        "phase": "Short Term",
+        "description": "Complete Class 10, choose Creative/Service Skills stream variant"
+      },
+      {
+        "phase": "Mid Term",
+        "description": "Complete ANM 2-year diploma with clinical training in maternal and child health"
+      },
+      {
+        "phase": "Career Entry",
+        "description": "Register with State Nursing Council, work as ANM in PHCs, rural health centers, or maternity homes"
+      },
+      {
+        "phase": "Growth",
+        "description": "Upgrade to GNM (bridge course) or B.Sc Nursing, specialize in midwifery or community health"
+      }
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-15",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:gnm_nurse",
+    "type": "career",
+    "display_name": "GNM Nurse / Staff Nurse",
+    "attributes": {
+      "course_ids": [
+        "course:gnm"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Healthcare/Nursing",
+      "stream_paths": [
+        "variant:creative_service_skills"
+      ]
+    },
+    "skills": [
+      "skill:patient_care",
+      "skill:medical_knowledge",
+      "skill:empathy"
+    ],
+    "why_path": "GNM (General Nursing & Midwifery) is a 3-year diploma program that prepares you to become a professional staff nurse in hospitals, clinics, and healthcare facilities. GNM nurses provide comprehensive patient care, assist doctors during procedures, manage wards, administer medications, and support patient recovery. This career offers excellent job opportunities in both government and private hospitals, with potential for specialization and career advancement.",
+    "what_to_study": "During the 3-year GNM program, you'll study advanced nursing fundamentals, medical-surgical nursing, anatomy and physiology, pharmacology, microbiology, psychology, community health nursing, pediatric nursing, and obstetrics & gynecology. The curriculum includes extensive clinical rotations in hospital departments and hands-on patient care training.",
+    "roadmap": [
+      {
+        "phase": "Short Term",
+        "description": "Complete Class 10, choose Creative/Service Skills stream variant"
+      },
+      {
+        "phase": "Mid Term",
+        "description": "Complete GNM 3-year diploma with clinical training across all hospital departments"
+      },
+      {
+        "phase": "Career Entry",
+        "description": "Register with State/Indian Nursing Council, work as Staff Nurse in hospitals or clinics"
+      },
+      {
+        "phase": "Growth",
+        "description": "Pursue B.Sc Nursing (bridge course), specialize in ICU/OT/Emergency, or advance to nursing management roles"
+      }
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-15",
+      "version": 1
+    }
+  },
+  {
+    "id": "career:emt_technician",
+    "type": "career",
+    "display_name": "Emergency Medical Technician (EMT)",
+    "attributes": {
+      "course_ids": [
+        "course:emt"
+      ],
+      "career_type": "Private/Government",
+      "nature": "Healthcare/Emergency",
+      "stream_paths": [
+        "variant:creative_service_skills"
+      ]
+    },
+    "skills": [
+      "skill:emergency_response",
+      "skill:patient_care"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "Emergency Medical Technician (EMT) typically follows courses like Emergency Medical Technician (EMT) and focuses on healthcare/emergency work in private/government sector.",
+    "what_to_study": "Subjects and courses: Emergency Medical Technician (EMT). Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "CREATIVE_SERVICE_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete Emergency Medical Technician (EMT) (typically 3-4 years)",
+      "long_term": "Work as Emergency Medical Technician (EMT), gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in healthcare/emergency focusing on professional growth in private/government organizations."
+  },
+  {
+    "id": "career:it_support_technician",
+    "type": "career",
+    "display_name": "IT Support Technician / Helpdesk",
+    "attributes": {
+      "course_ids": [
+        "course:nsqf_it_basics"
+      ],
+      "career_type": "Private",
+      "nature": "IT/Support",
+      "stream_paths": [
+        "variant:technical_skills"
+      ]
+    },
+    "skills": [
+      "skill:it_support",
+      "skill:communication"
+    ],
+    "metadata": {
+      "source": [
+        "industry_consensus"
+      ],
+      "last_reviewed": "2026-01-14",
+      "version": 1
+    },
+    "why_path": "IT Support Technician / Helpdesk typically follows courses like NSQF IT / Digital Basics and focuses on it/support work in private sector.",
+    "what_to_study": "Subjects and courses: NSQF IT / Digital Basics. Key skills include those listed in the career profile.",
+    "roadmap": {
+      "short_term": "TECHNICAL_SKILLS background, Prepare for relevant entrance exams",
+      "mid_term": "Complete NSQF IT / Digital Basics (typically 3-4 years)",
+      "long_term": "Work as IT Support Technician / Helpdesk, gain experience, consider specialization or higher studies"
+    },
+    "short_description": "A career in it/support focusing on professional growth in private organizations."
+  }
+]

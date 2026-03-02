@@ -1,0 +1,39 @@
+{
+  "career_id": "ba_sociology",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Understand social structures",
+        "Develop observation skills",
+        "Explore social research roles"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BA Sociology",
+        "Work with NGOs or research teams",
+        "Prepare for MA Sociology"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–8 years",
+      "steps": [
+        "Postgraduate studies",
+        "Policy or academic roles",
+        "Senior social research positions"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["BA Sociology"],
+    "mid_term": ["NGO / research role"],
+    "long_term": ["Policy or academic leader"]
+  },
+  "tips_for_success": [
+    "Field exposure matters",
+    "Research mindset is important",
+    "Higher education expands scope"
+  ]
+}

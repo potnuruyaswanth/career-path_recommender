@@ -1,0 +1,9 @@
+{
+  "id": "exam:upsc",
+  "type": "exam",
+  "display_name": "UPSC Civil Services Exam",
+  "requires": ["education:class_12", "course:ba_humanities"],
+  "leads_to": ["career:ias_officer", "career:ips_officer", "career:ifs_officer"],
+  "description": "Union Public Service Commission examination for recruiting civil servants. Conducted annually with prelims, mains, and interview stages.",
+  "metadata": { "source": ["official_exam_org"], "last_reviewed": "2026-01-14", "version": 1 }
+}

@@ -1,0 +1,20 @@
+{
+  "career_id": "ba_psychology",
+  "display_name": "BA Psychology",
+  "stream": "arts",
+  "variant": "psychology_based",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": ["ba_psychology"],
+  "exams_required": [],
+  "salary_band": {
+    "entry": "₹3–5 LPA",
+    "mid": "₹6–10 LPA",
+    "senior": "₹15+ LPA"
+  },
+  "failure_safe_paths": [
+    "MA Psychology",
+    "HR & training roles",
+    "Counseling certification"
+  ]
+}

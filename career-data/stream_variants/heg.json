@@ -1,0 +1,12 @@
+{
+  "id": "variant:heg",
+  "name": "HEG",
+  "full_name": "History – Economics – Geography",
+  "stream": "stream:arts",
+  "description": "Humanities variant combining economic understanding with spatial/earth studies for planning and geography careers.",
+  "course_eligibility": ["course:ba_geography", "course:ba_economics", "course:ba_humanities"],
+  "exam_options": ["exam:upsc", "exam:state_psc"],
+  "career_focus": ["Urban Planning", "GIS/Mapping", "Teaching"],
+  "recovery_options": ["Govt exams", "Open degree"],
+  "difficulty_level": "Medium"
+}

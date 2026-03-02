@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Career Node",
+  "type": "object",
+  "required": ["id", "type", "display_name"],
+  "properties": {
+    "id": { "type": "string" },
+    "type": { "type": "string", "enum": ["phase","education_level","stream","stream_variant","course","career","exam"] },
+    "display_name": { "type": "string" },
+    "short_description": { "type": "string" },
+    "attributes": { "type": "object" },
+    "subjects": { "type": "array", "items": { "type": "string" } },
+    "metadata": { "type": "object" },
+    "skills": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": true
+}

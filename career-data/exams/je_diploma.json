@@ -1,0 +1,7 @@
+{
+  "id": "exam:je_diploma",
+  "type": "exam",
+  "display_name": "Junior Engineer (Diploma Level)",
+  "attributes": { "level": "Technical Govt Exams", "eligibility": "Diploma (Polytechnic)" },
+  "metadata": { "source": ["design:team"], "last_reviewed": "2026-01-14", "version": 1 }
+}

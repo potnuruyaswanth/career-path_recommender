@@ -1,0 +1,40 @@
+{
+  "career_id": "anm",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1–3 months",
+      "steps": [
+        "Understand community health nursing",
+        "Confirm aptitude for patient care",
+        "Revise biology and hygiene basics"
+      ]
+    },
+    "career_entry": {
+      "duration": "2 years",
+      "steps": [
+        "Complete ANM program",
+        "Clinical rotations in PHCs",
+        "Learn maternal and child health",
+        "Follow safety and immunization protocols"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "4–7 years",
+      "steps": [
+        "Serve as senior ANM/health worker",
+        "Lead immunization/outreach programs",
+        "Transition to public health or supervisory roles"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["ANM qualification"],
+    "mid_term": ["Senior ANM"],
+    "long_term": ["Health supervisor/public health role"]
+  },
+  "tips_for_success": [
+    "Strong community communication skills",
+    "Follow protocols carefully",
+    "Document field work accurately"
+  ]
+}

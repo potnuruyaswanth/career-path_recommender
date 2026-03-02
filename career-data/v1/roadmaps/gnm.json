@@ -1,0 +1,40 @@
+{
+  "career_id": "gnm",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1–3 months",
+      "steps": [
+        "Review nursing scope",
+        "Assess comfort with patient care",
+        "Strengthen biology and hygiene basics"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete GNM course",
+        "Clinical rotations across departments",
+        "Master infection control and patient safety",
+        "Train on documentation and procedures"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "4–7 years",
+      "steps": [
+        "Staff nurse to senior nurse",
+        "Specialize (ICU/OT/ward)",
+        "Progress to nurse educator/manager"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["GNM qualification"],
+    "mid_term": ["Senior/staff nurse"],
+    "long_term": ["Nurse educator/manager"]
+  },
+  "tips_for_success": [
+    "Maintain empathy and patience",
+    "Adhere to safety protocols",
+    "Build teamwork and communication"
+  ]
+}

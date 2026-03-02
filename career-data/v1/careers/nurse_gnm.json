@@ -1,0 +1,22 @@
+{
+  "career_id": "nurse_gnm",
+  "display_name": "General Nursing and Midwifery (GNM)",
+  "stream": "science",
+  "variant": "bipc",
+  "status": "active",
+  "last_verified": "2025-12",
+  "entry_paths": [
+    "gnm"
+  ],
+  "exams_required": [],
+  "salary_band": {
+    "entry": "₹3–5 LPA",
+    "mid": "₹6–10 LPA",
+    "senior": "₹15+ LPA"
+  },
+  "failure_safe_paths": [
+    "ANM roles",
+    "Hospital technician roles",
+    "Upgrade to B.Sc Nursing"
+  ]
+}

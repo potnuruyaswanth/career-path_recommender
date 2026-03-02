@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+requests
+httpx
+openai
+networkx
+python-multipart
+pytest
+jsonschema

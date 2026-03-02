@@ -1,0 +1,12 @@
+{
+  "id": "variant:hpc",
+  "name": "HPC",
+  "full_name": "History – Political Science – Civics",
+  "stream": "stream:arts",
+  "description": "Humanities mix focused on history, political science, and civics for governance, politics, and public administration careers.",
+  "course_eligibility": ["course:ba_political_science", "course:ba_history", "course:ba_public_admin", "course:ba_humanities"],
+  "exam_options": ["exam:upsc", "exam:state_psc"],
+  "career_focus": ["Politics", "Public Administration", "Law (3-year LLB)", "Civil Services"],
+  "recovery_options": ["Govt Exams", "Political Consulting", "Media & Research"],
+  "difficulty_level": "Medium"
+}

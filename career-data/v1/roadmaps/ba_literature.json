@@ -1,0 +1,39 @@
+{
+  "career_id": "ba_literature",
+  "roadmap": {
+    "decision_preparation": {
+      "duration": "1 year",
+      "steps": [
+        "Develop deep reading habits",
+        "Improve writing and interpretation",
+        "Explore teaching or writing careers"
+      ]
+    },
+    "career_entry": {
+      "duration": "3 years",
+      "steps": [
+        "Complete BA Literature",
+        "Content writing or teaching assistance",
+        "Prepare for MA Literature"
+      ]
+    },
+    "growth_specialization": {
+      "duration": "5–8 years",
+      "steps": [
+        "Postgraduate studies",
+        "Academic or creative writing roles",
+        "Senior literary positions"
+      ]
+    }
+  },
+  "key_milestones": {
+    "short_term": ["BA completion"],
+    "mid_term": ["MA / content role"],
+    "long_term": ["Author / academic"]
+  },
+  "tips_for_success": [
+    "Writing practice is essential",
+    "Publishing builds credibility",
+    "Higher education strengthens career"
+  ]
+}
