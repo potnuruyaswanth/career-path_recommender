@@ -4,13 +4,13 @@
 
 <div align="center">
 
-### 🚀 [**Try Live Demo**](https://career-path-navigator-sobk.vercel.app) 🚀
+### 🚀 [**Try Live Demo**](https://career-pathrecommender.vercel.app) 🚀
 
-[![Deploy Status](https://img.shields.io/badge/deploy-active-brightgreen)](https://career-path-navigator-sobk.vercel.app)
-[![Backend](https://img.shields.io/badge/API-live-blue)](https://career-navigator-backend-7el6.onrender.com/docs)
+[![Deploy Status](https://img.shields.io/badge/deploy-active-brightgreen)](https://career-pathrecommender.vercel.app)
+[![Backend](https://img.shields.io/badge/API-live-blue)](https://career-path-recommender-hn69.onrender.com/docs)
 [![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
 
-**[Live App](https://career-path-navigator-sobk.vercel.app)** • **[API Docs](https://career-navigator-backend-7el6.onrender.com/docs)** • **[GitHub](https://github.com/potnuruyaswanth/career-path-recommender)**
+**[Live App](https://career-pathrecommender.vercel.app)** • **[API Docs](https://career-path-recommender-hn69.onrender.com/docs)** • **[GitHub](https://github.com/potnuruyaswanth/career-path-recommender)**
 
 </div>
 
@@ -31,7 +31,7 @@
 
 ### 🌐 **Use the Live App** (Recommended)
 
-👉 **Just visit:** [career-path-navigator-sobk.vercel.app](https://career-path-navigator-sobk.vercel.app)
+👉 **Just visit:** [career-pathrecommender.vercel.app](https://career-pathrecommender.vercel.app)
 
 No installation needed! The app is fully deployed and ready to use.
 
@@ -42,7 +42,7 @@ No installation needed! The app is fully deployed and ready to use.
 **Run frontend against deployed API:**
 ```bash
 set SKIP_BACKEND=1
-set VITE_API_BASE=https://career-navigator-backend-7el6.onrender.com
+set VITE_API_BASE=https://career-path-recommender-hn69.onrender.com
 start-all.bat
 ```
 
@@ -579,8 +579,8 @@ The Career Path Navigator is **live and running** with all features deployed:
 ✅ **Production-grade scalability (Vercel + Render)**
 
 ### 📊 Production Deployment Info
-- **Frontend Hosting**: Vercel (https://career-path-navigator-sobk.vercel.app)
-- **Backend Hosting**: Render (https://career-navigator-backend-7el6.onrender.com)
+- **Frontend Hosting**: Vercel (https://career-pathrecommender.vercel.app)
+- **Backend Hosting**: Render (https://career-path-recommender-hn69.onrender.com)
 - **Deployment**: Automatic via GitHub webhooks on every `main` branch push
 - **Environment Configuration**: Production URLs auto-loaded from `.env.production`
 - **Uptime**: 99.9% SLA (Vercel + Render services)
